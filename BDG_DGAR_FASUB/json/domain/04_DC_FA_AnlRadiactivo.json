@@ -1,0 +1,14 @@
+{
+ "type": "codedValue", 
+ "name": "04_DC_FA_AnlRadiactivo", 
+ "codedValues": [
+
+
+ 
+
+{"code":  "1" , "name": "Alfa Total" },
+
+{"code":  "2" , "name": "Beta Total" },
+
+{"code":  "3" , "name": "Presión Osmótica" } ]
+}

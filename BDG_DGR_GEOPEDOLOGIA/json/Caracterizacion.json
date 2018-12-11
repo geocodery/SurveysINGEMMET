@@ -1,0 +1,261 @@
+{
+  "displayFieldName": "",
+  "fieldAliases": {
+    "OBJECTID"     : "objectid",
+    "CODCAL"       : "Código Calicata",
+    "CODMTRA"      : "Código de muestra",
+    "HRZT"         : "Horizonte",
+    "ESP_HZT_CM"   : "Espesor Horizonte (cm)",
+    "VACUANT_PH"   : "Valor Cuantitativo (pH)",
+    "INTERP_PH"    : "Interpretacion de pH ",
+    "DSM_CE1"      : "dS/m C.E (1:1)",
+    "INT_CE1"      : "Interpretacion C.E (1:1) ",
+    "PORC_CACO3"   :  "% de CaCO3",
+    "INT_CACO3"    : "Interpretacion de CaCO3",
+    "PORC_MO"      :  "% de M.O",
+    "INT_MO"       : "Interpretacion de M.O ",
+    "PORC_CO"      : "Carbono orgánico %",
+    "PORC_PPM"     : "P (ppm)",
+    "INTER_P"      : "Interpretacion de P ",
+    "K_PPM"        : "K (ppm)",
+    "INTER_K"      : "Interpretacion de K ",
+    "PORC_ARGRA"   : "Arena (%) Granulometria",
+    "PORC_LIMGR"   : "Limo(%) Granulometria",
+    "PORC_ARCGR"   : "Arcilla (%) Granulometria",
+    "CLV_CLASTE"   : "Clave Clase textural",
+    "INT_CLASTE"   : "Interpretación Clase Textural",
+    "PERMEAB"      : "Permeabilidad",
+    "CIC_EFE"      : "CIC efectiva (meq/100g Suelo)",
+    "INTER_CIC"    : "Interpretación de CIC efectiva",
+    "CIC_ARC"      : "Cic Arcilla (meq/100g Suelo)",
+    "CCC_CA_2"     : "Ca +2 (meq/100g Suelo)",
+    "CCC_MG_2"     : "Mg+2 (meq/100g Suelo)",
+    "CCC_K_2"      : "K+ (meq/100g Suelo)",
+    "CCC_NA_2"     : "Na+ (meq/100g Suelo)",
+    "CCC_AL_3_H"   : "Al+3 +H* (meq/100g Suelo)",
+    "SUMA_CATIO"   : "Suma de Cationes (meq/100g Suelo)",
+    "SUMA_BASES"   : "Suma de Bases (meq/100g Suelo)",
+    "PORC_SABAS"   :  "% Sat. de Bases",
+    "INTER_SBAS"   : "Interpretación de Saturacion de bases",
+    "CIS"          : "Complejo de Intercambio Sodico (CIS)",
+    "CIMG"         : "Complejo de Intercambio Magnesico (CIMg)",
+    "CI_NA_MG"     : "Na +Mg"
+  },
+  "geometryType": "esriGeometryPoint",
+  "fields": [
+    {
+      "name": "OBJECTID",
+      "type": "esriFieldTypeOID",
+      "alias": "objectid"
+    },
+    {
+      "name": "CODCAL",
+      "type": "esriFieldTypeString",
+      "alias": "Código de Calicata",
+      "length": 12
+    },
+    {
+      "name": "CODMTRA",
+      "type": "esriFieldTypeString",
+      "alias": "Codigo de muestra",
+      "length": 14
+    },
+    {
+      "name": "HRZT",
+      "type": "esriFieldTypeString",
+      "alias": "Horizonte",
+      "length": 14
+    },
+    {
+      "name": "ESP_HZT_CM",
+      "type": "esriFieldTypeDouble",
+      "alias": "Espesor Horizonte (cm)"
+    },
+    {
+      "name": "VACUANT_PH",
+      "type": "esriFieldTypeDouble",
+      "alias": "Valor Cuantitativo (pH)"
+    },
+    {
+      "name": "INTERP_PH",
+      "type": "esriFieldTypeString",
+      "alias": "Interpretacion de pH ",
+      "length": 100
+    },
+    {
+      "name": "DSM_CE1",
+      "type": "esriFieldTypeDouble",
+      "alias": "dS/m C.E (1:1)"
+    },
+    {
+      "name": "INT_CE1",
+      "type": "esriFieldTypeString",
+      "alias": "Interpretacion C.E (1:1) ",
+      "length": 100
+    },
+    {
+      "name": "PORC_CACO3",
+      "type": "esriFieldTypeDouble",
+      "alias":  "% de CaCO3"
+    },
+    {
+      "name": "INT_CACO3",
+      "type": "esriFieldTypeString",
+      "alias": "Interpretacion de CaCO3",
+      "length": 100
+    },
+    {
+      "name": "PORC_MO",
+      "type": "esriFieldTypeDouble",
+      "alias":  "% de M.O"
+    },
+    {
+      "name": "INT_MO",
+      "type": "esriFieldTypeString",
+      "alias": "Interpretacion de M.O ",
+      "length": 100
+    },
+    {
+      "name": "PORC_CO",
+      "type": "esriFieldTypeDouble",
+      "alias": "Carbono orgánico %"
+    },
+    {
+      "name": "PORC_PPM",
+      "type": "esriFieldTypeDouble",
+      "alias": "P (ppm)"
+    },
+    {
+      "name": "INTER_P",
+      "type": "esriFieldTypeString",
+      "alias": "Interpretacion de P ",
+      "length": 100
+    },
+    {
+      "name": "K_PPM",
+      "type": "esriFieldTypeDouble",
+      "alias": "K (ppm)"
+    },
+    {
+      "name": "INTER_K",
+      "type": "esriFieldTypeString",
+      "alias": "Interpretacion de K ",
+      "length": 100
+    },
+    {
+      "name": "PORC_ARGRA",
+      "type": "esriFieldTypeDouble",
+      "alias": "Arena (%) Granulometria"
+    },
+    {
+      "name": "PORC_LIMGR",
+      "type": "esriFieldTypeDouble",
+      "alias": "Limo(%) Granulometria"
+    },
+    {
+      "name": "PORC_ARCGR",
+      "type": "esriFieldTypeDouble",
+      "alias": "Arcilla (%) Granulometria"
+    },
+    {
+      "name": "CLV_CLASTE",
+      "type": "esriFieldTypeString",
+      "alias": "Clave Clase textural",
+      "length": 20
+    },
+    {
+      "name": "INT_CLASTE",
+      "type": "esriFieldTypeString",
+      "alias": "Interpretación Clase Textural",
+      "length": 100
+    },
+    {
+      "name": "PERMEAB",
+      "type": "esriFieldTypeString",
+      "alias": "Permeabilidad",
+      "length": 100
+    },
+    {
+      "name": "CIC_EFE",
+      "type": "esriFieldTypeDouble",
+      "alias": "CIC efectiva (meq/100g Suelo)"
+    },
+    {
+      "name": "INTER_CIC",
+      "type": "esriFieldTypeString",
+      "alias": "Interpretación de CIC efectiva",
+      "length": 100
+    },
+    {
+      "name": "CIC_ARC",
+      "type": "esriFieldTypeDouble",
+      "alias": "Cic Arcilla (meq/100g Suelo)"
+    },
+    {
+      "name": "CCC_CA_2",
+      "type": "esriFieldTypeDouble",
+      "alias": "Ca +2 (meq/100g Suelo)"
+    },
+    {
+      "name": "CCC_MG_2",
+      "type": "esriFieldTypeDouble",
+      "alias": "Mg+2 (meq/100g Suelo)"
+    },
+    {
+      "name": "CCC_K_2",
+      "type": "esriFieldTypeDouble",
+      "alias": "K+ (meq/100g Suelo)"
+    },
+    {
+      "name": "CCC_NA_2",
+      "type": "esriFieldTypeDouble",
+      "alias": "Na+ (meq/100g Suelo)"
+    },
+    {
+      "name": "CCC_AL_3_H",
+      "type": "esriFieldTypeDouble",
+      "alias": "Al+3 +H* (meq/100g Suelo)"
+    },
+    {
+      "name": "SUMA_CATIO",
+      "type": "esriFieldTypeDouble",
+      "alias": "Suma de Cationes (meq/100g Suelo)"
+    },
+    {
+      "name": "SUMA_BASES",
+      "type": "esriFieldTypeDouble",
+      "alias": "Suma de Bases (meq/100g Suelo)"
+    },
+    {
+      "name": "PORC_SABAS",
+      "type": "esriFieldTypeDouble",
+      "alias":  "% Sat. de Bases"
+    },
+    {
+      "name": "INTER_SBAS",
+      "type": "esriFieldTypeString",
+      "alias": "Interpretación de Saturacion de bases",
+      "length": 100
+    },
+
+    {
+      "name": "CIS",
+      "type": "esriFieldTypeString",
+      "alias": "Complejo de Intercambio Sodico (CIS)",
+      "length": 10
+    },
+    {
+      "name": "CIMG",
+      "type": "esriFieldTypeString",
+      "alias": "Complejo de Intercambio Magnesico (CIMg)",
+      "length": 10
+    },
+    {
+      "name": "CI_NA_MG",
+      "type": "esriFieldTypeString",
+      "alias": "Na +Mg",
+      "length": 10
+    }
+  ],
+  "features": []
+}

@@ -1,0 +1,14 @@
+{
+ "type": "codedValue", 
+ "name": "04_DC_AnalisisMuestraPt", 
+ "codedValues": [
+
+
+ 
+
+{"code":  "SD" , "name": "Sección Delgada (SD)" },
+
+{"code":  "SP" , "name": "Sección Pulída (SP)" },
+
+{"code":  "SDP" , "name": "Sección Delgada y Púlida (SDP)" } ]
+}

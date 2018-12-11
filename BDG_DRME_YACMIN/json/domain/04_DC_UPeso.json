@@ -1,0 +1,22 @@
+{
+  "codedValues": [
+    {
+      "code": "Moz",
+      "name": "Moz"
+    },
+    {
+      "code": "Mt",
+      "name": "Mt"
+    },
+    {
+      "code": "oz",
+      "name": "oz"
+    },
+    {
+      "code": "t",
+      "name": "t"
+    }
+  ],
+  "name": "04_DC_UPeso",
+  "type": "codedValue"
+}

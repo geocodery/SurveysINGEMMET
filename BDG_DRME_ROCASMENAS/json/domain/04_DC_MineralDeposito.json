@@ -1,0 +1,26 @@
+{
+ "type": "codedValue", 
+ "name": "04_DC_MineralDeposito", 
+ "codedValues": [
+
+
+ 
+
+{"code":  "Anomalias" , "name": "Anomalias" },
+
+{"code":  "Cantera" , "name": "Cantera" },
+
+{"code":  "Deposito" , "name": "Depósito" },
+
+{"code":  "Mina" , "name": "Mina" },
+
+{"code":  "Ocurrencia" , "name": "Ocurrencia" },
+
+{"code":  "Prospecto" , "name": "Prospecto" },
+
+{"code":  "Proyecto" , "name": "Proyecto" },
+
+{"code":  "Yacimiento" , "name": "Yacimiento" },
+
+{"code":  "Otros" , "name": "Otros" } ]
+}

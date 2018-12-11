@@ -1,0 +1,4002 @@
+{
+  "codedValues": [
+    {
+      "code": "X1",
+      "name": "Abanico Pastaza"
+    },
+    {
+      "code": "X2",
+      "name": "Adamelita Pacococha"
+    },
+    {
+      "code": "X3",
+      "name": "Altiplano"
+    },
+    {
+      "code": "X4",
+      "name": "Altiplano Central"
+    },
+    {
+      "code": "Ti-an",
+      "name": "Andesita"
+    },
+    {
+      "code": "Taa",
+      "name": "Andesita de Cerro Aseruta"
+    },
+    {
+      "code": "Tas",
+      "name": "Andesita de Cerro Sahuarque"
+    },
+    {
+      "code": "PN-an",
+      "name": "Andesitas Subvolcánicas"
+    },
+    {
+      "code": "X6",
+      "name": "Batolito Andahuaylas - Yauri"
+    },
+    {
+      "code": "X7",
+      "name": "Batolito Andahuaylas - Yauri, Plutón Zurite (2º Etapa de Emplazamiento)"
+    },
+    {
+      "code": "X8",
+      "name": "Batolito Carabaya"
+    },
+    {
+      "code": "X9",
+      "name": "Batolito Carabaya -  Plutón Aricoma"
+    },
+    {
+      "code": "X5",
+      "name": "Batolito Carabaya - Granito Limacpampa"
+    },
+    {
+      "code": "X10",
+      "name": "Batolito Carabaya - Granito Limacpampa"
+    },
+    {
+      "code": "X11",
+      "name": "Batolito Cordillera Blanca"
+    },
+    {
+      "code": "X12",
+      "name": "Batolito Cordillera Blanca Sub Unidad Carhuish"
+    },
+    {
+      "code": "X13",
+      "name": "Batolito de Andahuaylas"
+    },
+    {
+      "code": "X14",
+      "name": "Batolito de Andahuaylas - Granodiorita Tintaya"
+    },
+    {
+      "code": "X15",
+      "name": "Batolito de Andahuaylas - Stock Pórfido Cuarcítico"
+    },
+    {
+      "code": "X16",
+      "name": "Batolito de Andahuaylas - Stock Pórfido Sienítico"
+    },
+    {
+      "code": "X17",
+      "name": "Batolito de Carabaya - Intrusivo San Rafael"
+    },
+    {
+      "code": "X18",
+      "name": "Batolito de Carabaya - Intrusivos San Rafael y  Quenamari"
+    },
+    {
+      "code": "X19",
+      "name": "Batolito de Carabaya - Plutón Coasa"
+    },
+    {
+      "code": "X20",
+      "name": "Batolito de Carabaya - Plutón Coasa -  Intruye Esquistos Paleozoicos"
+    },
+    {
+      "code": "X21",
+      "name": "Batolito de La Caldera"
+    },
+    {
+      "code": "X22",
+      "name": "Batolito de La Cordillera Blanca"
+    },
+    {
+      "code": "X23",
+      "name": "Batolito de La Cordillera Blanca  - Intrusivo al Este del Batolito"
+    },
+    {
+      "code": "X24",
+      "name": "Batolito de La Cordillera Blanca  - Intrusivo al Oeste del Batolito"
+    },
+    {
+      "code": "X25",
+      "name": "Batolito de la Costa"
+    },
+    {
+      "code": "X27",
+      "name": "Batolito de la Costa - Complejo Anular Quebrada Paros - Plutón La Mina"
+    },
+    {
+      "code": "X28",
+      "name": "Batolito de la Costa - Complejo Anular Rio Chancay -  Plutón Lumbre"
+    },
+    {
+      "code": "X29",
+      "name": "Batolito de la Costa - Complejo Centrado Chancay"
+    },
+    {
+      "code": "X30",
+      "name": "Batolito de la Costa - Complejo Centrado Huaura - Sub Unidad Cañas"
+    },
+    {
+      "code": "X31",
+      "name": "Batolito de la Costa - Complejo Centrado Huaura - Sub Unidad San Jerónimo"
+    },
+    {
+      "code": "X32",
+      "name": "Batolito de la Costa - Complejo Centrado Huaura - Unidad Sayán"
+    },
+    {
+      "code": "X33",
+      "name": "Batolito de la Costa - Complejo Fortaleza - Dique Anular Anta"
+    },
+    {
+      "code": "X34",
+      "name": "Batolito de la Costa - Complejo Fortaleza - Dique Anular Corcovado"
+    },
+    {
+      "code": "X35",
+      "name": "Batolito de la Costa - Dique de La Sub Unidad Santa Rosa, Unidad Humaya"
+    },
+    {
+      "code": "X36",
+      "name": "Batolito de la Costa - Dique Unidad Humaya"
+    },
+    {
+      "code": "X37",
+      "name": "Batolito de la Costa - Plutón  Atocongo"
+    },
+    {
+      "code": "X38",
+      "name": "Batolito de la Costa - Plutón  Pativilca"
+    },
+    {
+      "code": "X39",
+      "name": "Batolito de la Costa - Plutón Atocongo"
+    },
+    {
+      "code": "X40",
+      "name": "Batolito de la Costa - Plutón Cerro Muerto"
+    },
+    {
+      "code": "X41",
+      "name": "Batolito de la Costa - Plutón Híbrido"
+    },
+    {
+      "code": "X42",
+      "name": "Batolito de la Costa - Plutón Lachay"
+    },
+    {
+      "code": "X43",
+      "name": "Batolito de la Costa - Plutón Manchay"
+    },
+    {
+      "code": "X44",
+      "name": "Batolito de la Costa - Plutón Pacaybamba Es Igual A Plutones Jovenes Sub Unidad Santa Ro"
+    },
+    {
+      "code": "X45",
+      "name": "Batolito de la Costa - Plutón Pativilca"
+    },
+    {
+      "code": "X46",
+      "name": "Batolito de la Costa - Plutón Surco"
+    },
+    {
+      "code": "X47",
+      "name": "Batolito de la Costa - Plutón Surco - Dique Que Lo Intruye"
+    },
+    {
+      "code": "X48",
+      "name": "Batolito de la Costa - Segmento Arequipa"
+    },
+    {
+      "code": "X49",
+      "name": "Batolito de la Costa - Segmento Arequipa, Sub Unidad Catahuasi"
+    },
+    {
+      "code": "X50",
+      "name": "Batolito de la Costa - Segmento Arequipa, Sub Unidad Incahuasi"
+    },
+    {
+      "code": "X51",
+      "name": "Batolito de la Costa - Segmento Arequipa, Sub Unidad Linga"
+    },
+    {
+      "code": "X52",
+      "name": "Batolito de la Costa - Segmento Arequipa, Sub Unidad Linga -  Ica"
+    },
+    {
+      "code": "X53",
+      "name": "Batolito de la Costa - Segmento Arequipa, Sub Unidad Linga -  Plutón Quilmaná"
+    },
+    {
+      "code": "X54",
+      "name": "Batolito de la Costa - Segmento Arequipa, Sub Unidad Linga - Plutón Calderas"
+    },
+    {
+      "code": "X55",
+      "name": "Batolito de la Costa - Segmento Arequipa, Sub Unidad Pampahuasi"
+    },
+    {
+      "code": "X56",
+      "name": "Batolito de la Costa - Segmento Arequipa, Sub Unidad Tiabaya"
+    },
+    {
+      "code": "X57",
+      "name": "Batolito de la Costa - Segmento Arequipa, Sub Unidad Yarabamba"
+    },
+    {
+      "code": "X58",
+      "name": "Batolito de la Costa - Segmento Lima"
+    },
+    {
+      "code": "X68",
+      "name": "Batolito de la Costa - Segmento Lima - Plutón Pativilca"
+    },
+    {
+      "code": "X59",
+      "name": "Batolito de la Costa - Segmento Lima, Plutón Pariacoto"
+    },
+    {
+      "code": "X60",
+      "name": "Batolito de la Costa - Segmento Lima, Sub Unidad Humaya"
+    },
+    {
+      "code": "X61",
+      "name": "Batolito de la Costa - Segmento Lima, Sub Unidad Jecuan"
+    },
+    {
+      "code": "X62",
+      "name": "Batolito de la Costa - Segmento Lima, Sub Unidad Patap"
+    },
+    {
+      "code": "X63",
+      "name": "Batolito de la Costa - Segmento Lima, Sub Unidad Puscao, Unidad Tumaray"
+    },
+    {
+      "code": "X64",
+      "name": "Batolito de la Costa - Segmento Lima, Sub Unidad Santa Rosa"
+    },
+    {
+      "code": "X66",
+      "name": "Batolito de la Costa - Segmento Lima, Sub Unidad Santa Rosa - Plutón Sta. Eulalia"
+    },
+    {
+      "code": "X65",
+      "name": "Batolito de la Costa - Segmento Lima, Sub Unidad Santa Rosa, Complejo Huaura"
+    },
+    {
+      "code": "X67",
+      "name": "Batolito de la Costa - Segmento Lima, Unidad San Pedro"
+    },
+    {
+      "code": "X69",
+      "name": "Batolito de la Costa - Segmento Toquepala"
+    },
+    {
+      "code": "X71",
+      "name": "Batolito de la Costa - Segmento Toquepala, Sub Unidad Ilo"
+    },
+    {
+      "code": "X74",
+      "name": "Batolito de la Costa - Segmento Toquepala, Sub Unidad Ilo - Plutón Pampa de Huagri"
+    },
+    {
+      "code": "X72",
+      "name": "Batolito de la Costa - Segmento Toquepala, Sub Unidad Ilo Punta Coles"
+    },
+    {
+      "code": "X73",
+      "name": "Batolito de la Costa - Segmento Toquepala, Sub Unidad Ilo Yarabamba"
+    },
+    {
+      "code": "X75",
+      "name": "Batolito de la Costa - Segmento Toquepala, Sub Unidad Linga -  Arequipa"
+    },
+    {
+      "code": "X76",
+      "name": "Batolito de la Costa - Segmento Toquepala, Sub Unidad Punta Coles - Plutón Torconta"
+    },
+    {
+      "code": "X70",
+      "name": "Batolito de la Costa - Segmento Toquepala Sub Unidad Yarabamba"
+    },
+    {
+      "code": "X77",
+      "name": "Batolito de la Costa - Segmentotoquepala, Sub Unidad Ilo Linga y Yarabamba (Cerro  Verde"
+    },
+    {
+      "code": "X78",
+      "name": "Batolito de la Costa - Stock Piquenota (Al Este Del Batolito)"
+    },
+    {
+      "code": "X79",
+      "name": "Batolito de la Costa - Sub Unidad  Santa Rosa, Unidad Humaya"
+    },
+    {
+      "code": "X81",
+      "name": "Batolito de la Costa - Sub Unidad Cañas"
+    },
+    {
+      "code": "X80",
+      "name": "Batolito de la Costa - Sub Unidad Catahuasi"
+    },
+    {
+      "code": "X82",
+      "name": "Batolito de la Costa - Sub Unidad Cerro Verde"
+    },
+    {
+      "code": "X83",
+      "name": "Batolito de la Costa - Sub Unidad Ilo"
+    },
+    {
+      "code": "X84",
+      "name": "Batolito de la Costa - Sub Unidad Incahuasi"
+    },
+    {
+      "code": "X85",
+      "name": "Batolito de la Costa - Sub Unidad Jecuan"
+    },
+    {
+      "code": "X86",
+      "name": "Batolito de la Costa - Sub Unidad La Mina"
+    },
+    {
+      "code": "X87",
+      "name": "Batolito de la Costa - Sub Unidad La Mina - Stock San Miguel"
+    },
+    {
+      "code": "X88",
+      "name": "Batolito de la Costa - Sub Unidad Linga"
+    },
+    {
+      "code": "X89",
+      "name": "Batolito de la Costa - Sub Unidad Linga -  Arequipa"
+    },
+    {
+      "code": "X90",
+      "name": "Batolito de la Costa - Sub Unidad Paccho"
+    },
+    {
+      "code": "X91",
+      "name": "Batolito de la Costa - Sub Unidad Pampahuasi"
+    },
+    {
+      "code": "X92",
+      "name": "Batolito de la Costa - Sub Unidad Patap"
+    },
+    {
+      "code": "X93",
+      "name": "Batolito de la Costa - Sub Unidad Punta Coles"
+    },
+    {
+      "code": "X94",
+      "name": "Batolito de la Costa - Sub Unidad Punta Coles - Plutón Laderas"
+    },
+    {
+      "code": "X95",
+      "name": "Batolito de la Costa - Sub Unidad Puscao"
+    },
+    {
+      "code": "X96",
+      "name": "Batolito de la Costa - Sub Unidad Puscao - Plutón Chaquistambo"
+    },
+    {
+      "code": "X97",
+      "name": "Batolito de la Costa - Sub Unidad Puscao - Plutón Chasquitambo"
+    },
+    {
+      "code": "X98",
+      "name": "Batolito de la Costa - Sub Unidad San Jerónimo"
+    },
+    {
+      "code": "X99",
+      "name": "Batolito de la Costa - Sub Unidad Santa Rosa"
+    },
+    {
+      "code": "X102",
+      "name": "Batolito de la Costa - Sub Unidad Santa Rosa - Plutón Cayán"
+    },
+    {
+      "code": "X103",
+      "name": "Batolito de la Costa - Sub Unidad Santa Rosa - Plutón Cerro Muerto"
+    },
+    {
+      "code": "X104",
+      "name": "Batolito de la Costa - Sub Unidad Santa Rosa - Plutón Huaricanga"
+    },
+    {
+      "code": "X105",
+      "name": "Batolito de la Costa - Sub Unidad Santa Rosa - Plutón Moro"
+    },
+    {
+      "code": "X106",
+      "name": "Batolito de la Costa - Sub Unidad Santa Rosa - Plutón Pacaybamba"
+    },
+    {
+      "code": "X107",
+      "name": "Batolito de la Costa - Sub Unidad Santa Rosa - Plutón Purmacana"
+    },
+    {
+      "code": "X108",
+      "name": "Batolito de la Costa - Sub Unidad Santa Rosa - Unidad Coralillo"
+    },
+    {
+      "code": "X109",
+      "name": "Batolito de la Costa - Sub Unidad Santa Rosa - Unidad Humaya"
+    },
+    {
+      "code": "X110",
+      "name": "Batolito de la Costa - Sub Unidad Santa Rosa - Unidad Nepeña y Cauthuy"
+    },
+    {
+      "code": "X101",
+      "name": "Batolito de la Costa - Sub Unidad Santa Rosa, Facie Huaricanga"
+    },
+    {
+      "code": "X100",
+      "name": "Batolito de la Costa - Sub Unidad Santa Rosa Unidad Humaya"
+    },
+    {
+      "code": "X111",
+      "name": "Batolito de la Costa - Sub Unidad Sayán"
+    },
+    {
+      "code": "X112",
+      "name": "Batolito de la Costa - Sub Unidad Tiabaya"
+    },
+    {
+      "code": "X113",
+      "name": "Batolito de la Costa - Sub Unidad Yarabamba"
+    },
+    {
+      "code": "X114",
+      "name": "Batolito de la Costa - Sub Unidad Yarabamba - Stock Cerro Verde"
+    },
+    {
+      "code": "X115",
+      "name": "Batolito de la Costa - Unidad Cañas"
+    },
+    {
+      "code": "X116",
+      "name": "Batolito de la Costa - Unidad Paccho"
+    },
+    {
+      "code": "X117",
+      "name": "Batolito de la Costa - Unidad Pampahuasi"
+    },
+    {
+      "code": "X118",
+      "name": "Batolito de la Costa - Unidad Yarabamba"
+    },
+    {
+      "code": "X26",
+      "name": "Batolito de la Costa Segmento Arequipa, Sub Unidad Incahuasi"
+    },
+    {
+      "code": "X119",
+      "name": "Batolito de La Merced - Intruye Rocas Del Permiano Inferior"
+    },
+    {
+      "code": "X120",
+      "name": "Batolito de Marcapata"
+    },
+    {
+      "code": "X121",
+      "name": "Batolito de Pataz"
+    },
+    {
+      "code": "Pali-di/gd",
+      "name": "Batolito de Pataz "
+    },
+    {
+      "code": "X545",
+      "name": "Batolito de Pomahuaca"
+    },
+    {
+      "code": "X122",
+      "name": "Batolito de Quillabamba"
+    },
+    {
+      "code": "X123",
+      "name": "Batolito de Sacsacancha"
+    },
+    {
+      "code": "X124",
+      "name": "Batolito de Sacsacancha -  Stock"
+    },
+    {
+      "code": "X125",
+      "name": "Batolito de San Nicolas"
+    },
+    {
+      "code": "X126",
+      "name": "Batolito de San Nicolas - Plutón Cerro  Gallinazo"
+    },
+    {
+      "code": "X127",
+      "name": "Batolito de San Nicolas - Plutón Intruye A Fm. Marcona"
+    },
+    {
+      "code": "X128",
+      "name": "Batolito de San Nicolas - Plutón Laguna Flamenco"
+    },
+    {
+      "code": "X129",
+      "name": "Batolito de San Nicolas - Plutón Lomitas"
+    },
+    {
+      "code": "X130",
+      "name": "Batolito de San Nicolas - Plutón San Juan"
+    },
+    {
+      "code": "X131",
+      "name": "Batolito de San Ramon"
+    },
+    {
+      "code": "X132",
+      "name": "Batolito de Toquepala"
+    },
+    {
+      "code": "X133",
+      "name": "Batolito de Vilcabamba"
+    },
+    {
+      "code": "X134",
+      "name": "Batolito Sacsacancha -  Stock"
+    },
+    {
+      "code": "X135",
+      "name": "Camana Atico"
+    },
+    {
+      "code": "X569",
+      "name": "Cento Volcánico Alto Dorado"
+    },
+    {
+      "code": "X573",
+      "name": "Centro Volcánico Quesquenda"
+    },
+    {
+      "code": "X571",
+      "name": "Centro Volcánico Quinga"
+    },
+    {
+      "code": "X570",
+      "name": "Centro Volcánico Quiruvilca"
+    },
+    {
+      "code": "X572",
+      "name": "Centro Volcánico Totora"
+    },
+    {
+      "code": "X136",
+      "name": "Complejo Basal de la Costa"
+    },
+    {
+      "code": "X137",
+      "name": "Complejo Basal de la Costa - Complejo Majes  - Colca"
+    },
+    {
+      "code": "X138",
+      "name": "Complejo Basal de la Costa - Complejo Metamórfico de Omate"
+    },
+    {
+      "code": "X139",
+      "name": "Complejo Basal de la Costa - Facie Granulita Mollendo"
+    },
+    {
+      "code": "X140",
+      "name": "Complejo Basal de la Costa - Facie Granulítica"
+    },
+    {
+      "code": "X141",
+      "name": "Complejo Basal de la Costa - Rocas Metamórficas"
+    },
+    {
+      "code": "X582",
+      "name": "Complejo Bella Unión"
+    },
+    {
+      "code": "PE-co",
+      "name": "Complejo de Olmos"
+    },
+    {
+      "code": "X142",
+      "name": "Complejo Intrusivo"
+    },
+    {
+      "code": "Pe-i/gn,a,mi",
+      "name": "Complejo Iscabamba"
+    },
+    {
+      "code": "PE-cm",
+      "name": "Complejo Marañón"
+    },
+    {
+      "code": "X143",
+      "name": "Complejo Metamorfico de Marañon - Plutón de Balsas"
+    },
+    {
+      "code": "X144",
+      "name": "Complejo Sienita Nefelinica - Macusani (Intruye Gpo. Mitu)"
+    },
+    {
+      "code": "Ne-sy",
+      "name": "Complejo Volcánico Saycata"
+    },
+    {
+      "code": "Qh-ti",
+      "name": "Complejo Volcánico Ticsani"
+    },
+    {
+      "code": "X145",
+      "name": "Cordillera Occidental"
+    },
+    {
+      "code": "X146",
+      "name": "Cordillera Oriental"
+    },
+    {
+      "code": "Q-AL",
+      "name": "Cuaternario Aluvial"
+    },
+    {
+      "code": "Q-co",
+      "name": "Cuaternario Coluvial"
+    },
+    {
+      "code": "X147",
+      "name": "Cuello Volcánico Cerro Cayo Orjo"
+    },
+    {
+      "code": "X148",
+      "name": "Cuello Volcánico Dacita Mineralizada"
+    },
+    {
+      "code": "Ti-da",
+      "name": "Dacita del Terciario inferior"
+    },
+    {
+      "code": "Nm-har/da",
+      "name": "Dacitas Altoruri"
+    },
+    {
+      "code": "X150",
+      "name": "Dep. Fluvial Cuaternario"
+    },
+    {
+      "code": "Q-fl",
+      "name": "Dep. Fluviales"
+    },
+    {
+      "code": "Qph-fg",
+      "name": "Dep. Fluvioglacial"
+    },
+    {
+      "code": "Q-fg",
+      "name": "Dep. Fluvioglaciares"
+    },
+    {
+      "code": "Q-g",
+      "name": "Dep. Glaciares"
+    },
+    {
+      "code": "Q-la",
+      "name": "Dep. Lacustres"
+    },
+    {
+      "code": "Q-mo",
+      "name": "Dep. Morrenicos"
+    },
+    {
+      "code": "Qh-at",
+      "name": "Deposito aluvial.Terrazas"
+    },
+    {
+      "code": "PAL_44",
+      "name": "Depósitos aluviales"
+    },
+    {
+      "code": "Qh-bo",
+      "name": "Depósitos de Bofedal"
+    },
+    {
+      "code": "X149",
+      "name": "Depresión Crucero"
+    },
+    {
+      "code": "KTi-di",
+      "name": "Diorita"
+    },
+    {
+      "code": "PN-di",
+      "name": "Diorita"
+    },
+    {
+      "code": "KT-d-m",
+      "name": "Diorita Malingas "
+    },
+    {
+      "code": "X151",
+      "name": "Dique"
+    },
+    {
+      "code": "X178",
+      "name": "Dique -  Que Corta Una Ignimbrita"
+    },
+    {
+      "code": "X179",
+      "name": "Dique - Intruye  Batolito de la Costa - Sub Unidad Ilo"
+    },
+    {
+      "code": "X177",
+      "name": "Dique - Intruye Fm Jumasha"
+    },
+    {
+      "code": "X180",
+      "name": "Dique - Intruye Fm. Santa Bárbara"
+    },
+    {
+      "code": "X181",
+      "name": "Dique - Intruye Volcánico Julcani"
+    },
+    {
+      "code": "X182",
+      "name": "Dique - Que Corta Transversalmente Fm. Huaylillas"
+    },
+    {
+      "code": "X152",
+      "name": "Dique Acido Que Corta La Tonalita de  Batolito de la Costa"
+    },
+    {
+      "code": "X153",
+      "name": "Dique Acido Que Corta La Tonalita Del Batolito de la Costa"
+    },
+    {
+      "code": "X154",
+      "name": "Dique Algo Cloritizado"
+    },
+    {
+      "code": "X155",
+      "name": "Dique Basico Intruye - Fm. Chuntacalla"
+    },
+    {
+      "code": "X157",
+      "name": "Dique Bulolo - Nivel 300 - 1 Intruye Volcánico Julcani"
+    },
+    {
+      "code": "X158",
+      "name": "Dique Bulolo - Nivel 330 - 1 Intruye Volcánico Julcani"
+    },
+    {
+      "code": "X156",
+      "name": "Dique Bulolo Intruye Volcánico Julcani"
+    },
+    {
+      "code": "X159",
+      "name": "Dique Chosica Nivel 4400"
+    },
+    {
+      "code": "X160",
+      "name": "Dique Cometa Nivel 4250"
+    },
+    {
+      "code": "X162",
+      "name": "Dique Cuarzo Latita, Corta Aglomerado Rumillana"
+    },
+    {
+      "code": "X161",
+      "name": "Dique Cuarzo Latita (Cortado Por Cuerpo Sílice - Pirita)"
+    },
+    {
+      "code": "X163",
+      "name": "Dique Dacita, No Alterado de Hornblenda y Biotita"
+    },
+    {
+      "code": "X164",
+      "name": "Dique Dacita, No Alterado de Hornblenda y Biotita"
+    },
+    {
+      "code": "X165",
+      "name": "Dique Fastidiosa"
+    },
+    {
+      "code": "X166",
+      "name": "Dique Lamprófido"
+    },
+    {
+      "code": "X167",
+      "name": "Dique Norte Nivel 4400"
+    },
+    {
+      "code": "X176",
+      "name": "Dique, Perteneciente - Fm. Condorpuñuna"
+    },
+    {
+      "code": "X168",
+      "name": "Dique Porfirítico"
+    },
+    {
+      "code": "Tmd",
+      "name": "Dique Porfiritico y  stocks dentro de la caldera Chinchon"
+    },
+    {
+      "code": "X169",
+      "name": "Dique Post Mineralizacion"
+    },
+    {
+      "code": "X170",
+      "name": "Dique Pre Mineralizacion"
+    },
+    {
+      "code": "X171",
+      "name": "Dique Que Corta La Granodiorita"
+    },
+    {
+      "code": "X172",
+      "name": "Dique Riolítico"
+    },
+    {
+      "code": "X173",
+      "name": "Dique Rupay"
+    },
+    {
+      "code": "X174",
+      "name": "Dique Tentadora - Intruye Volcánico Julcani"
+    },
+    {
+      "code": "X175",
+      "name": "Dique Upd 4500"
+    },
+    {
+      "code": "X183",
+      "name": "Domo En Ticsani"
+    },
+    {
+      "code": "X184",
+      "name": "Domo Pórfido Monzonitico"
+    },
+    {
+      "code": "X185",
+      "name": "Enjambre de Venas de Cuarzo y Muscovita"
+    },
+    {
+      "code": "X186",
+      "name": "Enjambre de Venas de Qz y Muscovita"
+    },
+    {
+      "code": "NQ-pi/ap+tbx",
+      "name": "Estrato volcán Pinquillo"
+    },
+    {
+      "code": "X187",
+      "name": "Faja Sub Andina"
+    },
+    {
+      "code": "Fe",
+      "name": "Fe"
+    },
+    {
+      "code": "X188",
+      "name": "Flujo"
+    },
+    {
+      "code": "X189",
+      "name": "Flujo Basáltico"
+    },
+    {
+      "code": "X190",
+      "name": "Flujo Cenizas"
+    },
+    {
+      "code": "X191",
+      "name": "Flujo de Cenizas y Pómez"
+    },
+    {
+      "code": "X192",
+      "name": "Flujo Lávico"
+    },
+    {
+      "code": "X193",
+      "name": "Flujo Piroclástico, Rico En Líticos"
+    },
+    {
+      "code": "Nm-ac",
+      "name": "Fm. Acobamba"
+    },
+    {
+      "code": "X199",
+      "name": "Fm. Alpabamba"
+    },
+    {
+      "code": "Q-al",
+      "name": "Fm. Aluviales"
+    },
+    {
+      "code": "SD-a",
+      "name": "Fm. Ananea"
+    },
+    {
+      "code": "Np-an",
+      "name": "Fm. Andamarca"
+    },
+    {
+      "code": "Nm-an",
+      "name": "Fm. Aniso"
+    },
+    {
+      "code": "X200",
+      "name": "Fm. Anta - Conglomerado de Lapilli, Brecha Volcánico, Lava"
+    },
+    {
+      "code": "X201",
+      "name": "Fm. Apacheta - Dique Que Lo Corta"
+    },
+    {
+      "code": "PAL_1",
+      "name": "Fm. Apaicancha"
+    },
+    {
+      "code": "TrsJi-a",
+      "name": "Fm. Aramachay"
+    },
+    {
+      "code": "XXX",
+      "name": "Fm. Arcurquina"
+    },
+    {
+      "code": "Ki-ar",
+      "name": "Fm. Arcurquina"
+    },
+    {
+      "code": "Kis-ar",
+      "name": "Fm. Arcurquina, calizas grises"
+    },
+    {
+      "code": "KS-AS",
+      "name": "Fm. Ashua"
+    },
+    {
+      "code": "JsKi-a",
+      "name": "Fm. Asia"
+    },
+    {
+      "code": "PAL_2",
+      "name": "Fm. Ataspaca"
+    },
+    {
+      "code": "PAL_3",
+      "name": "Fm. Atocongo"
+    },
+    {
+      "code": "X202",
+      "name": "Fm. Auquivilca"
+    },
+    {
+      "code": "X203",
+      "name": "Fm. Auquivilca Base (Ver Bol. 44 Ingemmet)"
+    },
+    {
+      "code": "KsP-au",
+      "name": "Fm. Ausangate"
+    },
+    {
+      "code": "Kis-ay",
+      "name": "Fm. Ayabacas"
+    },
+    {
+      "code": "X204",
+      "name": "Fm. Ayacucho"
+    },
+    {
+      "code": "X205",
+      "name": "Fm. Ayacucho - Miembro  Pacaycasa"
+    },
+    {
+      "code": "Ks-ay",
+      "name": "Fm. Ayavacas"
+    },
+    {
+      "code": "X206",
+      "name": "Fm. Bagua - Miembro  Sambinera"
+    },
+    {
+      "code": "N-be",
+      "name": "Fm. Bellavista"
+    },
+    {
+      "code": "X207",
+      "name": "Fm. Bellavista - Cerca Al Tope"
+    },
+    {
+      "code": "X568",
+      "name": "Fm. Boquerón"
+    },
+    {
+      "code": "X208",
+      "name": "Fm. Bosque de Rocas - Ignimbritas"
+    },
+    {
+      "code": "X209",
+      "name": "Fm. Bosque de Rocas - Toba"
+    },
+    {
+      "code": "PAL_4",
+      "name": "Fm. Caballas"
+    },
+    {
+      "code": "PAL_5",
+      "name": "Fm. Cabo Blanco"
+    },
+    {
+      "code": "Jm-ca",
+      "name": "Fm. Cachios"
+    },
+    {
+      "code": "PAL_41",
+      "name": "Fm. Cachiyacu"
+    },
+    {
+      "code": "Ts-cj",
+      "name": "Fm. Cajabamba"
+    },
+    {
+      "code": "Ks-ca",
+      "name": "Fm. Cajamarca"
+    },
+    {
+      "code": "P-ca",
+      "name": "Fm. Cajaruro"
+    },
+    {
+      "code": "O-ca",
+      "name": "Fm. Calapuja"
+    },
+    {
+      "code": "PAL_43",
+      "name": "Fm. Camaná"
+    },
+    {
+      "code": "Qpl-ca",
+      "name": "Fm. Cañete"
+    },
+    {
+      "code": "X210",
+      "name": "Fm. Capillune"
+    },
+    {
+      "code": "X211",
+      "name": "Fm. Capillune ó Sencca"
+    },
+    {
+      "code": "Tm-c",
+      "name": "Fm. Cardalito"
+    },
+    {
+      "code": "Ki-c",
+      "name": "Fm. Carhuaz"
+    },
+    {
+      "code": "Ki-ca",
+      "name": "Fm. Carhuaz"
+    },
+    {
+      "code": "Te-c",
+      "name": "Fm. Carpitas"
+    },
+    {
+      "code": "Kti-ca",
+      "name": "Fm. Casapalca"
+    },
+    {
+      "code": "KTi-ca",
+      "name": "Fm. Casapalca"
+    },
+    {
+      "code": "JKi-c",
+      "name": "Fm. Casma"
+    },
+    {
+      "code": "X212",
+      "name": "Fm. Castrovirreyna"
+    },
+    {
+      "code": "X213",
+      "name": "Fm. Castrovirreyna Ceniza  ó Fm. Santa Barbara"
+    },
+    {
+      "code": "Nm-ca",
+      "name": "Fm. Caudalosa"
+    },
+    {
+      "code": "X214",
+      "name": "Fm. Caudalosa - Ignimbritas"
+    },
+    {
+      "code": "Ks-ce",
+      "name": "Fm. Celendin"
+    },
+    {
+      "code": "X215",
+      "name": "Fm. Cerro Canhuine  (Nueva Determinación)"
+    },
+    {
+      "code": "X216",
+      "name": "Fm. Cerro Canhuine (Nueva Determinación)"
+    },
+    {
+      "code": "X217",
+      "name": "Fm. Cerro Huancahuancane"
+    },
+    {
+      "code": "Pi-cn",
+      "name": "Fm. Cerro Negro"
+    },
+    {
+      "code": "Ps-cp",
+      "name": "Fm. Cerro Prieto"
+    },
+    {
+      "code": "X218",
+      "name": "Fm. Cerro Sumpiruni"
+    },
+    {
+      "code": "SD-ch",
+      "name": "Fm. Chagrapi"
+    },
+    {
+      "code": "X219",
+      "name": "Fm. Chala - Flujo de Lava"
+    },
+    {
+      "code": "X220",
+      "name": "Fm. Chala - Intrusivo Que Lo Corta"
+    },
+    {
+      "code": "C-chp",
+      "name": "Fm. Chaleco de Paño"
+    },
+    {
+      "code": "N-ch",
+      "name": "Fm. Chambara"
+    },
+    {
+      "code": "Po-ch",
+      "name": "Fm. Chambira"
+    },
+    {
+      "code": "PAL_6",
+      "name": "Fm. Chanumayo"
+    },
+    {
+      "code": "Ki-chi",
+      "name": "Fm. Chicama"
+    },
+    {
+      "code": "Km-chi",
+      "name": "Fm. Chignia"
+    },
+    {
+      "code": "PAL_7",
+      "name": "Fm. Chihuata"
+    },
+    {
+      "code": "Ki-chil",
+      "name": "Fm. Chilca"
+    },
+    {
+      "code": "PAL_8",
+      "name": "Fm. Chilcatay"
+    },
+    {
+      "code": "PAL_9",
+      "name": "Fm. Chilingote"
+    },
+    {
+      "code": "Ki-ch",
+      "name": "Fm. Chimu"
+    },
+    {
+      "code": "X547",
+      "name": "Fm. Chimú"
+    },
+    {
+      "code": "Ti-chi",
+      "name": "Fm. Chira"
+    },
+    {
+      "code": "Ji-cho",
+      "name": "Fm. Chocolate"
+    },
+    {
+      "code": "Kis-ch",
+      "name": "Fm. Chonta"
+    },
+    {
+      "code": "KTi-ch",
+      "name": "Fm. Chota"
+    },
+    {
+      "code": "X221",
+      "name": "Fm. Chota"
+    },
+    {
+      "code": "X222",
+      "name": "Fm. Chota ( Base )Vidrio No Soldado, y Tufo Riolítico Retrabajado"
+    },
+    {
+      "code": "X223",
+      "name": "Fm. Chota (Base)  - Tufo Retrabajado"
+    },
+    {
+      "code": "X224",
+      "name": "Fm. Chota (Base) - Tufo Retrabajado"
+    },
+    {
+      "code": "X225",
+      "name": "Fm. Chota, Miembro Rentema"
+    },
+    {
+      "code": "Km-ch",
+      "name": "Fm. Chulec"
+    },
+    {
+      "code": "Ki-chp",
+      "name": "Fm. Chulec"
+    },
+    {
+      "code": "X226",
+      "name": "Fm. Chuntacalla"
+    },
+    {
+      "code": "X227",
+      "name": "Fm. Chuntacalla - Ignimbritas"
+    },
+    {
+      "code": "Js-chu",
+      "name": "Fm. Chuquibambilla"
+    },
+    {
+      "code": "PAL_10",
+      "name": "Fm. Chuquicahuana"
+    },
+    {
+      "code": "Jm-ch",
+      "name": "Fm. Churumayo"
+    },
+    {
+      "code": "PAL_11",
+      "name": "Fm. Cocachacra"
+    },
+    {
+      "code": "D-co",
+      "name": "Fm. Concepcion"
+    },
+    {
+      "code": "Ts-co",
+      "name": "Fm. Condebamba"
+    },
+    {
+      "code": "Ji-co",
+      "name": "Fm. Condorsinga"
+    },
+    {
+      "code": "Nm-co/tbk",
+      "name": "Fm. Confital"
+    },
+    {
+      "code": "X548",
+      "name": "Fm. Contamaná"
+    },
+    {
+      "code": "O-c",
+      "name": "Fm. Contaya"
+    },
+    {
+      "code": "Ki-co",
+      "name": "Fm. Copara"
+    },
+    {
+      "code": "Kis-cr",
+      "name": "Fm. Crisnejas"
+    },
+    {
+      "code": "PN-m",
+      "name": "Fm. El Milagro"
+    },
+    {
+      "code": "X228",
+      "name": "Fm. El Milagro - Base Miembro   Superior"
+    },
+    {
+      "code": "X229",
+      "name": "Fm. El Milagro - Tope Del Miembro   Inferior"
+    },
+    {
+      "code": "X230",
+      "name": "Fm. El Milagro - Tope Del Miembro   Superior"
+    },
+    {
+      "code": "Ks-e",
+      "name": "Fm. Encuentros"
+    },
+    {
+      "code": "Ki-e",
+      "name": "Fm. Esperanza"
+    },
+    {
+      "code": "Ki-f",
+      "name": "Fm. Farrat"
+    },
+    {
+      "code": "Ki-fa",
+      "name": "Fm. Farrat"
+    },
+    {
+      "code": "Kis-fe",
+      "name": "Fm. Ferrobamba"
+    },
+    {
+      "code": "X231",
+      "name": "Fm. Fortaleza - Toba"
+    },
+    {
+      "code": "Ki-gi",
+      "name": "Fm. Gigantal"
+    },
+    {
+      "code": "Js-gr",
+      "name": "Fm. Gramadal"
+    },
+    {
+      "code": "Js-gu",
+      "name": "Fm. Guaneros"
+    },
+    {
+      "code": "X232",
+      "name": "Fm. Guaneros - Dique Que Lo Corta"
+    },
+    {
+      "code": "To-h",
+      "name": "Fm. Heath"
+    },
+    {
+      "code": "PAL_12",
+      "name": "Fm. Herradura"
+    },
+    {
+      "code": "Ts-ho",
+      "name": "Fm. Hornillos"
+    },
+    {
+      "code": "Ki-hu",
+      "name": "Fm. Hualhuani"
+    },
+    {
+      "code": "X233",
+      "name": "Fm. Huambo"
+    },
+    {
+      "code": "X235",
+      "name": "Fm. Huambo - (Base) Flujo de Ceniza"
+    },
+    {
+      "code": "X236",
+      "name": "Fm. Huambo - Flujo de Ceniza"
+    },
+    {
+      "code": "X234",
+      "name": "Fm. Huambo, Secuencia Mas Joven"
+    },
+    {
+      "code": "X237",
+      "name": "Fm. Huanca"
+    },
+    {
+      "code": "X238",
+      "name": "Fm. Huanta"
+    },
+    {
+      "code": "PAL_13",
+      "name": "Fm. Huarangal"
+    },
+    {
+      "code": "Ks-hu",
+      "name": "Fm. Huaranguillo"
+    },
+    {
+      "code": "Ks-hua",
+      "name": "Fm. Huasimal"
+    },
+    {
+      "code": "Ti-hu",
+      "name": "Fm. Huaylas"
+    },
+    {
+      "code": "X239",
+      "name": "Fm. Huaylillas"
+    },
+    {
+      "code": "X241",
+      "name": "Fm. Huaylillas - Ignimbritas"
+    },
+    {
+      "code": "X242",
+      "name": "Fm. Huaylillas - Tufo"
+    },
+    {
+      "code": "X240",
+      "name": "Fm. Huaylillas ó Fm. Tacaza"
+    },
+    {
+      "code": "X243",
+      "name": "Fm. Huilacollo"
+    },
+    {
+      "code": "X244",
+      "name": "Fm. Huilacollo - Aglomerados y Tufos"
+    },
+    {
+      "code": "NM-ICH",
+      "name": "Fm. Ichocollo"
+    },
+    {
+      "code": "Ki-i",
+      "name": "Fm. Inca"
+    },
+    {
+      "code": "Km-i",
+      "name": "Fm. Inca"
+    },
+    {
+      "code": "Ki-ich",
+      "name": "Fm. Inca - Chulec"
+    },
+    {
+      "code": "Km-ichp",
+      "name": "Fm. Inca - Chulec - Pariatambo"
+    },
+    {
+      "code": "Oi-i",
+      "name": "Fm. Iparo"
+    },
+    {
+      "code": "N-i",
+      "name": "Fm. Ipururo"
+    },
+    {
+      "code": "Js-ja",
+      "name": "Fm. Jahuay"
+    },
+    {
+      "code": "X245",
+      "name": "Fm. Jama Jama"
+    },
+    {
+      "code": "Ks-ju",
+      "name": "Fm. Jumasha"
+    },
+    {
+      "code": "Ks-j",
+      "name": "Fm. Jumasha"
+    },
+    {
+      "code": "Tr-l",
+      "name": "Fm. La Leche"
+    },
+    {
+      "code": "NQ-lm",
+      "name": "Fm. La Merced"
+    },
+    {
+      "code": "Ks-m",
+      "name": "Fm. La Mesa"
+    },
+    {
+      "code": "Ki-z",
+      "name": "Fm. La Zorra"
+    },
+    {
+      "code": "Js-la",
+      "name": "Fm. Labra"
+    },
+    {
+      "code": "X195",
+      "name": "Fm. Lago Perhuacarca (Nueva Determinación)"
+    },
+    {
+      "code": "PAL_14",
+      "name": "Fm. Lagunillas"
+    },
+    {
+      "code": "SD-la",
+      "name": "Fm. Lampa"
+    },
+    {
+      "code": "X246",
+      "name": "Fm. Lavasen"
+    },
+    {
+      "code": "X247",
+      "name": "Fm. Llallahui"
+    },
+    {
+      "code": "X248",
+      "name": "Fm. Llama"
+    },
+    {
+      "code": "X249",
+      "name": "Fm. Llama - Material Volcanoclástico"
+    },
+    {
+      "code": "PAL_15",
+      "name": "Fm. Lucre"
+    },
+    {
+      "code": "PAL_16",
+      "name": "Fm. Lumaque"
+    },
+    {
+      "code": "X250",
+      "name": "Fm. Madre de Dios"
+    },
+    {
+      "code": "X251",
+      "name": "Fm. Madre de Dios - Miembro Conglomerado Acre"
+    },
+    {
+      "code": "To-m",
+      "name": "Fm. Máncora"
+    },
+    {
+      "code": "PAL_17",
+      "name": "Fm. Marcavilca"
+    },
+    {
+      "code": "PAL_18",
+      "name": "Fm. Marco"
+    },
+    {
+      "code": "X252",
+      "name": "Fm. Marcona"
+    },
+    {
+      "code": "Ki-ma",
+      "name": "Fm. Matalaque"
+    },
+    {
+      "code": "N-m",
+      "name": "Fm. Maure"
+    },
+    {
+      "code": "X253",
+      "name": "Fm. Millo"
+    },
+    {
+      "code": "Tms-mi",
+      "name": "Fm. Miramar"
+    },
+    {
+      "code": "Tm-mo",
+      "name": "Fm. Montera"
+    },
+    {
+      "code": "Nm-mo",
+      "name": "Fm. Moquegua"
+    },
+    {
+      "code": "X254",
+      "name": "Fm. Moquegua  Miembro   Superior"
+    },
+    {
+      "code": "X255",
+      "name": "Fm. Moquegua  Superior"
+    },
+    {
+      "code": "X256",
+      "name": "Fm. Moquegua  Superior -  Ignimbritas"
+    },
+    {
+      "code": "X257",
+      "name": "Fm. Moquegua  Superior - Ignimbritas"
+    },
+    {
+      "code": "Ki-m",
+      "name": "Fm. Muerto"
+    },
+    {
+      "code": "Ki-mp",
+      "name": "Fm. Muerto-Pananga"
+    },
+    {
+      "code": "PAL_19",
+      "name": "Fm. Mujarrón"
+    },
+    {
+      "code": "Ksp-mu",
+      "name": "Fm. Muñani"
+    },
+    {
+      "code": "Ki-mu",
+      "name": "Fm. Murco"
+    },
+    {
+      "code": "X258",
+      "name": "Fm. Nazca"
+    },
+    {
+      "code": "Np-m",
+      "name": "Fm. Numpatkay"
+    },
+    {
+      "code": "C-o",
+      "name": "Fm. Ollantaytambo"
+    },
+    {
+      "code": "Km-om",
+      "name": "Fm. Omate"
+    },
+    {
+      "code": "KsP-o",
+      "name": "Fm. Ongoy"
+    },
+    {
+      "code": "X259",
+      "name": "Fm. Orcopampa"
+    },
+    {
+      "code": "X260",
+      "name": "Fm. Orcopampa - Coetánea Con Gpo. Tacaza"
+    },
+    {
+      "code": "X261",
+      "name": "Fm. Orcopampa - Tufo Chilcaimarca"
+    },
+    {
+      "code": "X262",
+      "name": "Fm. Orcopampa - Tufo Pisaca"
+    },
+    {
+      "code": "JsKi-o",
+      "name": "Fm. Oyón"
+    },
+    {
+      "code": "Ki-o",
+      "name": "Fm. Oyón"
+    },
+    {
+      "code": "Jm-o",
+      "name": "Fm. Oyotun"
+    },
+    {
+      "code": "X196",
+      "name": "Fm. Pachachaca (Nueva Determinación)"
+    },
+    {
+      "code": "Ki-pa1",
+      "name": "Fm. Pamplona"
+    },
+    {
+      "code": "Ki-p",
+      "name": "Fm. Pananga"
+    },
+    {
+      "code": "Ti-pa",
+      "name": "Fm. Para"
+    },
+    {
+      "code": "PAL_45",
+      "name": "Fm. Paracas"
+    },
+    {
+      "code": "Ki-ph",
+      "name": "Fm. Pariahuanca"
+    },
+    {
+      "code": "Ki-pa",
+      "name": "Fm. Pariatambo"
+    },
+    {
+      "code": "Km-pa",
+      "name": "Fm. Pariatambo"
+    },
+    {
+      "code": "PAL_20",
+      "name": "Fm. Pataz"
+    },
+    {
+      "code": "Ks-pa",
+      "name": "Fm. Pazúl"
+    },
+    {
+      "code": "N-p",
+      "name": "Fm. Pebas"
+    },
+    {
+      "code": "Ji-pe",
+      "name": "Fm. Pelado"
+    },
+    {
+      "code": "Tim-p",
+      "name": "Fm. Pichu"
+    },
+    {
+      "code": "X197",
+      "name": "Fm. Pisco"
+    },
+    {
+      "code": "X263",
+      "name": "Fm. Pisco - Miembro Inferior"
+    },
+    {
+      "code": "PAL_21",
+      "name": "Fm. Piste"
+    },
+    {
+      "code": "PAL_22",
+      "name": "Fm. Pocobamba"
+    },
+    {
+      "code": "Kis-po",
+      "name": "Fm. Portachuelo"
+    },
+    {
+      "code": "P-p",
+      "name": "Fm. Pozo"
+    },
+    {
+      "code": "X264",
+      "name": "Fm. Pucalacaya"
+    },
+    {
+      "code": "Trji-p",
+      "name": "Fm. Pucara"
+    },
+    {
+      "code": "Ki-pu",
+      "name": "Fm. Pucusana"
+    },
+    {
+      "code": "Jm-pu",
+      "name": "Fm. Puente"
+    },
+    {
+      "code": "Jms-pu",
+      "name": "Fm. Puente"
+    },
+    {
+      "code": "Ki-pi",
+      "name": "Fm. Puente Inga"
+    },
+    {
+      "code": "PAL_40",
+      "name": "Fm. Puente Piedra"
+    },
+    {
+      "code": "Ks-pu",
+      "name": "Fm. Puquín"
+    },
+    {
+      "code": "Oi-p",
+      "name": "Fm. Purumpata"
+    },
+    {
+      "code": "X265",
+      "name": "Fm. Quebrada Escalera"
+    },
+    {
+      "code": "Kis-q",
+      "name": "Fm. Quilmana"
+    },
+    {
+      "code": "PAL_23",
+      "name": "Fm. Quircas"
+    },
+    {
+      "code": "Js-rg",
+      "name": "Fm. Río grande"
+    },
+    {
+      "code": "X266",
+      "name": "Fm. Rio Grande - Flujo Basáltico"
+    },
+    {
+      "code": "Pi-rs",
+      "name": "Fm. Río Seco"
+    },
+    {
+      "code": "PAL_24",
+      "name": "Fm. Romiron"
+    },
+    {
+      "code": "Ki-r",
+      "name": "Fm. Rosa"
+    },
+    {
+      "code": "X267",
+      "name": "Fm. Rumichaca"
+    },
+    {
+      "code": "X270",
+      "name": "Fm. Rumichaca - Miembro  Inferior"
+    },
+    {
+      "code": "X268",
+      "name": "Fm. Rumichaca  (Narváez La Denominó Fm. Acobamba - Gpo. Rumichaca)"
+    },
+    {
+      "code": "X269",
+      "name": "Fm. Rumichaca ó Fm. Castrovirreyna"
+    },
+    {
+      "code": "X271",
+      "name": "Fm. Rumihuasi - Toba"
+    },
+    {
+      "code": "X272",
+      "name": "Fm. Sacsaquero"
+    },
+    {
+      "code": "Pi-s",
+      "name": "Fm. Salas"
+    },
+    {
+      "code": "Tp-s",
+      "name": "Fm. Salinas"
+    },
+    {
+      "code": "X273",
+      "name": "Fm. Sallalli"
+    },
+    {
+      "code": "X274",
+      "name": "Fm. Sallalli - Fm. Larampuquio"
+    },
+    {
+      "code": "Ki-sf",
+      "name": "Fm. Salto del Fraile"
+    },
+    {
+      "code": "Ki-h",
+      "name": "Fm. San Francisco"
+    },
+    {
+      "code": "Ti-sj",
+      "name": "Fm. San José"
+    },
+    {
+      "code": "X275",
+      "name": "Fm. San Juan"
+    },
+    {
+      "code": "X276",
+      "name": "Fm. San Pedro"
+    },
+    {
+      "code": "PAL_25",
+      "name": "Fm. San Salvador"
+    },
+    {
+      "code": "Q-sa",
+      "name": "Fm. San Sebastian"
+    },
+    {
+      "code": "Os-s",
+      "name": "Fm. Sandia"
+    },
+    {
+      "code": "PAL_26",
+      "name": "Fm. Sangarara"
+    },
+    {
+      "code": "Ki-s",
+      "name": "Fm. Santa"
+    },
+    {
+      "code": "Ki-sa",
+      "name": "Fm. Santa"
+    },
+    {
+      "code": "KI-SACA",
+      "name": "Fm. Santa - Carhuaz"
+    },
+    {
+      "code": "X279",
+      "name": "Fm. Santa Barbara - Domo Jatun Calvario"
+    },
+    {
+      "code": "X277",
+      "name": "Fm. Santa Barbara Miembro   Superior"
+    },
+    {
+      "code": "X278",
+      "name": "Fm. Santa Barbara Miembro Inferior"
+    },
+    {
+      "code": "Js-sa",
+      "name": "Fm. Sarayaquillo"
+    },
+    {
+      "code": "Ks-se",
+      "name": "Fm. Seraj"
+    },
+    {
+      "code": "Kspp-so",
+      "name": "Fm. Soccos"
+    },
+    {
+      "code": "Jim-so",
+      "name": "Fm. Socosani"
+    },
+    {
+      "code": "Jm-so",
+      "name": "Fm. Socosani"
+    },
+    {
+      "code": "Ki-so",
+      "name": "Fm. Soraya"
+    },
+    {
+      "code": "X280",
+      "name": "Fm. Suratira"
+    },
+    {
+      "code": "PAL_27",
+      "name": "Fm. Suta"
+    },
+    {
+      "code": "Qp-tl",
+      "name": "Fm. Tablazo Lobitos"
+    },
+    {
+      "code": "Qp-tm",
+      "name": "Fm. Tablazo Mancora"
+    },
+    {
+      "code": "Qp-tt",
+      "name": "Fm. Tablazo Talara"
+    },
+    {
+      "code": "Ks-ta",
+      "name": "Fm. Tablones"
+    },
+    {
+      "code": "X281",
+      "name": "Fm. Tacaza - Tufo Sibayo"
+    },
+    {
+      "code": "X282",
+      "name": "Fm. Tacaza - Tufo Subacuoso"
+    },
+    {
+      "code": "Te-t",
+      "name": "Fm. Talara"
+    },
+    {
+      "code": "Kspp-ta",
+      "name": "Fm. Tambo"
+    },
+    {
+      "code": "TQ-tg",
+      "name": "Fm. Tambo Grande"
+    },
+    {
+      "code": "PAL_28",
+      "name": "Fm. Tambo María"
+    },
+    {
+      "code": "P-tt",
+      "name": "Fm. Tantará"
+    },
+    {
+      "code": "X283",
+      "name": "Fm. Tantará - Dique Que Lo Corta"
+    },
+    {
+      "code": "Pp-nt",
+      "name": "Fm. Tarma"
+    },
+    {
+      "code": "X284",
+      "name": "Fm. Tiabaya"
+    },
+    {
+      "code": "JKi-t",
+      "name": "Fm. Tinajones"
+    },
+    {
+      "code": "ks-t",
+      "name": "Fm. Tortuga"
+    },
+    {
+      "code": "Tm-t",
+      "name": "Fm. Tumbes"
+    },
+    {
+      "code": "Qpl-u",
+      "name": "Fm. Ucayali"
+    },
+    {
+      "code": "PAL_29",
+      "name": "Fm. Ulcumano"
+    },
+    {
+      "code": "X198",
+      "name": "Fm. Umayo"
+    },
+    {
+      "code": "PAL_30",
+      "name": "Fm. Urcos"
+    },
+    {
+      "code": "PAL_31",
+      "name": "Fm. Utcubamba"
+    },
+    {
+      "code": "PAL_32",
+      "name": "Fm. Ventanilla"
+    },
+    {
+      "code": "Te-v",
+      "name": "Fm. Verdum"
+    },
+    {
+      "code": "PAL_42",
+      "name": "Fm. Vilquechico"
+    },
+    {
+      "code": "Nm-vi",
+      "name": "Fm. Viscachas"
+    },
+    {
+      "code": "Ks-vi",
+      "name": "Fm. Vivian"
+    },
+    {
+      "code": "XWWW",
+      "name": "Fm. xwww"
+    },
+    {
+      "code": "PN-ya",
+      "name": "Fm. Yahuarango"
+    },
+    {
+      "code": "D-ya",
+      "name": "Fm. Yamayo"
+    },
+    {
+      "code": "PAL_33",
+      "name": "Fm. Yangas"
+    },
+    {
+      "code": "Ki-ya",
+      "name": "Fm. Yauca"
+    },
+    {
+      "code": "PAL_34",
+      "name": "Fm. Yauli"
+    },
+    {
+      "code": "T-Y",
+      "name": "Fm. Yauri"
+    },
+    {
+      "code": "PAL_35",
+      "name": "Fm. Yumaque"
+    },
+    {
+      "code": "X285",
+      "name": "Fm. Yungay"
+    },
+    {
+      "code": "X286",
+      "name": "Fm. Yungay - Ignimbritas"
+    },
+    {
+      "code": "Tm-za",
+      "name": "Fm. Zapallal"
+    },
+    {
+      "code": "Os-z",
+      "name": "Fm. Zapla"
+    },
+    {
+      "code": "Tm-z",
+      "name": "Fm. Zorritos"
+    },
+    {
+      "code": "X287",
+      "name": "Fm..Chuntacalla"
+    },
+    {
+      "code": "Ki-ichp",
+      "name": "Fms. Inca, Chulec, Pariat"
+    },
+    {
+      "code": "Ks-pq",
+      "name": "Fms. Pulluicana - Quilquiñán "
+    },
+    {
+      "code": "X194",
+      "name": "Fonolita, Stock"
+    },
+    {
+      "code": "Te-chv",
+      "name": "Formación Chira-Verdun "
+    },
+    {
+      "code": "N-in",
+      "name": "Formación Inguilpata"
+    },
+    {
+      "code": "kis-jc",
+      "name": "Formación Jumasha Celendin"
+    },
+    {
+      "code": "Kis-Pchp",
+      "name": "Formación Pariahuanca, Chulec - Pariatmabo"
+    },
+    {
+      "code": "X574",
+      "name": "Formación San Pablo"
+    },
+    {
+      "code": "Js-sv",
+      "name": "Formación Savila"
+    },
+    {
+      "code": "NQ-ta",
+      "name": "Formación Tamborapa  "
+    },
+    {
+      "code": "KS-YU",
+      "name": "Formación Yumagual"
+    },
+    {
+      "code": "Ks-gb",
+      "name": "Gabrodiorita Lomas"
+    },
+    {
+      "code": "KT-g",
+      "name": "Gabros Las Lomas "
+    },
+    {
+      "code": "X288",
+      "name": "Ganga Anfibolítica"
+    },
+    {
+      "code": "X289",
+      "name": "Gneiss Anfibolítico"
+    },
+    {
+      "code": "X544",
+      "name": "Gpo. Ambo"
+    },
+    {
+      "code": "X301",
+      "name": "Gpo. Ampato"
+    },
+    {
+      "code": "X303",
+      "name": "Gpo. Ampato - Fm. Inca Lava"
+    },
+    {
+      "code": "X302",
+      "name": "Gpo. Ampato - Fm. Inca (Lava Basal Ahuashune)"
+    },
+    {
+      "code": "X304",
+      "name": "Gpo. Andahua"
+    },
+    {
+      "code": "X305",
+      "name": "Gpo. Andahua - Colada Lávica"
+    },
+    {
+      "code": "X306",
+      "name": "Gpo. Andahua - Lava"
+    },
+    {
+      "code": "X307",
+      "name": "Gpo. Andahua - Lava Reciente"
+    },
+    {
+      "code": "X308",
+      "name": "Gpo. Barroso"
+    },
+    {
+      "code": "X309",
+      "name": "Gpo. Barroso - Centro Volcánico Cacachacra"
+    },
+    {
+      "code": "NQ-mal",
+      "name": "Gpo. Barroso - Complejo volcánico Malmanya"
+    },
+    {
+      "code": "NQ-vi",
+      "name": "Gpo. Barroso - Complejo volcánico Vilcarani"
+    },
+    {
+      "code": "X310",
+      "name": "Gpo. Barroso - Fm. Casamiento"
+    },
+    {
+      "code": "X311",
+      "name": "Gpo. Barroso - Fm. Confital"
+    },
+    {
+      "code": "X312",
+      "name": "Gpo. Barroso - Fm. Inferior - Lava"
+    },
+    {
+      "code": "X313",
+      "name": "Gpo. Barroso - Fm. Pata Pampa"
+    },
+    {
+      "code": "X314",
+      "name": "Gpo. Barroso - Fm. Puto Puto"
+    },
+    {
+      "code": "X315",
+      "name": "Gpo. Barroso - Fm. Umayo"
+    },
+    {
+      "code": "X316",
+      "name": "Gpo. Barroso - Ignimbrita"
+    },
+    {
+      "code": "X317",
+      "name": "Gpo. Barroso - Ignimbrita Acopata"
+    },
+    {
+      "code": "X318",
+      "name": "Gpo. Barroso - Ignimbritas"
+    },
+    {
+      "code": "X319",
+      "name": "Gpo. Barroso - Inferior"
+    },
+    {
+      "code": "X320",
+      "name": "Gpo. Barroso - Lava"
+    },
+    {
+      "code": "X321",
+      "name": "Gpo. Barroso - Miembro Inferior"
+    },
+    {
+      "code": "X322",
+      "name": "Gpo. Barroso - Miembro Inferior (Volcánico Chila)"
+    },
+    {
+      "code": "X323",
+      "name": "Gpo. Barroso - Miembro Superior"
+    },
+    {
+      "code": "X324",
+      "name": "Gpo. Barroso - Sillar Blanco"
+    },
+    {
+      "code": "X325",
+      "name": "Gpo. Barroso - Tope"
+    },
+    {
+      "code": "X326",
+      "name": "Gpo. Barroso - Tope ó Gpo. Ampato"
+    },
+    {
+      "code": "X327",
+      "name": "Gpo. Barroso - Tufo de Ceniza, Centro Volcánico Cacachacra"
+    },
+    {
+      "code": "X328",
+      "name": "Gpo. Barroso - Volcánico Chila"
+    },
+    {
+      "code": "X329",
+      "name": "Gpo. Barroso - Volcánico Umaya - Lava"
+    },
+    {
+      "code": "X330",
+      "name": "Gpo. Barroso - Volcánico Umayo - Lava"
+    },
+    {
+      "code": "PN-bay/p/qu-gd",
+      "name": "Unidad Progreso - Plutón Quello – granodiorita"
+    },
+    {
+      "code": "Di-c",
+      "name": "Gpo. Cabanillas"
+    },
+    {
+      "code": "Ti-vsp",
+      "name": "Gpo. Calipuy - Volcánico San Pablo"
+    },
+    {
+      "code": "X331",
+      "name": "Gpo. Calipuy O Volcánico Huambo - Brecha Pipe Cerca Al Deposito Noemia - Edad de Alteraci"
+    },
+    {
+      "code": "KI-CA",
+      "name": "Gpo. Casma"
+    },
+    {
+      "code": "X583",
+      "name": "Volcánico Quenamari – Miembro Chacacuniza"
+    },
+    {
+      "code": "PN-bay/cot/cu-mz",
+      "name": "Unidad Cotabambas - Plutón Curahuasi – monzonita"
+    },
+    {
+      "code": "K-CA",
+      "name": "Gpo. Casma"
+    },
+    {
+      "code": "PN-bay/cot/co-tn",
+      "name": "Unidad Cotabambas - Plutón Colca – tonalita"
+    },
+    {
+      "code": "Pi-co",
+      "name": "Gpo. Copacabana"
+    },
+    {
+      "code": "Nm-oc",
+      "name": "Centro volcánico Ocaque"
+    },
+    {
+      "code": "X549",
+      "name": "Gpo. Excelsior"
+    },
+    {
+      "code": "PN-bay/cot/cu-di",
+      "name": "Unidad Cotabambas - Plutón Curahuasi – diorita"
+    },
+    {
+      "code": "Ki-g",
+      "name": "Gpo. Goyllarisquizga"
+    },
+    {
+      "code": "X332",
+      "name": "Gpo. Huachocolpa - Fm. Apacheta - Centro Volcánico Tinqui"
+    },
+    {
+      "code": "X333",
+      "name": "Gpo. Huachocolpa - Fm. Apacheta - Complejo Manchaylla"
+    },
+    {
+      "code": "X334",
+      "name": "Gpo. Huachocolpa - Fm. Apacheta - Domo Chossecc"
+    },
+    {
+      "code": "X335",
+      "name": "Gpo. Huachocolpa - Fm. Portugueza Miembro 2 - Dique Anular"
+    },
+    {
+      "code": "X336",
+      "name": "Gpo. Huachocolpa - Fm. Portugueza Miembro 2 - Domo"
+    },
+    {
+      "code": "X337",
+      "name": "Gpo. Huachocolpa - Fm. Portugueza Miembro 2 - Zona de Alteración Hidrotermal"
+    },
+    {
+      "code": "KsP-h",
+      "name": "Gpo. Huayabamba"
+    },
+    {
+      "code": "X551",
+      "name": "Gpo. Huayabamba"
+    },
+    {
+      "code": "X550",
+      "name": "Gpo. Imperial"
+    },
+    {
+      "code": "PAL_36",
+      "name": "Gpo. Lagunillas"
+    },
+    {
+      "code": "Nm-cre",
+      "name": "Centro volcánico Crespo"
+    },
+    {
+      "code": "Nm-aco",
+      "name": "Centro Volcánico Acollauca"
+    },
+    {
+      "code": "PN-bay/col",
+      "name": "Unidad Colquemarca"
+    },
+    {
+      "code": "Np-yav",
+      "name": "Centro volcánico Yaviña"
+    },
+    {
+      "code": "Nm-ch",
+      "name": "Centro volcánico Chincho"
+    },
+    {
+      "code": "PN-bay/col/col-tn",
+      "name": "Plutón Colquemarca"
+    },
+    {
+      "code": "NP-oto",
+      "name": "Centro Volcánico Otocuro"
+    },
+    {
+      "code": "Np-i",
+      "name": "Centro Volcánico Igma"
+    },
+    {
+      "code": "Po-con",
+      "name": "Centro Volcánico Condortiana"
+    },
+    {
+      "code": "Po-hc",
+      "name": "Secuencia Volcánica Huaracco"
+    },
+    {
+      "code": "Nm-chu",
+      "name": "Centro Volcánico Chuañuma"
+    },
+    {
+      "code": "PAL_37",
+      "name": "Gpo. Machay"
+    },
+    {
+      "code": "X338",
+      "name": "Gpo. Maure"
+    },
+    {
+      "code": "X339",
+      "name": "Gpo. Maure - Lava"
+    },
+    {
+      "code": "X340",
+      "name": "Gpo. Maure - Toba Interestratificada"
+    },
+    {
+      "code": "Ps-m",
+      "name": "Gpo. Mitu"
+    },
+    {
+      "code": "X341",
+      "name": "Gpo. Mitu - Flujo Lávico"
+    },
+    {
+      "code": "X342",
+      "name": "Gpo. Mitu - Gpo. Iscay"
+    },
+    {
+      "code": "PAL_38",
+      "name": "Gpo. Moho"
+    },
+    {
+      "code": "X556",
+      "name": "Gpo. Morro Solar"
+    },
+    {
+      "code": "X343",
+      "name": "Gpo. Nazca"
+    },
+    {
+      "code": "X557",
+      "name": "Gpo. Oriente"
+    },
+    {
+      "code": "PAL_39",
+      "name": "Gpo. Otuzco"
+    },
+    {
+      "code": "Np-que/1",
+      "name": "Centro volcánico Quesocoto"
+    },
+    {
+      "code": "X344",
+      "name": "Gpo. Palca"
+    },
+    {
+      "code": "X345",
+      "name": "Gpo. Picotani - Fm. Queta"
+    },
+    {
+      "code": "JTr-p",
+      "name": "Gpo. Pucara"
+    },
+    {
+      "code": "Km-p",
+      "name": "Gpo. Pulluicana"
+    },
+    {
+      "code": "Ks-p",
+      "name": "Gpo. Pulluicana "
+    },
+    {
+      "code": "Ks-yu",
+      "name": "Gpo. Pulluicana - Fm. Yumagual"
+    },
+    {
+      "code": "X346",
+      "name": "Gpo. Puno"
+    },
+    {
+      "code": "Ks-q",
+      "name": "Gpo. Quilmana"
+    },
+    {
+      "code": "Km-q",
+      "name": "Gpo. Quilquiñan"
+    },
+    {
+      "code": "Ks-qm",
+      "name": "Gpo. Quilquiñan - Fm. Mujarrun"
+    },
+    {
+      "code": "X347",
+      "name": "Gpo. Rumichaca"
+    },
+    {
+      "code": "X348",
+      "name": "Gpo. Sacsaquero"
+    },
+    {
+      "code": "X349",
+      "name": "Gpo. San Jerónimo - Fm. Soncco - Correlacionable Con El Gpo. Chitapampa"
+    },
+    {
+      "code": "Om-sj",
+      "name": "Gpo. San José"
+    },
+    {
+      "code": "Oim-sj",
+      "name": "Gpo. San José"
+    },
+    {
+      "code": "Ki-sp",
+      "name": "Gpo. San Pedro"
+    },
+    {
+      "code": "X350",
+      "name": "Gpo. Sillapaca"
+    },
+    {
+      "code": "X300",
+      "name": "Gpo. Sillapaca"
+    },
+    {
+      "code": "X351",
+      "name": "Gpo. Tacaza"
+    },
+    {
+      "code": "X353",
+      "name": "Gpo. Tacaza - Bloque Tufáceo"
+    },
+    {
+      "code": "X354",
+      "name": "Gpo. Tacaza - Bloques Tufáceos"
+    },
+    {
+      "code": "X355",
+      "name": "Gpo. Tacaza - Fm. Cerro Hermoso"
+    },
+    {
+      "code": "X356",
+      "name": "Gpo. Tacaza - Fm. Huaylillas"
+    },
+    {
+      "code": "X357",
+      "name": "Gpo. Tacaza - Fm. Huaylillas - Ignimbritas"
+    },
+    {
+      "code": "X358",
+      "name": "Gpo. Tacaza - Lava, Brecha de Flujo"
+    },
+    {
+      "code": "X359",
+      "name": "Gpo. Tacaza - Tufo"
+    },
+    {
+      "code": "X360",
+      "name": "Gpo. Tacaza - Volcánico Llallahui"
+    },
+    {
+      "code": "X352",
+      "name": "Gpo. Tacaza Fm. Huaylillas - Lava y Brecha de Flujo"
+    },
+    {
+      "code": "X361",
+      "name": "Gpo. Toquepala"
+    },
+    {
+      "code": "D-to",
+      "name": "Gpo. Torán"
+    },
+    {
+      "code": "JsKi-yu",
+      "name": "Gpo. Yura"
+    },
+    {
+      "code": "X564",
+      "name": "Gpo. Yura"
+    },
+    {
+      "code": "JR-z",
+      "name": "Gpo. Zaña"
+    },
+    {
+      "code": "Cs-t",
+      "name": "Gpo.Tarma"
+    },
+    {
+      "code": "Kti-gr",
+      "name": "Granito"
+    },
+    {
+      "code": "X290",
+      "name": "Granito de Coasa"
+    },
+    {
+      "code": "X291",
+      "name": "Granito de Limbani"
+    },
+    {
+      "code": "X292",
+      "name": "Granito de Pampas - Intruye Gpo. Mitu"
+    },
+    {
+      "code": "X293",
+      "name": "Granito de San Ramón"
+    },
+    {
+      "code": "P-gr",
+      "name": "Granito del Pérmico"
+    },
+    {
+      "code": "X294",
+      "name": "Granito Huacapistana - Macizo Maraynioc"
+    },
+    {
+      "code": "X295",
+      "name": "Granito Huachón"
+    },
+    {
+      "code": "X296",
+      "name": "Granito Montenegro"
+    },
+    {
+      "code": "C-gr",
+      "name": "Granito, Monzogranito del Carbonífero"
+    },
+    {
+      "code": "Pali-n",
+      "name": "Granito neisificado "
+    },
+    {
+      "code": "KT-gr-p",
+      "name": "Granito Paltashaco"
+    },
+    {
+      "code": "PT-gr",
+      "name": "Granitoide del Permo-Triásico"
+    },
+    {
+      "code": "Trs-gr",
+      "name": "Granitoide del Triasico Superior "
+    },
+    {
+      "code": "KT-i",
+      "name": "Granitoide indiferenciado"
+    },
+    {
+      "code": "Kti-gd",
+      "name": "Granodiorita"
+    },
+    {
+      "code": "C-gd",
+      "name": "Granodiorita del Carbonífero"
+    },
+    {
+      "code": "P-gd",
+      "name": "Granodiorita del Pérmico"
+    },
+    {
+      "code": "KTi-gd/di",
+      "name": "Granodiorita Diorita"
+    },
+    {
+      "code": "KT-gd-l",
+      "name": "Granodiorita Las Lomas "
+    },
+    {
+      "code": "C-gd,mg",
+      "name": "Granodiorita, Monzogranito del Carbonífero"
+    },
+    {
+      "code": "KT-gd-p",
+      "name": "Granodiorita Purgatorio "
+    },
+    {
+      "code": "X297",
+      "name": "Granodiorita Tiabaya"
+    },
+    {
+      "code": "KsP-gd/to/gr",
+      "name": "Granodiorita, tonalita, granito del Cretáceo superior - Paleógeno"
+    },
+    {
+      "code": "KT-gd,t-s",
+      "name": "Granodiorita, tonalita Suyo"
+    },
+    {
+      "code": "X298",
+      "name": "Granodiorita Toquepala"
+    },
+    {
+      "code": "Ks-in/gd",
+      "name": "Granodiorita-Incahuasi"
+    },
+    {
+      "code": "X299",
+      "name": "Greisen Mineralizado (Qz -  Mu -  Turmalina)"
+    },
+    {
+      "code": "PN-ca",
+      "name": "Grupo Calipuy"
+    },
+    {
+      "code": "X362",
+      "name": "Ignimbrita"
+    },
+    {
+      "code": "X363",
+      "name": "Intrusion"
+    },
+    {
+      "code": "X365",
+      "name": "Intrusion - Contemporaneo Al Gpo. Tacaza"
+    },
+    {
+      "code": "X364",
+      "name": "Intrusion (Menor Al Oeste Del Batolito de la Costa)"
+    },
+    {
+      "code": "X366",
+      "name": "Intrusivo"
+    },
+    {
+      "code": "X395",
+      "name": "Intrusivo - Al Oeste de Batolito de La Cordillera Blanca"
+    },
+    {
+      "code": "X396",
+      "name": "Intrusivo - Del Batolito Andahuaylas - Yauri (1º Etapa de Emplazamiento)"
+    },
+    {
+      "code": "X397",
+      "name": "Intrusivo - Granodiorita"
+    },
+    {
+      "code": "X398",
+      "name": "Intrusivo - Monzogranito"
+    },
+    {
+      "code": "X399",
+      "name": "Intrusivo - Pórfido Cuprífero de Toquepala"
+    },
+    {
+      "code": "X367",
+      "name": "Intrusivo  Quiparacra"
+    },
+    {
+      "code": "X368",
+      "name": "Intrusivo (Al Este Del Batolito de la Costa)"
+    },
+    {
+      "code": "X370",
+      "name": "Intrusivo Antarane"
+    },
+    {
+      "code": "X371",
+      "name": "Intrusivo Cayachira (Atravieza Caliza Fm. Ayabaca)"
+    },
+    {
+      "code": "X552",
+      "name": "Intrusivo Chanchamayo"
+    },
+    {
+      "code": "X372",
+      "name": "Intrusivo Corimpata"
+    },
+    {
+      "code": "X373",
+      "name": "Intrusivo Corta Al Gpo. Iscay"
+    },
+    {
+      "code": "X374",
+      "name": "Intrusivo Corta Gpo. Mitu"
+    },
+    {
+      "code": "X375",
+      "name": "Intrusivo de Quanamari"
+    },
+    {
+      "code": "X394",
+      "name": "Intrusivo Éxito"
+    },
+    {
+      "code": "X376",
+      "name": "Intrusivo Huachón"
+    },
+    {
+      "code": "X377",
+      "name": "Intrusivo Huambutio"
+    },
+    {
+      "code": "X378",
+      "name": "Intrusivo La Granja - Stock Mineralizado - Alterac.Fílica"
+    },
+    {
+      "code": "X379",
+      "name": "Intrusivo Lavador"
+    },
+    {
+      "code": "PN-ll-co/di",
+      "name": "Intrusivo Llajua "
+    },
+    {
+      "code": "X380",
+      "name": "Intrusivo Menor (Al Este Del Batolito de la Costa)"
+    },
+    {
+      "code": "X369",
+      "name": "Intrusivo (Menor Al Oeste Del Batolito de la Costa)"
+    },
+    {
+      "code": "X381",
+      "name": "Intrusivo Metasomatizado, Dique Anular"
+    },
+    {
+      "code": "X553",
+      "name": "Intrusivo Oxapampa"
+    },
+    {
+      "code": "X382",
+      "name": "Intrusivo Porfiritico"
+    },
+    {
+      "code": "X383",
+      "name": "Intrusivo Pucaorcco"
+    },
+    {
+      "code": "X384",
+      "name": "Intrusivo Quellaveco"
+    },
+    {
+      "code": "X385",
+      "name": "Intrusivo Quellaveco - Alteración Argilítica"
+    },
+    {
+      "code": "X386",
+      "name": "Intrusivo Quellaveco - Alteración Fílica Fuerte"
+    },
+    {
+      "code": "X387",
+      "name": "Intrusivo Quellaveco - Alteración Propilítica Muy Débil"
+    },
+    {
+      "code": "X388",
+      "name": "Intrusivo Riolítico"
+    },
+    {
+      "code": "X389",
+      "name": "Intrusivo San Judas Tadeo"
+    },
+    {
+      "code": "X390",
+      "name": "Intrusivo Surco"
+    },
+    {
+      "code": "X391",
+      "name": "Intrusivo Versalles"
+    },
+    {
+      "code": "X392",
+      "name": "Intrusivo Yantac - Alteración Potásica"
+    },
+    {
+      "code": "X393",
+      "name": "Intrusivo Yauricocha"
+    },
+    {
+      "code": "KTi-ih",
+      "name": "Intrusivos Hipabisales"
+    },
+    {
+      "code": "Ks-jn",
+      "name": "Jaguay Negro"
+    },
+    {
+      "code": "K-ichp",
+      "name": "K-Ichp"
+    },
+    {
+      "code": "Ki-i-ch-p",
+      "name": "Ki-I, Ch-P"
+    },
+    {
+      "code": "X575",
+      "name": "Late Upper Yanacocha"
+    },
+    {
+      "code": "gpo_Casma",
+      "name": "Lavas andesíticas, dacíticas, riolíticas y piroclásticos. Secuencias volcánico sedimentarias en niveles superiores."
+    },
+    {
+      "code": "X400",
+      "name": "Lavas Huari"
+    },
+    {
+      "code": "X554",
+      "name": "Lourdes"
+    },
+    {
+      "code": "X401",
+      "name": "Macizo Carrizal"
+    },
+    {
+      "code": "X402",
+      "name": "Macizo de Arequipa"
+    },
+    {
+      "code": "X403",
+      "name": "Macizo de Carrizal"
+    },
+    {
+      "code": "X404",
+      "name": "Macizo de Talhuis"
+    },
+    {
+      "code": "X405",
+      "name": "Macizo Pichari"
+    },
+    {
+      "code": "K-hs",
+      "name": "Mbo. Huatasane"
+    },
+    {
+      "code": "X555",
+      "name": "Meladiorita"
+    },
+    {
+      "code": "X406",
+      "name": "Michiquillay - Stock Mineralizado"
+    },
+    {
+      "code": "C-mg",
+      "name": "Monzogranito del Carbonífero"
+    },
+    {
+      "code": "Ks-mg-l",
+      "name": "Monzogranito Lomas"
+    },
+    {
+      "code": "KT-mg-pb",
+      "name": "Monzogranito Peña Blanca "
+    },
+    {
+      "code": "X407",
+      "name": "Morrena"
+    },
+    {
+      "code": "X408",
+      "name": "Morrena Huancané  Ii"
+    },
+    {
+      "code": "X409",
+      "name": "Morrena Huancané I"
+    },
+    {
+      "code": "X410",
+      "name": "Morrena Huancané Iii"
+    },
+    {
+      "code": "S/C",
+      "name": "No asignado"
+    },
+    {
+      "code": "xxx",
+      "name": "No Hay Informacion"
+    },
+    {
+      "code": "X411",
+      "name": "Ortogneis de Abancay"
+    },
+    {
+      "code": "X412",
+      "name": "Ortogneis de Amparaes"
+    },
+    {
+      "code": "Pal-ind",
+      "name": "Paleozoico indiferenciado"
+    },
+    {
+      "code": "X413",
+      "name": "Pluton Ataspaca - Corta Rocas Del Jurásico"
+    },
+    {
+      "code": "X414",
+      "name": "Pluton Callangate - Enaben"
+    },
+    {
+      "code": "X415",
+      "name": "Pluton Cerro Aislado"
+    },
+    {
+      "code": "X416",
+      "name": "Pluton Chimbote"
+    },
+    {
+      "code": "Ki-to/gd",
+      "name": "Plutón Chunchuca"
+    },
+    {
+      "code": "X417",
+      "name": "Pluton de Chichilaque - Corta Secuencia Volcánico"
+    },
+    {
+      "code": "X418",
+      "name": "Pluton de La Cordillera Del Cóndor - Plutón Palanda"
+    },
+    {
+      "code": "X419",
+      "name": "Pluton de Lluta"
+    },
+    {
+      "code": "X420",
+      "name": "Pluton de Tarata -  Corta Al Gpo Toquepala"
+    },
+    {
+      "code": "C-gr, gd",
+      "name": "Plutón Hualla Grande"
+    },
+    {
+      "code": "C-gr,gd",
+      "name": "Plutón Huaylla Grande"
+    },
+    {
+      "code": "X421",
+      "name": "Pluton Intruye Volcánico Chocolate"
+    },
+    {
+      "code": "X422",
+      "name": "Pluton Marcapata"
+    },
+    {
+      "code": "PN-pa-nc/mczdi",
+      "name": "Plutón Parco metacuarzodiorita "
+    },
+    {
+      "code": "X423",
+      "name": "Pluton Picorana"
+    },
+    {
+      "code": "X424",
+      "name": "Pluton Quilmaná"
+    },
+    {
+      "code": "KT-t,d-r",
+      "name": "Plutón Rumipite"
+    },
+    {
+      "code": "X425",
+      "name": "Pluton Santa Eulalia"
+    },
+    {
+      "code": "X430",
+      "name": "Pórfido -  Intruye Fm. Pichu"
+    },
+    {
+      "code": "X426",
+      "name": "Pórfido Cuarzo - Monzonita"
+    },
+    {
+      "code": "X427",
+      "name": "Pórfido Dacítico Alterado"
+    },
+    {
+      "code": "X428",
+      "name": "Pórfido Riolítico (Cuarzo - Sanidina)"
+    },
+    {
+      "code": "Nm-ri, N-ri",
+      "name": "Pórfido Riolítico"
+    },
+    {
+      "code": "X429",
+      "name": "Pórfido Toquepala"
+    },
+    {
+      "code": "X431",
+      "name": "Riodacita Picotani"
+    },
+    {
+      "code": "X432",
+      "name": "Roca Volcánico Pleistoceno"
+    },
+    {
+      "code": "X576",
+      "name": "Secuencia andesítica piroxeno-hornblenda Lower Yanacocha"
+    },
+    {
+      "code": "X577",
+      "name": "Secuencia ignimbrÍtica San José"
+    },
+    {
+      "code": "X578",
+      "name": "Secuencia lahar Lower Andesite"
+    },
+    {
+      "code": "X579",
+      "name": "Secuencia piroclástica dacítica Cerro Frailes"
+    },
+    {
+      "code": "X580",
+      "name": "Secuencia piroclástica Maqui Maqui"
+    },
+    {
+      "code": "X581",
+      "name": "Secuencia volcánica Upper Yanacocha"
+    },
+    {
+      "code": "X433",
+      "name": "Sill"
+    },
+    {
+      "code": "X435",
+      "name": "Sill - Intruye Fm. Jumasha"
+    },
+    {
+      "code": "X436",
+      "name": "Sill - Intruye Fm.. San Juan"
+    },
+    {
+      "code": "X434",
+      "name": "Sill Intercalado Fm. Condorsinga"
+    },
+    {
+      "code": "X437",
+      "name": "Sillar de Arequipa"
+    },
+    {
+      "code": "X438",
+      "name": "Stock"
+    },
+    {
+      "code": "X478",
+      "name": "Stock - Intruye Fm. Casapalca"
+    },
+    {
+      "code": "X479",
+      "name": "Stock - Intruye Fm. Toquepala"
+    },
+    {
+      "code": "X441",
+      "name": "Stock Acos - Intrusivo Menor Al Este Del Batolito de la Costa"
+    },
+    {
+      "code": "X476",
+      "name": "Stock, Al Este Del Batolito de la Costa"
+    },
+    {
+      "code": "X442",
+      "name": "Stock Antamina"
+    },
+    {
+      "code": "X443",
+      "name": "Stock Anticona"
+    },
+    {
+      "code": "X444",
+      "name": "Stock Atacocha"
+    },
+    {
+      "code": "X445",
+      "name": "Stock Atacocha - Asociado A La Mineralización"
+    },
+    {
+      "code": "X446",
+      "name": "Stock Caramocco - Intruye Gpo. Tacaza y Está Cubierto Por Gpo. Palca"
+    },
+    {
+      "code": "X447",
+      "name": "Stock Cerro de Pasco"
+    },
+    {
+      "code": "X448",
+      "name": "Stock Cerro Surini (Nueva Determinación)"
+    },
+    {
+      "code": "X449",
+      "name": "Stock Cerro Verde"
+    },
+    {
+      "code": "X450",
+      "name": "Stock Cerro Vischachane"
+    },
+    {
+      "code": "X451",
+      "name": "Stock Chaccaconiza"
+    },
+    {
+      "code": "X452",
+      "name": "Stock Chagapata"
+    },
+    {
+      "code": "X453",
+      "name": "Stock Chalhuacocha - Intruye Fm. Jumasha"
+    },
+    {
+      "code": "X454",
+      "name": "Stock Chungar"
+    },
+    {
+      "code": "X455",
+      "name": "Stock Chungar Asociado A Mineralización"
+    },
+    {
+      "code": "X456",
+      "name": "Stock Churin"
+    },
+    {
+      "code": "X457",
+      "name": "Stock Cochaquillo"
+    },
+    {
+      "code": "X458",
+      "name": "Stock Colcapampa - Al Este Del Batolito de la Costa"
+    },
+    {
+      "code": "X459",
+      "name": "Stock Equiscocha"
+    },
+    {
+      "code": "X460",
+      "name": "Stock Huascar - Intruye Fm. Apacheta"
+    },
+    {
+      "code": "X461",
+      "name": "Stock Huisaroque - Intruye Gpo. Cabanillas"
+    },
+    {
+      "code": "X477",
+      "name": "Stock, Intruye Fm. Chocolate"
+    },
+    {
+      "code": "X462",
+      "name": "Stock Intruye Fm. San Francisco"
+    },
+    {
+      "code": "X463",
+      "name": "Stock Limon Verde, Gpo. Tacaza"
+    },
+    {
+      "code": "X464",
+      "name": "Stock Mariac"
+    },
+    {
+      "code": "X465",
+      "name": "Stock Michiquillay"
+    },
+    {
+      "code": "X466",
+      "name": "Stock Milpo - Socorro"
+    },
+    {
+      "code": "X467",
+      "name": "Stock Ninahuasi"
+    },
+    {
+      "code": "X468",
+      "name": "Stock Ninahuisa"
+    },
+    {
+      "code": "X439",
+      "name": "Stock Porfiritico Michiquillay"
+    },
+    {
+      "code": "X469",
+      "name": "Stock Quebrada Centilla"
+    },
+    {
+      "code": "X470",
+      "name": "Stock Quellaveco"
+    },
+    {
+      "code": "X440",
+      "name": "Stock Quellaveco"
+    },
+    {
+      "code": "X471",
+      "name": "Stock Raura"
+    },
+    {
+      "code": "X472",
+      "name": "Stock Sunkullo"
+    },
+    {
+      "code": "X473",
+      "name": "Stock Yanacancal"
+    },
+    {
+      "code": "X474",
+      "name": "Stock Yanamate"
+    },
+    {
+      "code": "X475",
+      "name": "Stock Yantac"
+    },
+    {
+      "code": "X480",
+      "name": "Subvolcánico"
+    },
+    {
+      "code": "PN-to",
+      "name": "Subvolcánico Totora"
+    },
+    {
+      "code": "X481",
+      "name": "Subvolcánico Tutumberos"
+    },
+    {
+      "code": "Cpa-SUCh",
+      "name": "Super Unidad Challaviento"
+    },
+    {
+      "code": "SUI",
+      "name": "Super Unidad Ilo"
+    },
+    {
+      "code": "SUY",
+      "name": "Super Unidad Yarabamba"
+    },
+    {
+      "code": "X482",
+      "name": "Terraza"
+    },
+    {
+      "code": "X483",
+      "name": "Terraza - Canal Lagunar"
+    },
+    {
+      "code": "Q-tm",
+      "name": "Terraza marina"
+    },
+    {
+      "code": "Ti-vp",
+      "name": "Ti-Vp"
+    },
+    {
+      "code": "X484",
+      "name": "Toba Atunsulla"
+    },
+    {
+      "code": "Tp",
+      "name": "Toba de Laguna Pariguanas"
+    },
+    {
+      "code": "X485",
+      "name": "Toba de Lircay"
+    },
+    {
+      "code": "X486",
+      "name": "Toba de Nazca"
+    },
+    {
+      "code": "X487",
+      "name": "Toba Fortaleza"
+    },
+    {
+      "code": "X488",
+      "name": "Toba Nazca"
+    },
+    {
+      "code": "X489",
+      "name": "Toba Rumihuasi"
+    },
+    {
+      "code": "Thh",
+      "name": "Tobas Caldera Huayta"
+    },
+    {
+      "code": "Kti-to",
+      "name": "Tonalita"
+    },
+    {
+      "code": "Ks-in/di,gd,to,mzg",
+      "name": "Tonalita"
+    },
+    {
+      "code": "N-to/c",
+      "name": "Tonalita - Yaurimoco"
+    },
+    {
+      "code": "Kt-t-a",
+      "name": "Tonalita Altamisa"
+    },
+    {
+      "code": "P-to-c",
+      "name": "Tonalita Canoso"
+    },
+    {
+      "code": "C-to",
+      "name": "Tonalita del Carbonífero"
+    },
+    {
+      "code": "Kt-t,d-p",
+      "name": "Tonalita, diorita Pambarrumbe"
+    },
+    {
+      "code": "KT-t,d-p",
+      "name": "Tonalita Diorita Pamparún"
+    },
+    {
+      "code": "C-to,gd",
+      "name": "Tonalita, Granodiorita del Carbonífero"
+    },
+    {
+      "code": "X490",
+      "name": "Tufo"
+    },
+    {
+      "code": "X491",
+      "name": "Tufo Ignimbrita"
+    },
+    {
+      "code": "X492",
+      "name": "Tufo Lircay"
+    },
+    {
+      "code": "X493",
+      "name": "Tufo Piroclástico"
+    },
+    {
+      "code": "X494",
+      "name": "Unidad Ataspaca"
+    },
+    {
+      "code": "PN-cot",
+      "name": "Unidad Cotabambas"
+    },
+    {
+      "code": "PN-coy",
+      "name": "Unidad Coylluqui"
+    },
+    {
+      "code": "PN-h-h/to,di",
+      "name": "Unidad Haquira (Plutón Haquira)"
+    },
+    {
+      "code": "PN-h-oc/to,di",
+      "name": "Unidad Haquira (Plutón Oscollo)"
+    },
+    {
+      "code": "PN-hu",
+      "name": "Unidad Huasani"
+    },
+    {
+      "code": "PN-lam",
+      "name": "Unidad Lambrama"
+    },
+    {
+      "code": "PN-oc",
+      "name": "Unidad Ocobamba"
+    },
+    {
+      "code": "PN-pa",
+      "name": "Unidad Parco"
+    },
+    {
+      "code": "Nm-gd-pch",
+      "name": "Unidad Portachuela"
+    },
+    {
+      "code": "PN-pro",
+      "name": "Unidad Progreso"
+    },
+    {
+      "code": "PT-sa",
+      "name": "Unidad Sabanilla"
+    },
+    {
+      "code": "Ks-sa",
+      "name": "Unidad Samanape"
+    },
+    {
+      "code": "Nm-da",
+      "name": "Unidad Subvolcánica (Dacita)"
+    },
+    {
+      "code": "PN-sa/rda",
+      "name": "Unidad Subvolcánica Sañayca"
+    },
+    {
+      "code": "X495",
+      "name": "Veta Gloria"
+    },
+    {
+      "code": "X496",
+      "name": "Veta Mineralizada de Scheelita"
+    },
+    {
+      "code": "X497",
+      "name": "Veta Palca - Evita"
+    },
+    {
+      "code": "Qv-ch",
+      "name": "Volc. Chachani"
+    },
+    {
+      "code": "Km-vb",
+      "name": "Volc. La Bocana"
+    },
+    {
+      "code": "Km-vl",
+      "name": "Volc. Lancones"
+    },
+    {
+      "code": "Ts-vse",
+      "name": "Volc. Sencca"
+    },
+    {
+      "code": "X560",
+      "name": "Volcánico"
+    },
+    {
+      "code": "X499",
+      "name": "Volcánico Atunsulla"
+    },
+    {
+      "code": "X500",
+      "name": "Volcánico Barroso - Lava"
+    },
+    {
+      "code": "X501",
+      "name": "Volcánico Calipuy"
+    },
+    {
+      "code": "Kti-vca",
+      "name": "Volcánico Calipuy"
+    },
+    {
+      "code": "X502",
+      "name": "Volcánico Calipuy - Flujo"
+    },
+    {
+      "code": "X503",
+      "name": "Volcánico Calipuy - Miembro Millotingo"
+    },
+    {
+      "code": "X504",
+      "name": "Volcánico Chila"
+    },
+    {
+      "code": "Ts-vch",
+      "name": "Volcánico Chilete"
+    },
+    {
+      "code": "X561",
+      "name": "Volcánico Chosica"
+    },
+    {
+      "code": "Km-ve",
+      "name": "Volcánico Ereo"
+    },
+    {
+      "code": "Ts-vh",
+      "name": "Volcánico Huambos"
+    },
+    {
+      "code": "X505",
+      "name": "Volcánico Huari"
+    },
+    {
+      "code": "X506",
+      "name": "Volcánico Julcani - Centro Tororumi - Brecha Tufácea"
+    },
+    {
+      "code": "X507",
+      "name": "Volcánico Julcani - Miembro Inferior"
+    },
+    {
+      "code": "X508",
+      "name": "Volcánico Julcani - Miembro Inferior - Brecha Tufácea"
+    },
+    {
+      "code": "X509",
+      "name": "Volcánico Julcani - Miembro Lava"
+    },
+    {
+      "code": "X510",
+      "name": "Volcánico Julcani - Zona de Alteración"
+    },
+    {
+      "code": "X511",
+      "name": "Volcánico Julcani - Zona Mineralizada"
+    },
+    {
+      "code": "X558",
+      "name": "Volcanico Lantorache"
+    },
+    {
+      "code": "Ti-vll",
+      "name": "Volcánico Llama"
+    },
+    {
+      "code": "X559",
+      "name": "Volcanico Llaupi"
+    },
+    {
+      "code": "X512",
+      "name": "Volcánico Macusani"
+    },
+    {
+      "code": "X514",
+      "name": "Volcánico Macusani -  Flujo de Cenizas"
+    },
+    {
+      "code": "X515",
+      "name": "Volcánico Macusani - Cuello Volcánico"
+    },
+    {
+      "code": "X513",
+      "name": "Volcánico Macusani O Fm. Quenamari - Miembro Yapamayo"
+    },
+    {
+      "code": "X516",
+      "name": "Volcánico Millotingo ó Fm. Castrovirreyna"
+    },
+    {
+      "code": "X517",
+      "name": "Volcánico Molinoyocc"
+    },
+    {
+      "code": "X518",
+      "name": "Volcánico Otuzco Inferior"
+    },
+    {
+      "code": "J-vo",
+      "name": "Volcánico Oyotun"
+    },
+    {
+      "code": "X519",
+      "name": "Volcánico Oyotun"
+    },
+    {
+      "code": "Tim-vp",
+      "name": "Volcánico Porculla"
+    },
+    {
+      "code": "X520",
+      "name": "Volcánico Pre-Sencca"
+    },
+    {
+      "code": "X498",
+      "name": "Volcánico Pre-Sencca"
+    },
+    {
+      "code": "X521",
+      "name": "Volcánico Puchcas"
+    },
+    {
+      "code": "X522",
+      "name": "Volcánico Purupuruni"
+    },
+    {
+      "code": "X523",
+      "name": "Volcánico Quenamari"
+    },
+    {
+      "code": "X524",
+      "name": "Volcánico Quenamari - Miembro Sapanuta"
+    },
+    {
+      "code": "X525",
+      "name": "Volcánico Quenamari - Miembro Yapamayo"
+    },
+    {
+      "code": "X526",
+      "name": "Volcánico Quimsachata"
+    },
+    {
+      "code": "X527",
+      "name": "Volcánico Rumihuasi ó Fm. Huando"
+    },
+    {
+      "code": "X528",
+      "name": "Volcánico Rumihuasi ó Fm. Huando (Fm Casa Palca Para Narvaéz -  Guevara,1968)"
+    },
+    {
+      "code": "Ti-vch",
+      "name": "Volcánico San Pablo"
+    },
+    {
+      "code": "X562",
+      "name": "Volcánico Santa Eulalia"
+    },
+    {
+      "code": "X529",
+      "name": "Volcánico Sara Sara - Volcánico Mollebamba - Colada Lávica"
+    },
+    {
+      "code": "X530",
+      "name": "Volcánico Sencca"
+    },
+    {
+      "code": "X533",
+      "name": "Volcánico Sencca - Ignimbritas"
+    },
+    {
+      "code": "X534",
+      "name": "Volcánico Sencca - Lava"
+    },
+    {
+      "code": "X535",
+      "name": "Volcánico Sencca - Tufo Umachulco"
+    },
+    {
+      "code": "X531",
+      "name": "Volcánico Sencca ó Gpo. Barroso Inferior"
+    },
+    {
+      "code": "X532",
+      "name": "Volcánico Sencca ó Tufo Umachulco"
+    },
+    {
+      "code": "Tms-vsh",
+      "name": "Volcánico Shimbe"
+    },
+    {
+      "code": "X536",
+      "name": "Volcánico Sillapaca"
+    },
+    {
+      "code": "X537",
+      "name": "Volcánico Tacaza"
+    },
+    {
+      "code": "Tm-vta",
+      "name": "Volcánico Tacaza"
+    },
+    {
+      "code": "Ti-vt",
+      "name": "Volcánico Tembladera"
+    },
+    {
+      "code": "X563",
+      "name": "Volcánico terciario"
+    },
+    {
+      "code": "X538",
+      "name": "Volcánico Toquepala"
+    },
+    {
+      "code": "X539",
+      "name": "Volcánico Toquepala - Piroclastos"
+    },
+    {
+      "code": "Tsr",
+      "name": "Volcánicos Santa Rosa"
+    },
+    {
+      "code": "X565",
+      "name": "Zona alteración hidrotermal"
+    },
+    {
+      "code": "X566",
+      "name": "Zona alterada"
+    },
+    {
+      "code": "X567",
+      "name": "Zona con silicificación"
+    },
+    {
+      "code": "X540",
+      "name": "Zona de Alteración"
+    },
+    {
+      "code": "X541",
+      "name": "Zona de Alteración Hidrotermal"
+    },
+    {
+      "code": "X542",
+      "name": "Zona de Alteración Potásica"
+    },
+    {
+      "code": "X543",
+      "name": "Zona de Argilitización, Silicificación - Estado Ii (Cu - Pb - Mn - Ag - Bi - Te - V)"
+    },
+    {
+      "code": "PN-bay/cot/gd",
+      "name": "Unidad Cotabambas -granodiorita"
+    },
+    {
+      "code": "PN-bay/cot/tn",
+      "name": "Unidad Cotabambas -tonalita"
+    },
+    {
+      "code": "PN-bay/cot/di",
+      "name": "Unidad Cotabambas -diorita"
+    },
+    {
+      "code": "PN-bay/cot/cot-gd,tn",
+      "name": "Plutón Cotabambas-granodiorita, tonalita"
+    },
+    {
+      "code": "PN-t-and",
+      "name": "Unidad Totora – andesita"
+    },
+    {
+      "code": "PN-t-da",
+      "name": "Unidad Totora – dacita"
+    },
+    {
+      "code": "Qpl-hh/da",
+      "name": "Complejo Volcánico Hualca Hualca"
+    },
+    {
+      "code": "Np-cvm/an1",
+      "name": "Complejo Volcánico Mismi"
+    },
+    {
+      "code": "PN-t-ri",
+      "name": "Unidad Totora – riolita"
+    },
+    {
+      "code": "Qpl-cay/ap",
+      "name": "Complejo Volcánico Caylloma"
+    },
+    {
+      "code": "PN-t/t-da",
+      "name": "Unidad Totora - Totora – dacita"
+    },
+    {
+      "code": "PN-t/p-da",
+      "name": "Unidad Totora - Piscocalla – dacita"
+    },
+    {
+      "code": "PN-t",
+      "name": "Grupo Tacaza"
+    },
+    {
+      "code": "PN-bay/ll/p-di",
+      "name": "Unidad Llajua – Plutón Pampa – Diorita"
+    },
+    {
+      "code": "Peo-a",
+      "name": "Formación Anta"
+    },
+    {
+      "code": "Q-bi",
+      "name": "Depósito biogenético"
+    },
+    {
+      "code": "Nm-jh",
+      "name": "Centro volcánico Jatún Huaychui"
+    },
+    {
+      "code": "PN-bay/p/ch-tn,gd",
+      "name": "Unidad Progreso-Plutón Chalcobamba - tonalita, granodiorita"
+    },
+    {
+      "code": "PN-bay/coy/cp-di",
+      "name": "Unidad Coyllurqui – Pluton Cerro Pasto - Diorita"
+    },
+    {
+      "code": "PN-bay/p/p-gd",
+      "name": "Unidad Progreso - Plutón Progreso – granodiorita"
+    },
+    {
+      "code": "PN-bay/p/p-tn",
+      "name": "Unidad Progreso - Plutón Progreso – tonalita"
+    },
+    {
+      "code": "PsTi-sg/gr",
+      "name": "Plutón San Gabán "
+    },
+    {
+      "code": "JsKi-mu",
+      "name": "Formación Muni "
+    },
+    {
+      "code": "Ki-vi",
+      "name": "Formación Viluyo "
+    },
+    {
+      "code": "PN-bay/II/ch-di",
+      "name": "Unidad Llajua - Plutón Chahuarani – diorita"
+    },
+    {
+      "code": "NQ-az",
+      "name": "Formación Azangaro "
+    },
+    {
+      "code": "PN-bay/II/aa-di",
+      "name": "Unidad Llajua - Plutón Anta Anta – diorita"
+    },
+    {
+      "code": "Np-az",
+      "name": "Centro volcánico Azuca"
+    },
+    {
+      "code": "Po-hr",
+      "name": "Secuencia volcánica Huarcaya"
+    },
+    {
+      "code": "Po-pa",
+      "name": "Formación Pampachacra"
+    },
+    {
+      "code": "Np-cay/dl",
+      "name": "Grupo Barroso - Caldera Cailloma "
+    },
+    {
+      "code": "Qpl-hh/an1",
+      "name": "Volcánico Huarantane, segundo evento"
+    },
+    {
+      "code": "Qpl-cay/aav",
+      "name": "Caldera Caylloma- Ceniza y Lavas Andesíticas Afíricas Vesiculares"
+    },
+    {
+      "code": "Np-cay/tbk",
+      "name": "Caldera Caylloma- Tobas de Cristales"
+    },
+    {
+      "code": "Np-cay/tbl",
+      "name": "Caldera Caylloma- Tobas de Lapilli"
+    },
+    {
+      "code": "N-az/an",
+      "name": "Centro Volcánico Antarazo-Andesitas"
+    },
+    {
+      "code": "Np-cvm/an2",
+      "name": "Complejo Volcánico Mismi- Andesitas, Dacitas"
+    },
+    {
+      "code": "Qpl-evs/tbka",
+      "name": "Estrato Volcán Sabancaya- Cristalinas Andesiticas"
+    },
+    {
+      "code": "Ki-cha/Ji-c",
+      "name": "Formación Chayllacatana/Formación Condorsinga- secuencia- volcánica-sedimentaria"
+    },
+    {
+      "code": "Jm-chu",
+      "name": "Formación Chunumayo"
+    },
+    {
+      "code": "Nm-h-i",
+      "name": "Formación Huando-Tobas dacíticas"
+    }
+  ],
+  "name": "04_DC_Ugeologica",
+  "type": "codedValue"
+}

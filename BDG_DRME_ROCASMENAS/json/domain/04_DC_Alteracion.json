@@ -1,0 +1,106 @@
+{
+ "type": "codedValue", 
+ "name": "04_DC_Alteracion", 
+ "codedValues": [
+
+
+ 
+
+{"code":  "adz" , "name": "Adularización" },
+
+{"code":  "alb" , "name": "Albitización" },
+
+{"code":  "alz" , "name": "Alunitización" },
+
+{"code":  "afz" , "name": "Anfibolitización" },
+
+{"code":  "arc" , "name": "Argílica" },
+
+{"code":  "ara" , "name": "Argílica avanzada" },
+
+{"code":  "arh" , "name": "Argílica hipogena" },
+
+{"code":  "ars" , "name": "Argílica supergena" },
+
+{"code":  "arg" , "name": "Argilización" },
+
+{"code":  "btz" , "name": "Biotización" },
+
+{"code":  "lea" , "name": "Blanqueada (Bleached)" },
+
+{"code":  "cit" , "name": "Calcitización" },
+
+{"code":  "kao" , "name": "Caolinización" },
+
+{"code":  "crz" , "name": "Carbonatización" },
+
+{"code":  "ctz" , "name": "Cloritización" },
+
+{"code":  "qzs" , "name": "Cuarzo sericita" },
+
+{"code":  "doz" , "name": "Dolomitización" },
+
+{"code":  "epz" , "name": "Epidotización" },
+
+{"code":  "fdk" , "name": "Feldespatización potásica" },
+
+{"code":  "fil" , "name": "Filica" },
+
+{"code":  "grz" , "name": "Granatización" },
+
+{"code":  "grs" , "name": "Greisen" },
+
+{"code":  "hmz" , "name": "Hematizacion" },
+
+{"code":  "hip" , "name": "Hipogena" },
+
+{"code":  "jar" , "name": "Jarosita" },
+
+{"code":  "lmt" , "name": "Limonitización" },
+
+{"code":  "lxv" , "name": "Lixiviado" },
+
+{"code":  "mlz" , "name": "Marmolización" },
+
+{"code":  "mtz" , "name": "Meteorización" },
+
+{"code":  "noa" , "name": "No alterada" },
+
+{"code":  "nso" , "name": "No se observa" },
+
+{"code":  "opz" , "name": "Opalizacion" },
+
+{"code":  "otr" , "name": "Otro" },
+
+{"code":  "oxd" , "name": "Oxidación" },
+
+{"code":  "pyz" , "name": "Piritización" },
+
+{"code":  "pfz" , "name": "Pirofilita" },
+
+{"code":  "ka" , "name": "Potasica" },
+
+{"code":  "ppt" , "name": "Propilitica" },
+
+{"code":  "ppz" , "name": "Propilitización" },
+
+{"code":  "rxz" , "name": "recristalización" },
+
+{"code":  "srz" , "name": "Sericitación" },
+
+{"code":  "spz" , "name": "Serpentinización" },
+
+{"code":  "sil" , "name": "Silicatación" },
+
+{"code":  "slz" , "name": "Silicificación" },
+
+{"code":  "sk" , "name": "Skarn" },
+
+{"code":  "stk" , "name": "Stockwork" },
+
+{"code":  "sup" , "name": "Supergena" },
+
+{"code":  "tmz" , "name": "Turmalinización" },
+
+{"code":  "vgy" , "name": "Vuggy" } ]
+}

@@ -1,0 +1,30 @@
+{
+  "codedValues": [
+    {
+      "code": 1,
+      "name": "Sin daños / no registrados"
+    },
+    {
+      "code": 2,
+      "name": "Leves"
+    },
+    {
+      "code": 3,
+      "name": "Moderados"
+    },
+    {
+      "code": 4,
+      "name": "Severos"
+    },
+    {
+      "code": 5,
+      "name": "Destrucción, total"
+    },
+    {
+      "code": 6,
+      "name": "Probables"
+    }
+  ],
+  "name": "04_DC_DanoCaract",
+  "type": "codedValue"
+}

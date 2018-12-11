@@ -1,0 +1,16 @@
+{
+ "type": "codedValue", 
+ "name": "04_DC_MtreoTipo", 
+ "codedValues": [
+
+
+ 
+
+{"code":  "Canal" , "name": "Canal" },
+
+{"code":  "Especial" , "name": "Especial" },
+
+{"code":  "Esquirlas" , "name": "Esquirlas de Rocas" },
+
+{"code":  "Otros" , "name": "Otros" } ]
+}

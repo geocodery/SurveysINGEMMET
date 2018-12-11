@@ -1,0 +1,26 @@
+{
+  "codedValues": [
+    {
+      "code": 1,
+      "name": "Agrietamientos en el glaciar"
+    },
+    {
+      "code": 2,
+      "name": "Rompimiento de dique morréico"
+    },
+    {
+      "code": 3,
+      "name": "Huellas de flujo violento en las paredes del cauce"
+    },
+    {
+      "code": 4,
+      "name": "Avalancha de nieve y/o roca"
+    },
+    {
+      "code": 5,
+      "name": "Ruptura de dique o embalse de un río, producido por un derrumbe o deslizamiento"
+    }
+  ],
+  "name": "04_DC_Alud",
+  "type": "codedValue"
+}

@@ -1,0 +1,12 @@
+{
+ "type": "codedValue", 
+ "name": "04_DC_U_CE", 
+ "codedValues": [
+
+
+ 
+
+{"code":  "1" , "name": "ms/Cm" },
+
+{"code":  "2" , "name": "µs/Cm" } ]
+}

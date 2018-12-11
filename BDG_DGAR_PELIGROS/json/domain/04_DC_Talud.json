@@ -1,0 +1,18 @@
+{
+  "codedValues": [
+    {
+      "code": 1,
+      "name": "Ladera"
+    },
+    {
+      "code": 2,
+      "name": "Alcantarillado"
+    },
+    {
+      "code": 3,
+      "name": "Corte artificial"
+    }
+  ],
+  "name": "04_DC_Talud",
+  "type": "codedValue"
+}

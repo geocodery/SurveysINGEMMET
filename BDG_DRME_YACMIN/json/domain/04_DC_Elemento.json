@@ -1,0 +1,74 @@
+{
+  "codedValues": [
+    {
+      "code": "Au",
+      "name": "Au"
+    },
+    {
+      "code": "Ag",
+      "name": "Ag"
+    },
+    {
+      "code": "Cu",
+      "name": "Cu"
+    },
+    {
+      "code": "Pb",
+      "name": "Pb"
+    },
+    {
+      "code": "Zn",
+      "name": "Zn"
+    },
+    {
+      "code": "Hg",
+      "name": "Hg"
+    },
+    {
+      "code": "Mo",
+      "name": "Mo"
+    },
+    {
+      "code": "As",
+      "name": "As"
+    },
+    {
+      "code": "Ni",
+      "name": "Ni"
+    },
+    {
+      "code": "Fe",
+      "name": "Fe"
+    },
+    {
+      "code": "Co",
+      "name": "Co"
+    },
+    {
+      "code": "Cr",
+      "name": "Cr"
+    },
+    {
+      "code": "Mn",
+      "name": "Mn"
+    },
+    {
+      "code": "U",
+      "name": "U"
+    },
+    {
+      "code": "Sb",
+      "name": "Sb"
+    },
+    {
+      "code": "W",
+      "name": "W"
+    },
+    {
+      "code": "Ti",
+      "name": "Ti"
+    }
+  ],
+  "name": "04_DC_Elemento",
+  "type": "codedValue"
+}

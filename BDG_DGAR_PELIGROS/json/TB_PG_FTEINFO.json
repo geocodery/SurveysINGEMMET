@@ -1,0 +1,43 @@
+{
+  "displayFieldName": "",
+  "fieldAliases": {
+	"FICHA_FI"	: "Fuente de información",
+	"FTEINFO"	: "Fuente de información",
+	"AUTOR"		: "Autor",
+	"TITULOEST"	: "Título de estudio",
+	"FECHAINFO"	: "Fecha"
+  },
+   "geometryType": "esriGeometryPoint",
+   "fields": [
+   	{
+   		"name": "FICHA_FI", 
+   		"type": "esriFieldTypeString", 
+   		"alias": "Fuente de información", 
+   		"length": 255
+   	},
+	{
+		"name": "FTEINFO", 
+		"type": "esriFieldTypeString", 
+		"alias": "Fuente de información", 
+		"length": 255
+	},
+	{
+		"name": "AUTOR", 
+		"type": "esriFieldTypeString", 
+		"alias": "Autor", 
+		"length": 255
+	},
+	{
+		"name": "TITULOEST", 
+		"type": "esriFieldTypeString", 
+		"alias": "Título de estudio", 
+		"length": 255
+	},
+	{
+		"name": "FECHAINFO", 
+		"type": "esriFieldTypeDate", 
+		"alias": "Fecha"
+	}
+],
+"features": []
+}

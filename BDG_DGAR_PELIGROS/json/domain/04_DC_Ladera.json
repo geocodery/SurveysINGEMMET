@@ -1,0 +1,62 @@
+{
+  "codedValues": [
+    {
+      "code": 1,
+      "name": "Lomada"
+    },
+    {
+      "code": 2,
+      "name": "Colina"
+    },
+    {
+      "code": 3,
+      "name": "Montaña"
+    },
+    {
+      "code": 4,
+      "name": "Monte"
+    },
+    {
+      "code": 5,
+      "name": "Isla"
+    },
+    {
+      "code": 6,
+      "name": "Volcan"
+    },
+    {
+      "code": 7,
+      "name": "Glaciar"
+    },
+    {
+      "code": 8,
+      "name": "Acantilado"
+    },
+    {
+      "code": 9,
+      "name": "Estructural"
+    },
+    {
+      "code": 10,
+      "name": "Depósito eólico"
+    },
+    {
+      "code": 11,
+      "name": "Detritos de vertiente"
+    },
+    {
+      "code": 12,
+      "name": "Escombrera o canchal"
+    },
+    {
+      "code": 13,
+      "name": "Morrena"
+    },
+    {
+      "code": 14,
+      "name": "Depósito de remoción"
+    }
+  ],
+  "name": "04_DC_Ladera",
+  "type": "codedValue"
+}

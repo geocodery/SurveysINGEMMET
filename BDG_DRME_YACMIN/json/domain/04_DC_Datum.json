@@ -1,0 +1,14 @@
+{
+  "codedValues": [
+    {
+      "code": "4248",
+      "name": "PSAD56"
+    },
+    {
+      "code": "4326",
+      "name": "WGS84"
+    }
+  ],
+  "name": "04_DC_Datum",
+  "type": "codedValue"
+}

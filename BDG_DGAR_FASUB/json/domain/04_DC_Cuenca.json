@@ -1,0 +1,470 @@
+{
+ "type": "codedValue", 
+ "name": "04_DC_Cuenca", 
+ "codedValues": [
+
+
+ 
+
+{"code":  "0144" , "name": "Cuenca Mauri" },
+
+{"code":  "0146" , "name": "Cuenca Caño" },
+
+{"code":  "0148" , "name": "Cuenca Ushusuma" },
+
+{"code":  "015" , "name": "Lago Titicaca" },
+
+{"code":  "0152" , "name": "Cuenca Mauri Chico" },
+
+{"code":  "0155" , "name": "Intercuenca 0155" },
+
+{"code":  "0156" , "name": "Cuenca Callaccame" },
+
+{"code":  "0157" , "name": "Intercuenca 0157" },
+
+{"code":  "016" , "name": "Cuenca Ilave" },
+
+{"code":  "017" , "name": "Lago Titicaca" },
+
+{"code":  "0171" , "name": "Intercuenca 0171" },
+
+{"code":  "0172" , "name": "Cuenca Suches" },
+
+{"code":  "0173" , "name": "Intercuenca 0173" },
+
+{"code":  "0174" , "name": "Cuenca Ilpa" },
+
+{"code":  "0175" , "name": "Intercuenca 0175" },
+
+{"code":  "0176" , "name": "Cuenca Coata" },
+
+{"code":  "0178" , "name": "Cuenca Huancané" },
+
+{"code":  "0179" , "name": "Intercuenca Ramis" },
+
+{"code":  "018" , "name": "Cuenca Pucará" },
+
+{"code":  "019" , "name": "Cuenca Azángaro" },
+
+{"code":  "1314" , "name": "Cuenca Lluta" },
+
+{"code":  "13152" , "name": "Cuenca De la Concordia" },
+
+{"code":  "13153" , "name": "Intercuenca 13153" },
+
+{"code":  "13154" , "name": "Cuenca Hospicio" },
+
+{"code":  "13155" , "name": "Intercuenca 13155" },
+
+{"code":  "13156" , "name": "Cuenca Caplina" },
+
+{"code":  "13157" , "name": "Intercuenca 13157" },
+
+{"code":  "13158" , "name": "Cuenca Sama" },
+
+{"code":  "13159" , "name": "Intercuenca 13159" },
+
+{"code":  "1316" , "name": "Cuenca Locumba" },
+
+{"code":  "13170" , "name": "Interna 13170" },
+
+{"code":  "13171" , "name": "Intercuenca 13171" },
+
+{"code":  "13172" , "name": "Cuenca Ilo - Moquegua" },
+
+{"code":  "13173" , "name": "Intercuenca 13173" },
+
+{"code":  "13174" , "name": "Intercuenca 13174" },
+
+{"code":  "13175" , "name": "Intercuenca 13175" },
+
+{"code":  "13176" , "name": "Intercuenca 13176" },
+
+{"code":  "13177" , "name": "Intercuenca 13177" },
+
+{"code":  "13178" , "name": "Cuenca Honda" },
+
+{"code":  "13179" , "name": "Intercuenca 13179" },
+
+{"code":  "1318" , "name": "Cuenca Tambo" },
+
+{"code":  "1319" , "name": "Intercuenca 1319" },
+
+{"code":  "132" , "name": "Cuenca Quilca - Vitor - Chili" },
+
+{"code":  "133" , "name": "Intercuenca 133" },
+
+{"code":  "134" , "name": "Cuenca Camaná" },
+
+{"code":  "135" , "name": "Intercuenca 135" },
+
+{"code":  "136" , "name": "Cuenca Ocoña" },
+
+{"code":  "13711" , "name": "Intercuenca 13711" },
+
+{"code":  "13712" , "name": "Cuenca Pescadores - Caraveli" },
+
+{"code":  "13713" , "name": "Intercuenca 13713" },
+
+{"code":  "13714" , "name": "Cuenca Atico" },
+
+{"code":  "137151" , "name": "Intercuenca 137151" },
+
+{"code":  "137152" , "name": "Cuenca Choclón" },
+
+{"code":  "137153" , "name": "Intercuenca 137153" },
+
+{"code":  "137154" , "name": "Cuenca Cháparra" },
+
+{"code":  "137155" , "name": "Intercuenca 137155" },
+
+{"code":  "137156" , "name": "Cuenca Chala" },
+
+{"code":  "137157" , "name": "Intercuenca 137157" },
+
+{"code":  "137158" , "name": "Cuenca Honda" },
+
+{"code":  "137159" , "name": "Intercuenca 137159" },
+
+{"code":  "13716" , "name": "Cuenca Yauca" },
+
+{"code":  "13717" , "name": "Intercuenca 13717" },
+
+{"code":  "13718" , "name": "Cuenca Acarí" },
+
+{"code":  "13719" , "name": "Intercuenca 13719" },
+
+{"code":  "1372" , "name": "Cuenca Grande" },
+
+{"code":  "1373" , "name": "Intercuenca 1373" },
+
+{"code":  "1374" , "name": "Cuenca Ica" },
+
+{"code":  "13751" , "name": "Intercuenca 13751" },
+
+{"code":  "13752" , "name": "Cuenca Pisco" },
+
+{"code":  "137531" , "name": "Intercuenca 137531" },
+
+{"code":  "137532" , "name": "Cuenca San Juan" },
+
+{"code":  "137533" , "name": "Intercuenca 137533" },
+
+{"code":  "137534" , "name": "Cuenca Topará" },
+
+{"code":  "137539" , "name": "Intercuenca 137539" },
+
+{"code":  "13754" , "name": "Cuenca Cañete" },
+
+{"code":  "1375511" , "name": "Intercuenca 1375511" },
+
+{"code":  "1375512" , "name": "Cuenca Omas" },
+
+{"code":  "1375519" , "name": "Intercuenca 1375519" },
+
+{"code":  "137552" , "name": "Cuenca Mala" },
+
+{"code":  "1375531" , "name": "Intercuenca 1375531" },
+
+{"code":  "1375532" , "name": "Cuenca Chilca" },
+
+{"code":  "1375533" , "name": "Intercuenca 1375533" },
+
+{"code":  "1375534" , "name": "Cuenca Lurín" },
+
+{"code":  "1375539" , "name": "Intercuenca 1375539" },
+
+{"code":  "137554" , "name": "Cuenca Rímac" },
+
+{"code":  "137555" , "name": "Intercuenca 137555" },
+
+{"code":  "137556" , "name": "Cuenca Chillón" },
+
+{"code":  "137557" , "name": "Intercuenca 137557" },
+
+{"code":  "137558" , "name": "Cuenca Chancay - Huaral" },
+
+{"code":  "137559" , "name": "Intercuenca 137559" },
+
+{"code":  "13756" , "name": "Cuenca Huaura" },
+
+{"code":  "137571" , "name": "Intercuenca 137571" },
+
+{"code":  "137572" , "name": "Cuenca Supe" },
+
+{"code":  "137579" , "name": "Intercuenca 137579" },
+
+{"code":  "13758" , "name": "Cuenca Pativilca" },
+
+{"code":  "137591" , "name": "Intercuenca 137591" },
+
+{"code":  "137592" , "name": "Cuenca Fortaleza" },
+
+{"code":  "137593" , "name": "Intercuenca 137593" },
+
+{"code":  "137594" , "name": "Cuenca Huarmey" },
+
+{"code":  "1375951" , "name": "Intercuenca 1375951" },
+
+{"code":  "1375952" , "name": "Cuenca Culebras" },
+
+{"code":  "1375959" , "name": "Intercuenca 1375959" },
+
+{"code":  "137596" , "name": "Cuenca Casma" },
+
+{"code":  "137597" , "name": "Intercuenca 137597" },
+
+{"code":  "137598" , "name": "Cuenca Nepeña" },
+
+{"code":  "1375991" , "name": "Intercuenca 1375991" },
+
+{"code":  "1375992" , "name": "Cuenca Lacramarca" },
+
+{"code":  "1375999" , "name": "Intercuenca 1375999" },
+
+{"code":  "1376" , "name": "Cuenca Santa" },
+
+{"code":  "137711" , "name": "Intercuenca 137711" },
+
+{"code":  "137712" , "name": "Cuenca Huamansaña" },
+
+{"code":  "137713" , "name": "Intercuenca 137713" },
+
+{"code":  "137714" , "name": "Cuenca Virú" },
+
+{"code":  "137715" , "name": "Intercuenca 137715" },
+
+{"code":  "137716" , "name": "Cuenca Moche" },
+
+{"code":  "137719" , "name": "Intercuenca 137719" },
+
+{"code":  "13772" , "name": "Cuenca Chicama" },
+
+{"code":  "13773" , "name": "Intercuenca 13773" },
+
+{"code":  "13774" , "name": "Cuenca Jequetepeque" },
+
+{"code":  "137751" , "name": "Intercuenca 137751" },
+
+{"code":  "137752" , "name": "Cuenca Chamán" },
+
+{"code":  "137753" , "name": "Intercuenca 137753" },
+
+{"code":  "137754" , "name": "Cuenca Zaña" },
+
+{"code":  "137759" , "name": "Intercuenca 137759" },
+
+{"code":  "13776" , "name": "Cuenca Chancay-Lambayeque" },
+
+{"code":  "137771" , "name": "Intercuenca 137771" },
+
+{"code":  "137772" , "name": "Cuenca Motupe" },
+
+{"code":  "137773" , "name": "Intercuenca 137773" },
+
+{"code":  "137774" , "name": "Cuenca Olmos" },
+
+{"code":  "137779" , "name": "Intercuenca 137779" },
+
+{"code":  "13778" , "name": "Cuenca Cascajal" },
+
+{"code":  "13779" , "name": "Intercuenca 13779" },
+
+{"code":  "1378" , "name": "Cuenca Piura" },
+
+{"code":  "1379" , "name": "Intercuenca 1379" },
+
+{"code":  "138" , "name": "Cuenca Chira" },
+
+{"code":  "1391" , "name": "Intercuenca 1391" },
+
+{"code":  "1392" , "name": "Cuenca Pariñas" },
+
+{"code":  "13931" , "name": "Intercuenca 13931" },
+
+{"code":  "13932" , "name": "Cuenca Fernández" },
+
+{"code":  "13933" , "name": "Intercuenca 13933" },
+
+{"code":  "13934" , "name": "Cuenca Quebrada Seca" },
+
+{"code":  "13935" , "name": "Intercuenca 13935" },
+
+{"code":  "13936" , "name": "Cuenca Bocapán" },
+
+{"code":  "13939" , "name": "Intercuenca 13939" },
+
+{"code":  "1394" , "name": "Cuenca Tumbes" },
+
+{"code":  "13951" , "name": "Intercuenca 13951" },
+
+{"code":  "13952" , "name": "Cuenca Zarumilla" },
+
+{"code":  "4662" , "name": "Cuenca Orthon" },
+
+{"code":  "46643" , "name": "Intercuenca Medio Bajo Madre de Dios" },
+
+{"code":  "46644" , "name": "Cuenca Tambopata" },
+
+{"code":  "46645" , "name": "Intercuenca Medio Madre de Dios" },
+
+{"code":  "46646" , "name": "Cuenca De Las Piedras" },
+
+{"code":  "46647" , "name": "Intercuenca Medio Alto Madre de Dios" },
+
+{"code":  "46648" , "name": "Cuenca Inambari" },
+
+{"code":  "46649" , "name": "Intercuenca Alto Madre de Dios" },
+
+{"code":  "49269" , "name": "Intercuenca Alto Acre" },
+
+{"code":  "49289" , "name": "Intercuenca Alto Iaco" },
+
+{"code":  "49299" , "name": "Intercuenca 49299" },
+
+{"code":  "4964" , "name": "Cuenca Tarau" },
+
+{"code":  "4969" , "name": "Intercuenca Alto Yurúa" },
+
+{"code":  "4974" , "name": "Cuenca Putumayo" },
+
+{"code":  "4976" , "name": "Cuenca Yavari" },
+
+{"code":  "4977" , "name": "Intercuenca 4977" },
+
+{"code":  "4978" , "name": "Cuenca Napo" },
+
+{"code":  "49791" , "name": "Intercuenca 49791" },
+
+{"code":  "49792" , "name": "Cuenca Manití" },
+
+{"code":  "49793" , "name": "Intercuenca 49793" },
+
+{"code":  "49794" , "name": "Cuenca Nanay" },
+
+{"code":  "49795" , "name": "Intercuenca 49795" },
+
+{"code":  "49796" , "name": "Cuenca Tahuayo" },
+
+{"code":  "49797" , "name": "Intercuenca 49797" },
+
+{"code":  "49798" , "name": "Cuenca Itaya" },
+
+{"code":  "49799" , "name": "Intercuenca 49799" },
+
+{"code":  "4981" , "name": "Intercuenca Bajo Marañón" },
+
+{"code":  "4982" , "name": "Cuenca Tigre" },
+
+{"code":  "4983" , "name": "Intercuenca Medio Bajo Marañón" },
+
+{"code":  "49841" , "name": "Intercuenca Bajo Huallga" },
+
+{"code":  "49842" , "name": "Cuenca Paranapura" },
+
+{"code":  "49843" , "name": "Intercuenca Medio Bajo Huallaga" },
+
+{"code":  "49844" , "name": "Cuenca Mayo" },
+
+{"code":  "49845" , "name": "Intercuenca Medio Huallaga" },
+
+{"code":  "49846" , "name": "Cuenca Biabo" },
+
+{"code":  "49847" , "name": "Intercuenca Medio Alto Huallaga" },
+
+{"code":  "49848" , "name": "Cuenca Huayabamba" },
+
+{"code":  "49849" , "name": "Intercuenca Alto Huallaga" },
+
+{"code":  "4985" , "name": "Intercuenca Medio Marañón" },
+
+{"code":  "4986" , "name": "Cuenca Pastaza" },
+
+{"code":  "49871" , "name": "Intercuenca 49871" },
+
+{"code":  "49872" , "name": "Cuenca Carhuapanas" },
+
+{"code":  "49873" , "name": "Intercuenca 49873" },
+
+{"code":  "49874" , "name": "Cuenca Potro" },
+
+{"code":  "49875" , "name": "Intercuenca 49875" },
+
+{"code":  "49876" , "name": "Cuenca Morona" },
+
+{"code":  "49877" , "name": "Intercuenca 49877" },
+
+{"code":  "49878" , "name": "Cuenca Santiago" },
+
+{"code":  "49879" , "name": "Intercuenca 49879" },
+
+{"code":  "4988" , "name": "Cuenca Cenepa" },
+
+{"code":  "49891" , "name": "Intercuenca Alto Marañón I" },
+
+{"code":  "49892" , "name": "Cuenca Chinchipe" },
+
+{"code":  "49893" , "name": "Intercuenca Alto Marañón II" },
+
+{"code":  "49894" , "name": "Cuenca Utcubamba" },
+
+{"code":  "49895" , "name": "Intercuenca Alto Marañón III" },
+
+{"code":  "49896" , "name": "Cuenca Chamaya" },
+
+{"code":  "49897" , "name": "Intercuenca Alto Marañón IV" },
+
+{"code":  "49898" , "name": "Cuenca Crisnejas" },
+
+{"code":  "49899" , "name": "Intercuenca Alto Marañón V" },
+
+{"code":  "49911" , "name": "Intercuenca 49911" },
+
+{"code":  "49912" , "name": "Cuenca Tapiche" },
+
+{"code":  "49913" , "name": "Intercuenca 49913" },
+
+{"code":  "49914" , "name": "Cuenca Cushabatay" },
+
+{"code":  "49915" , "name": "Intercuenca 49915" },
+
+{"code":  "49916" , "name": "Cuenca Aguaytía" },
+
+{"code":  "49917" , "name": "Intercuenca 49917" },
+
+{"code":  "49918" , "name": "Cuenca Tamaya" },
+
+{"code":  "49919" , "name": "Intercuenca 49919" },
+
+{"code":  "4992" , "name": "Cuenca Pachitea" },
+
+{"code":  "4993" , "name": "Intercuenca Medio Bajo Ucayali" },
+
+{"code":  "4994" , "name": "Cuenca Urubamba" },
+
+{"code":  "49951" , "name": "Intercuenca 49951" },
+
+{"code":  "49952" , "name": "Cuenca Poyeni" },
+
+{"code":  "49953" , "name": "Intercuenca 49953" },
+
+{"code":  "49954" , "name": "Cuenca Perené" },
+
+{"code":  "49955" , "name": "Intercuenca 49955" },
+
+{"code":  "49956" , "name": "Cuenca Cutivireni" },
+
+{"code":  "49957" , "name": "Intercuenca 49957" },
+
+{"code":  "49958" , "name": "Cuenca Anapati" },
+
+{"code":  "49959" , "name": "Intercuenca 49959" },
+
+{"code":  "4996" , "name": "Cuenca Mantaro" },
+
+{"code":  "4997" , "name": "Intercuenca Bajo Apurímac" },
+
+{"code":  "4998" , "name": "Cuenca Pampas" },
+
+{"code":  "4999" , "name": "Intercuenca Alto Apurímac" } ]
+}

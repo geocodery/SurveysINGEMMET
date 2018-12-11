@@ -1,0 +1,22 @@
+{
+  "codedValues": [
+    {
+      "code": "%",
+      "name": "%"
+    },
+    {
+      "code": "g/t",
+      "name": "g/t"
+    },
+    {
+      "code": "oz/t",
+      "name": "oz/t"
+    },
+    {
+      "code": "oz/tc",
+      "name": "oz/tc"
+    }
+  ],
+  "name": "04_DC_Uley",
+  "type": "codedValue"
+}

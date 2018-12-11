@@ -1,0 +1,34 @@
+{
+  "codedValues": [
+    {
+      "code": 1,
+      "name": "Extr. Rápido"
+    },
+    {
+      "code": 2,
+      "name": "Muy rápido"
+    },
+    {
+      "code": 3,
+      "name": "Rápido"
+    },
+    {
+      "code": 4,
+      "name": "Moderado"
+    },
+    {
+      "code": 5,
+      "name": "Lento"
+    },
+    {
+      "code": 6,
+      "name": "Muy lento"
+    },
+    {
+      "code": 7,
+      "name": "Extr. Lento"
+    }
+  ],
+  "name": "04_DC_Velocidad",
+  "type": "codedValue"
+}

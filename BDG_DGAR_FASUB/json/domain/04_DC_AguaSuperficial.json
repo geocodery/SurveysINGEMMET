@@ -1,0 +1,14 @@
+{
+ "type": "codedValue", 
+ "name": "04_DC_AguaSuperficial", 
+ "codedValues": [
+
+
+ 
+
+{"code":  "Rio" , "name": "Río" },
+
+{"code":  "Qda" , "name": "Quebrada" },
+
+{"code":  "Lago" , "name": "Lago o laguna" } ]
+}

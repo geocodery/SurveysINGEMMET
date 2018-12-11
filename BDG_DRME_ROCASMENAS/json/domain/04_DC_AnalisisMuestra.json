@@ -1,0 +1,44 @@
+{
+ "type": "codedValue", 
+ "name": "04_DC_AnalisisMuestra", 
+ "codedValues": [
+
+
+ 
+
+{"code":  "DRx" , "name": "Difracción de Rayos X (DRx)" },
+
+{"code":  "EM" , "name": "Elementos Mayores (EM)" },
+
+{"code":  "Espectrom" , "name": "Espectrometría (PIMA)" },
+
+{"code":  "ET" , "name": "Elementos Traza (ET)" },
+
+{"code":  "FA" , "name": "Ensayo al fuego (FAA50)" },
+
+{"code":  "Geocrono" , "name": "Geocronología" },
+
+{"code":  "ICP" , "name": "Plasma de Acoplamiento Inductivo" },
+
+{"code":  "IF" , "name": "Inclusiones Fluidas (IF)" },
+
+{"code":  "ISOT_PB" , "name": "Isótopos Plomo (I Pb)" },
+
+{"code":  "Isotopos" , "name": "Isótopos" },
+
+{"code":  "ME" , "name": "Menas" },
+
+{"code":  "Microsonda" , "name": "Microsonda" },
+
+{"code":  "MMano" , "name": "Muestra de Mano" },
+
+{"code":  "otro" , "name": "Otro" },
+
+{"code":  "REE" , "name": "Elementos Traza (ET) y Tierras Raras (REE)" },
+
+{"code":  "SD" , "name": "Sección Delgada (SD)" },
+
+{"code":  "SDP" , "name": "Sección Delgada y Púlida (SDP)" },
+
+{"code":  "SP" , "name": "Sección Pulída (SP)" } ]
+}

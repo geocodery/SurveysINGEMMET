@@ -1,0 +1,32 @@
+{
+ "type": "codedValue", 
+ "name": "00_DC_User", 
+ "codedValues": [
+
+
+ 
+
+{"code":  "WNG" , "name": "W. Ng" },
+
+{"code":  "MOCHOA" , "name": "M. Ochoa" },
+
+{"code":  "BSANTOS" , "name": "B. Santos" },
+
+{"code":  "JORTIZ" , "name": "J. Ortiz" },
+
+{"code":  "RZAVALETA" , "name": "R. Zavaleta" },
+
+{"code":  "CANGELES" , "name": "C. Angeles" },
+
+{"code":  "MCARRASCO" , "name": "M. Carrasco" },
+
+{"code":  "DMACHACA" , "name": "D. Machaca" },
+
+{"code":  "JCARPIO" , "name": "J. Carpio" },
+
+{"code":  "JMORENO" , "name": "J. Moreno" },
+
+{"code":  "BQUISPE" , "name": "B. Quispe" },
+
+{"code":  "MHUARIPATA" , "name": "M. Huaripata" } ]
+}

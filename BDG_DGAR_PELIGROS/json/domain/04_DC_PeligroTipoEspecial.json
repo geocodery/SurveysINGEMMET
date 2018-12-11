@@ -1,0 +1,130 @@
+{
+  "codedValues": [
+    {
+      "code": 10,
+      "name": "Caída de roca"
+    },
+    {
+      "code": 20,
+      "name": "Derrumbe"
+    },
+    {
+      "code": 30,
+      "name": "Alud"
+    },
+    {
+      "code": 40,
+      "name": "Vuelco de estrato"
+    },
+    {
+      "code": 50,
+      "name": "Vuelco de bloque"
+    },
+    {
+      "code": 60,
+      "name": "Flujo de detritos"
+    },
+    {
+      "code": 70,
+      "name": "Flujo de lodo"
+    },
+    {
+      "code": 80,
+      "name": "Flujo de tierra"
+    },
+    {
+      "code": 90,
+      "name": "Flujo seco"
+    },
+    {
+      "code": 100,
+      "name": "Avalancha de rocas"
+    },
+    {
+      "code": 110,
+      "name": "Avalancha de detritos"
+    },
+    {
+      "code": 120,
+      "name": "Inundación de detritos"
+    },
+    {
+      "code": 130,
+      "name": "Reptación "
+    },
+    {
+      "code": 140,
+      "name": "Solifluxión"
+    },
+    {
+      "code": 150,
+      "name": "Deslizamiento rotacional"
+    },
+    {
+      "code": 160,
+      "name": "Deslizamiento traslacional"
+    },
+    {
+      "code": 170,
+      "name": "Deslizamiento - flujo"
+    },
+    {
+      "code": 180,
+      "name": "Derrumbe - flujo"
+    },
+    {
+      "code": 190,
+      "name": "Alud - flujo"
+    },
+    {
+      "code": 200,
+      "name": "Reptación - flujo"
+    },
+    {
+      "code": 210,
+      "name": "Derrumbe - deslizamiento"
+    },
+    {
+      "code": 220,
+      "name": "Deslizamiento - derrumbe"
+    },
+    {
+      "code": 230,
+      "name": "Arenamiento"
+    },
+    {
+      "code": 240,
+      "name": "Erosión de ladera"
+    },
+    {
+      "code": 250,
+      "name": "Hundimiento"
+    },
+    {
+      "code": 260,
+      "name": "Erosión fluvial"
+    },
+    {
+      "code": 270,
+      "name": "Erosión marina"
+    },
+    {
+      "code": 280,
+      "name": "Inundación marina"
+    },
+    {
+      "code": 290,
+      "name": "Inundación fluvial"
+    },
+    {
+      "code": 300,
+      "name": "Inundación lagunar"
+    },
+    {
+      "code": 310,
+      "name": "Inundación pluvial"
+    }
+  ],
+  "name": "04_DC_PeligroTipoEspecial",
+  "type": "codedValue"
+}

@@ -1,0 +1,165 @@
+{
+  "displayFieldName": "",
+  "features": [
+  ],
+  "fieldAliases": {
+    "CreationDate": "CreationDate",
+    "Creator": "Creator",
+    "DOMGEOTEC": "Dominio Geotectónico",
+    "DOMGEOTECD": "Descripción",
+    "EditDate": "EditDate",
+    "Editor": "Editor",
+    "LITODESC": "Descripción",
+    "ROCA": "Roca",
+    "ROCAD": "Descripción",
+    "ROCASTIPO": "Subtipo de roca",
+    "ROCATIPO": "Tipo de roca",
+    "SISTFALLA": "Sistemas de Fallas Regionales / Locales",
+    "SISTFALLAD": "Descripción",
+    "UGEOLOGICA": "Unidad Geológica / Controles Estratigráficos / Litológicos",
+    "UNIDAD_G": "UNIDAD_G",
+    "X": "X",
+    "Y": "Y",
+    "YM_GEOMET": "Estilo de Yacimiento",
+    "YM_GEOMETD": "Descripción",
+    "globalid": "GlobalID",
+    "objectid": "objectid",
+    "parentglobalid": "ParentGlobalID"
+  },
+  "fields": [
+    {
+      "alias": "objectid",
+      "name": "objectid",
+      "type": "esriFieldTypeOID"
+    },
+    {
+      "alias": "GlobalID",
+      "length": 38,
+      "name": "globalid",
+      "type": "esriFieldTypeGlobalID"
+    },
+    {
+      "alias": "UNIDAD_G",
+      "length": 255,
+      "name": "UNIDAD_G",
+      "type": "esriFieldTypeString"
+    },
+    {
+      "alias": "Unidad Geológica / Controles Estratigráficos / Litológicos",
+      "length": 255,
+      "name": "UGEOLOGICA",
+      "type": "esriFieldTypeString"
+    },
+    {
+      "alias": "Descripción",
+      "length": 255,
+      "name": "LITODESC",
+      "type": "esriFieldTypeString"
+    },
+    {
+      "alias": "Dominio Geotectónico",
+      "length": 255,
+      "name": "DOMGEOTEC",
+      "type": "esriFieldTypeString"
+    },
+    {
+      "alias": "Descripción",
+      "length": 255,
+      "name": "DOMGEOTECD",
+      "type": "esriFieldTypeString"
+    },
+    {
+      "alias": "Sistemas de Fallas Regionales / Locales",
+      "length": 255,
+      "name": "SISTFALLA",
+      "type": "esriFieldTypeString"
+    },
+    {
+      "alias": "Descripción",
+      "length": 255,
+      "name": "SISTFALLAD",
+      "type": "esriFieldTypeString"
+    },
+    {
+      "alias": "Tipo de roca",
+      "length": 255,
+      "name": "ROCATIPO",
+      "type": "esriFieldTypeString"
+    },
+    {
+      "alias": "Subtipo de roca",
+      "length": 255,
+      "name": "ROCASTIPO",
+      "type": "esriFieldTypeString"
+    },
+    {
+      "alias": "Roca",
+      "length": 255,
+      "name": "ROCA",
+      "type": "esriFieldTypeString"
+    },
+    {
+      "alias": "Descripción",
+      "length": 255,
+      "name": "ROCAD",
+      "type": "esriFieldTypeString"
+    },
+    {
+      "alias": "Estilo de Yacimiento",
+      "length": 255,
+      "name": "YM_GEOMET",
+      "type": "esriFieldTypeString"
+    },
+    {
+      "alias": "Descripción",
+      "length": 255,
+      "name": "YM_GEOMETD",
+      "type": "esriFieldTypeString"
+    },
+    {
+      "alias": "ParentGlobalID",
+      "length": 38,
+      "name": "parentglobalid",
+      "type": "esriFieldTypeGUID"
+    },
+    {
+      "alias": "CreationDate",
+      "length": 8,
+      "name": "CreationDate",
+      "type": "esriFieldTypeDate"
+    },
+    {
+      "alias": "Creator",
+      "length": 128,
+      "name": "Creator",
+      "type": "esriFieldTypeString"
+    },
+    {
+      "alias": "EditDate",
+      "length": 8,
+      "name": "EditDate",
+      "type": "esriFieldTypeDate"
+    },
+    {
+      "alias": "Editor",
+      "length": 128,
+      "name": "Editor",
+      "type": "esriFieldTypeString"
+    },
+    {
+      "alias": "X",
+      "name": "X",
+      "type": "esriFieldTypeDouble"
+    },
+    {
+      "alias": "Y",
+      "name": "Y",
+      "type": "esriFieldTypeDouble"
+    }
+  ],
+  "geometryType": "esriGeometryPoint",
+  "spatialReference": {
+    "latestWkid": 4326,
+    "wkid": 4326
+  }
+}

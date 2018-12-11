@@ -1,0 +1,38 @@
+{
+ "type": "codedValue", 
+ "name": "04_DC_Geomorfologia", 
+ "codedValues": [
+
+
+ 
+
+{"code":  "01" , "name": "Altiplanicie" },
+
+{"code":  "02" , "name": "Cañon" },
+
+{"code":  "03" , "name": "Catarata" },
+
+{"code":  "04" , "name": "Colina" },
+
+{"code":  "05" , "name": "Ladera" },
+
+{"code":  "06" , "name": "Ladera Escarpada" },
+
+{"code":  "07" , "name": "Laguna" },
+
+{"code":  "08" , "name": "Litoral" },
+
+{"code":  "09" , "name": "Montaña" },
+
+{"code":  "10" , "name": "Pie de Monte" },
+
+{"code":  "11" , "name": "Piso de Valle" },
+
+{"code":  "12" , "name": "Planicie" },
+
+{"code":  "13" , "name": "Quebrada" },
+
+{"code":  "14" , "name": "Rio" },
+
+{"code":  "15" , "name": "Terraza" } ]
+}

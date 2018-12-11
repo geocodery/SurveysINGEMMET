@@ -1,0 +1,100 @@
+{
+  "displayFieldName": "",
+  "fieldAliases": {
+	"FICHA_AGM": "Ficha N°",
+	"VALLE": "Valle",
+	"LADERA": "Ladera",
+	"PLANICIE": "Planicie",
+	"PENDIENTE": "Pendiente del terreno",
+	"RIOPRINC": "Río Principal",
+	"RIO": "Río",
+	"QDARIO": "Quebrada / Río",
+	"FORMTERR": "Forma del terreno",
+	"AGUASUB": "Presencia de agua subterránea",
+	"AGUASUBCAR": "Carácterística Agua subterránea",
+	"VEGTIPO": "Tipo de vegetación",
+	"VEGDENS": "Densidad de vegetación"
+  },
+   "geometryType": "esriGeometryPoint",
+   "fields": [
+   	{
+   		"name": "FICHA_AGM",
+   		"type": "esriFieldTypeString",
+   		"alias": "Ficha N°",
+   		"length": 255
+   	},
+	{
+		"name": "VALLE",
+		"type": "esriFieldTypeString",
+		"alias": "Valle",
+		"length": 255
+	},
+	{
+		"name": "LADERA",
+		"type": "esriFieldTypeString",
+		"alias": "Ladera",
+		"length": 255
+	},
+	{
+		"name": "PLANICIE",
+		"type": "esriFieldTypeString",
+		"alias": "Planicie",
+		"length": 255
+	},
+	{
+		"name": "PENDIENTE",
+		"type": "esriFieldTypeString",
+		"alias": "Pendiente del terreno",
+		"length": 255
+	},
+	{
+		"name": "RIOPRINC",
+		"type": "esriFieldTypeString",
+		"alias": "Río Principal",
+		"length": 255
+	},
+	{
+		"name": "RIO",
+		"type": "esriFieldTypeString",
+		"alias": "Río",
+		"length": 255
+	},
+	{
+		"name": "QDARIO",
+		"type": "esriFieldTypeString",
+		"alias": "Quebrada / Río",
+		"length": 255
+	},
+	{
+		"name": "FORMTERR",
+		"type": "esriFieldTypeString",
+		"alias": "Forma del terreno",
+		"length": 255
+	},
+	{
+		"name": "AGUASUB",
+		"type": "esriFieldTypeString",
+		"alias": "Presencia de agua subterránea",
+		"length": 255
+	},
+	{
+		"name": "AGUASUBCAR",
+		"type": "esriFieldTypeString",
+		"alias": "Carácterística Agua subterránea",
+		"length": 255
+	},
+	{
+		"name": "VEGTIPO",
+		"type": "esriFieldTypeString",
+		"alias": "Tipo de vegetación",
+		"length": 255
+	},
+	{
+		"name": "VEGDENS",
+		"type": "esriFieldTypeString",
+		"alias": "Densidad de vegetación",
+		"length": 255
+	}
+],
+"features": []
+}

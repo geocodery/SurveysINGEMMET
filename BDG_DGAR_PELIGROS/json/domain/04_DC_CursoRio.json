@@ -1,0 +1,18 @@
+{
+  "codedValues": [
+    {
+      "code": 1,
+      "name": "Anastomosado"
+    },
+    {
+      "code": 2,
+      "name": "Meándrico"
+    },
+    {
+      "code": 3,
+      "name": "Rectilíneo"
+    }
+  ],
+  "name": "04_DC_CursoRio",
+  "type": "codedValue"
+}

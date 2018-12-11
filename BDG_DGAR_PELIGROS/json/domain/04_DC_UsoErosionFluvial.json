@@ -1,0 +1,26 @@
+{
+  "codedValues": [
+    {
+      "code": 1,
+      "name": "Terraza"
+    },
+    {
+      "code": 2,
+      "name": "Terraplen"
+    },
+    {
+      "code": 3,
+      "name": "Estructura"
+    },
+    {
+      "code": 4,
+      "name": "Urbana"
+    },
+    {
+      "code": 5,
+      "name": "Agrícola"
+    }
+  ],
+  "name": "04_DC_UsoErosionFluvial",
+  "type": "codedValue"
+}

@@ -1,0 +1,14 @@
+{
+ "type": "codedValue", 
+ "name": "04_DC_RocaTipo", 
+ "codedValues": [
+
+
+ 
+
+{"code":  "RI" , "name": "Ignea" },
+
+{"code":  "RM" , "name": "Metamorfica" },
+
+{"code":  "RS" , "name": "Sedimentaria" } ]
+}

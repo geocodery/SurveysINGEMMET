@@ -1,0 +1,1226 @@
+{
+  "codedValues": [
+    {
+      "code": "ac",
+      "name": "ac"
+    },
+    {
+      "code": "act",
+      "name": "act"
+    },
+    {
+      "code": "ad",
+      "name": "ad"
+    },
+    {
+      "code": "abd",
+      "name": "abd"
+    },
+    {
+      "code": "ab",
+      "name": "ab"
+    },
+    {
+      "code": "alm",
+      "name": "alm"
+    },
+    {
+      "code": "aln",
+      "name": "aln"
+    },
+    {
+      "code": "amt",
+      "name": "amt"
+    },
+    {
+      "code": "acm",
+      "name": "acm"
+    },
+    {
+      "code": "anat",
+      "name": "anat"
+    },
+    {
+      "code": "anl",
+      "name": "anl"
+    },
+    {
+      "code": "adr",
+      "name": "adr"
+    },
+    {
+      "code": "add",
+      "name": "add"
+    },
+    {
+      "code": "ang",
+      "name": "ang"
+    },
+    {
+      "code": "anh",
+      "name": "anh"
+    },
+    {
+      "code": "ank",
+      "name": "ank"
+    },
+    {
+      "code": "an",
+      "name": "an"
+    },
+    {
+      "code": "anc",
+      "name": "anc"
+    },
+    {
+      "code": "atg",
+      "name": "atg"
+    },
+    {
+      "code": "Sb",
+      "name": "Sb"
+    },
+    {
+      "code": "atf",
+      "name": "atf"
+    },
+    {
+      "code": "ap",
+      "name": "ap"
+    },
+    {
+      "code": "agn",
+      "name": "agn"
+    },
+    {
+      "code": "agt",
+      "name": "agt"
+    },
+    {
+      "code": "aram",
+      "name": "aram"
+    },
+    {
+      "code": "As",
+      "name": "As"
+    },
+    {
+      "code": "apy",
+      "name": "apy"
+    },
+    {
+      "code": "atc",
+      "name": "atc"
+    },
+    {
+      "code": "aug",
+      "name": "aug"
+    },
+    {
+      "code": "aut",
+      "name": "aut"
+    },
+    {
+      "code": "ax",
+      "name": "ax"
+    },
+    {
+      "code": "S",
+      "name": "S"
+    },
+    {
+      "code": "az",
+      "name": "az"
+    },
+    {
+      "code": "bar",
+      "name": "bar"
+    },
+    {
+      "code": "BAXs",
+      "name": "BAXs"
+    },
+    {
+      "code": "brt",
+      "name": "brt"
+    },
+    {
+      "code": "bt",
+      "name": "bt"
+    },
+    {
+      "code": "bmt",
+      "name": "bmt"
+    },
+    {
+      "code": "Bi",
+      "name": "Bi"
+    },
+    {
+      "code": "boe",
+      "name": "boe"
+    },
+    {
+      "code": "bor",
+      "name": "bor"
+    },
+    {
+      "code": "bn",
+      "name": "bn"
+    },
+    {
+      "code": "blg",
+      "name": "blg"
+    },
+    {
+      "code": "bnn",
+      "name": "bnn"
+    },
+    {
+      "code": "bv",
+      "name": "bv"
+    },
+    {
+      "code": "bc",
+      "name": "bc"
+    },
+    {
+      "code": "bct",
+      "name": "bct"
+    },
+    {
+      "code": "bk",
+      "name": "bk"
+    },
+    {
+      "code": "bst",
+      "name": "bst"
+    },
+    {
+      "code": "by",
+      "name": "by"
+    },
+    {
+      "code": "ccd",
+      "name": "ccd"
+    },
+    {
+      "code": "cac",
+      "name": "cac"
+    },
+    {
+      "code": "cp",
+      "name": "cp"
+    },
+    {
+      "code": "cpo",
+      "name": "cpo"
+    },
+    {
+      "code": "cc",
+      "name": "cc"
+    },
+    {
+      "code": "can",
+      "name": "can"
+    },
+    {
+      "code": "cao",
+      "name": "cao"
+    },
+    {
+      "code": "CBs",
+      "name": "CBs"
+    },
+    {
+      "code": "car",
+      "name": "car"
+    },
+    {
+      "code": "ctt",
+      "name": "ctt"
+    },
+    {
+      "code": "cst",
+      "name": "cst"
+    },
+    {
+      "code": "cel",
+      "name": "cel"
+    },
+    {
+      "code": "cer",
+      "name": "cer"
+    },
+    {
+      "code": "chb",
+      "name": "chb"
+    },
+    {
+      "code": "cct",
+      "name": "cct"
+    },
+    {
+      "code": "chm",
+      "name": "chm"
+    },
+    {
+      "code": "cnt",
+      "name": "cnt"
+    },
+    {
+      "code": "ci",
+      "name": "ci"
+    },
+    {
+      "code": "clq",
+      "name": "clq"
+    },
+    {
+      "code": "clc",
+      "name": "clc"
+    },
+    {
+      "code": "CPXs",
+      "name": "CPXs"
+    },
+    {
+      "code": "clz",
+      "name": "clz"
+    },
+    {
+      "code": "clt",
+      "name": "clt"
+    },
+    {
+      "code": "cld",
+      "name": "cld"
+    },
+    {
+      "code": "cob",
+      "name": "cob"
+    },
+    {
+      "code": "Cu",
+      "name": "Cu"
+    },
+    {
+      "code": "CGRs",
+      "name": "CGRs"
+    },
+    {
+      "code": "clf",
+      "name": "clf"
+    },
+    {
+      "code": "Cls",
+      "name": "Cls"
+    },
+    {
+      "code": "cdd",
+      "name": "cdd"
+    },
+    {
+      "code": "crd",
+      "name": "crd"
+    },
+    {
+      "code": "cor",
+      "name": "cor"
+    },
+    {
+      "code": "cv",
+      "name": "cv"
+    },
+    {
+      "code": "crc",
+      "name": "crc"
+    },
+    {
+      "code": "crb",
+      "name": "crb"
+    },
+    {
+      "code": "crm",
+      "name": "crm"
+    },
+    {
+      "code": "cz",
+      "name": "cz"
+    },
+    {
+      "code": "cb",
+      "name": "cb"
+    },
+    {
+      "code": "cup",
+      "name": "cup"
+    },
+    {
+      "code": "dal",
+      "name": "dal"
+    },
+    {
+      "code": "dsp",
+      "name": "dsp"
+    },
+    {
+      "code": "dck",
+      "name": "dck"
+    },
+    {
+      "code": "dg",
+      "name": "dg"
+    },
+    {
+      "code": "dp",
+      "name": "dp"
+    },
+    {
+      "code": "dlm",
+      "name": "dlm"
+    },
+    {
+      "code": "dum",
+      "name": "dum"
+    },
+    {
+      "code": "eg",
+      "name": "eg"
+    },
+    {
+      "code": "el",
+      "name": "el"
+    },
+    {
+      "code": "en",
+      "name": "en"
+    },
+    {
+      "code": "ens",
+      "name": "ens"
+    },
+    {
+      "code": "ep",
+      "name": "ep"
+    },
+    {
+      "code": "ecl",
+      "name": "ecl"
+    },
+    {
+      "code": "ef",
+      "name": "ef"
+    },
+    {
+      "code": "efn",
+      "name": "efn"
+    },
+    {
+      "code": "sm",
+      "name": "sm"
+    },
+    {
+      "code": "spe",
+      "name": "spe"
+    },
+    {
+      "code": "eps",
+      "name": "eps"
+    },
+    {
+      "code": "esp",
+      "name": "esp"
+    },
+    {
+      "code": "epd",
+      "name": "epd"
+    },
+    {
+      "code": "esn",
+      "name": "esn"
+    },
+    {
+      "code": "esr",
+      "name": "esr"
+    },
+    {
+      "code": "etf",
+      "name": "etf"
+    },
+    {
+      "code": "etb",
+      "name": "etb"
+    },
+    {
+      "code": "esb",
+      "name": "esb"
+    },
+    {
+      "code": "est",
+      "name": "est"
+    },
+    {
+      "code": "etn",
+      "name": "etn"
+    },
+    {
+      "code": "etr",
+      "name": "etr"
+    },
+    {
+      "code": "fmt",
+      "name": "fmt"
+    },
+    {
+      "code": "fy",
+      "name": "fy"
+    },
+    {
+      "code": "FP",
+      "name": "FP"
+    },
+    {
+      "code": "FPKs",
+      "name": "FPKs"
+    },
+    {
+      "code": "fb",
+      "name": "fb"
+    },
+    {
+      "code": "flg",
+      "name": "flg"
+    },
+    {
+      "code": "flt",
+      "name": "flt"
+    },
+    {
+      "code": "fo",
+      "name": "fo"
+    },
+    {
+      "code": "frk",
+      "name": "frk"
+    },
+    {
+      "code": "frg",
+      "name": "frg"
+    },
+    {
+      "code": "fch",
+      "name": "fch"
+    },
+    {
+      "code": "gn",
+      "name": "gn"
+    },
+    {
+      "code": "GGs",
+      "name": "GGs"
+    },
+    {
+      "code": "geo",
+      "name": "geo"
+    },
+    {
+      "code": "gbs",
+      "name": "gbs"
+    },
+    {
+      "code": "glf",
+      "name": "glf"
+    },
+    {
+      "code": "glc",
+      "name": "glc"
+    },
+    {
+      "code": "goe",
+      "name": "goe"
+    },
+    {
+      "code": "gos",
+      "name": "gos"
+    },
+    {
+      "code": "gf",
+      "name": "gf"
+    },
+    {
+      "code": "GRNs",
+      "name": "GRNs"
+    },
+    {
+      "code": "grt",
+      "name": "grt"
+    },
+    {
+      "code": "grk",
+      "name": "grk"
+    },
+    {
+      "code": "gsl",
+      "name": "gsl"
+    },
+    {
+      "code": "gru",
+      "name": "gru"
+    },
+    {
+      "code": "ha",
+      "name": "ha"
+    },
+    {
+      "code": "hlo",
+      "name": "hlo"
+    },
+    {
+      "code": "hed",
+      "name": "hed"
+    },
+    {
+      "code": "hm",
+      "name": "hm"
+    },
+    {
+      "code": "heu",
+      "name": "heu"
+    },
+    {
+      "code": "hdr",
+      "name": "hdr"
+    },
+    {
+      "code": "Fe",
+      "name": "Fe"
+    },
+    {
+      "code": "hip",
+      "name": "hip"
+    },
+    {
+      "code": "hor",
+      "name": "hor"
+    },
+    {
+      "code": "hub",
+      "name": "hub"
+    },
+    {
+      "code": "idt",
+      "name": "idt"
+    },
+    {
+      "code": "idg",
+      "name": "idg"
+    },
+    {
+      "code": "ill",
+      "name": "ill"
+    },
+    {
+      "code": "ilm",
+      "name": "ilm"
+    },
+    {
+      "code": "jad",
+      "name": "jad"
+    },
+    {
+      "code": "jm",
+      "name": "jm"
+    },
+    {
+      "code": "jar",
+      "name": "jar"
+    },
+    {
+      "code": "jas",
+      "name": "jas"
+    },
+    {
+      "code": "jap",
+      "name": "jap"
+    },
+    {
+      "code": "jhn",
+      "name": "jhn"
+    },
+    {
+      "code": "lab",
+      "name": "lab"
+    },
+    {
+      "code": "lamp",
+      "name": "lamp"
+    },
+    {
+      "code": "lar",
+      "name": "lar"
+    },
+    {
+      "code": "lau",
+      "name": "lau"
+    },
+    {
+      "code": "laz",
+      "name": "laz"
+    },
+    {
+      "code": "lpc",
+      "name": "lpc"
+    },
+    {
+      "code": "lpd",
+      "name": "lpd"
+    },
+    {
+      "code": "leu",
+      "name": "leu"
+    },
+    {
+      "code": "lm",
+      "name": "lm"
+    },
+    {
+      "code": "lin",
+      "name": "lin"
+    },
+    {
+      "code": "lud",
+      "name": "lud"
+    },
+    {
+      "code": "lz",
+      "name": "lz"
+    },
+    {
+      "code": "mck",
+      "name": "mck"
+    },
+    {
+      "code": "mgm",
+      "name": "mgm"
+    },
+    {
+      "code": "mgr",
+      "name": "mgr"
+    },
+    {
+      "code": "mgs",
+      "name": "mgs"
+    },
+    {
+      "code": "mt",
+      "name": "mt"
+    },
+    {
+      "code": "mlq",
+      "name": "mlq"
+    },
+    {
+      "code": "mng",
+      "name": "mng"
+    },
+    {
+      "code": "mc",
+      "name": "mc"
+    },
+    {
+      "code": "mrl",
+      "name": "mrl"
+    },
+    {
+      "code": "mar",
+      "name": "mar"
+    },
+    {
+      "code": "mat",
+      "name": "mat"
+    },
+    {
+      "code": "mei",
+      "name": "mei"
+    },
+    {
+      "code": "mel",
+      "name": "mel"
+    },
+    {
+      "code": "mes",
+      "name": "mes"
+    },
+    {
+      "code": "mcl",
+      "name": "mcl"
+    },
+    {
+      "code": "mil",
+      "name": "mil"
+    },
+    {
+      "code": "mb",
+      "name": "mb"
+    },
+    {
+      "code": "mon",
+      "name": "mon"
+    },
+    {
+      "code": "mtc",
+      "name": "mtc"
+    },
+    {
+      "code": "mmt",
+      "name": "mmt"
+    },
+    {
+      "code": "mll",
+      "name": "mll"
+    },
+    {
+      "code": "mus",
+      "name": "mus"
+    },
+    {
+      "code": "nat",
+      "name": "nat"
+    },
+    {
+      "code": "nef",
+      "name": "nef"
+    },
+    {
+      "code": "nfr",
+      "name": "nfr"
+    },
+    {
+      "code": "nq",
+      "name": "nq"
+    },
+    {
+      "code": "olg",
+      "name": "olg"
+    },
+    {
+      "code": "olv",
+      "name": "olv"
+    },
+    {
+      "code": "opl",
+      "name": "opl"
+    },
+    {
+      "code": "Au",
+      "name": "Au"
+    },
+    {
+      "code": "orp",
+      "name": "orp"
+    },
+    {
+      "code": "ott",
+      "name": "ott"
+    },
+    {
+      "code": "ort",
+      "name": "ort"
+    },
+    {
+      "code": "O",
+      "name": "O"
+    },
+    {
+      "code": "pat",
+      "name": "pat"
+    },
+    {
+      "code": "per",
+      "name": "per"
+    },
+    {
+      "code": "pch",
+      "name": "pch"
+    },
+    {
+      "code": "pnn",
+      "name": "pnn"
+    },
+    {
+      "code": "pnt",
+      "name": "pnt"
+    },
+    {
+      "code": "prc",
+      "name": "prc"
+    },
+    {
+      "code": "pia",
+      "name": "pia"
+    },
+    {
+      "code": "pig",
+      "name": "pig"
+    },
+    {
+      "code": "prg",
+      "name": "prg"
+    },
+    {
+      "code": "py",
+      "name": "py"
+    },
+    {
+      "code": "prf",
+      "name": "prf"
+    },
+    {
+      "code": "pir",
+      "name": "pir"
+    },
+    {
+      "code": "prm",
+      "name": "prm"
+    },
+    {
+      "code": "prp",
+      "name": "prp"
+    },
+    {
+      "code": "px",
+      "name": "px"
+    },
+    {
+      "code": "po",
+      "name": "po"
+    },
+    {
+      "code": "pgl",
+      "name": "pgl"
+    },
+    {
+      "code": "Ag",
+      "name": "Ag"
+    },
+    {
+      "code": "PRJs",
+      "name": "PRJs"
+    },
+    {
+      "code": "PGRs",
+      "name": "PGRs"
+    },
+    {
+      "code": "plb",
+      "name": "plb"
+    },
+    {
+      "code": "plh",
+      "name": "plh"
+    },
+    {
+      "code": "pow",
+      "name": "pow"
+    },
+    {
+      "code": "prh",
+      "name": "prh"
+    },
+    {
+      "code": "plc",
+      "name": "plc"
+    },
+    {
+      "code": "prt",
+      "name": "prt"
+    },
+    {
+      "code": "psm",
+      "name": "psm"
+    },
+    {
+      "code": "qst",
+      "name": "qst"
+    },
+    {
+      "code": "rej",
+      "name": "rej"
+    },
+    {
+      "code": "rdc",
+      "name": "rdc"
+    },
+    {
+      "code": "rdn",
+      "name": "rdn"
+    },
+    {
+      "code": "rt",
+      "name": "rt"
+    },
+    {
+      "code": "saf",
+      "name": "saf"
+    },
+    {
+      "code": "san",
+      "name": "san"
+    },
+    {
+      "code": "Schee",
+      "name": "Schee"
+    },
+    {
+      "code": "Se",
+      "name": "Se"
+    },
+    {
+      "code": "SLNs",
+      "name": "SLNs"
+    },
+    {
+      "code": "sem",
+      "name": "sem"
+    },
+    {
+      "code": "sep",
+      "name": "sep"
+    },
+    {
+      "code": "ser",
+      "name": "ser"
+    },
+    {
+      "code": "spt",
+      "name": "spt"
+    },
+    {
+      "code": "sid",
+      "name": "sid"
+    },
+    {
+      "code": "si",
+      "name": "si"
+    },
+    {
+      "code": "slm",
+      "name": "slm"
+    },
+    {
+      "code": "svn",
+      "name": "svn"
+    },
+    {
+      "code": "silv",
+      "name": "silv"
+    },
+    {
+      "code": "smt",
+      "name": "smt"
+    },
+    {
+      "code": "skt",
+      "name": "skt"
+    },
+    {
+      "code": "sod",
+      "name": "sod"
+    },
+    {
+      "code": "stm",
+      "name": "stm"
+    },
+    {
+      "code": "tal",
+      "name": "tal"
+    },
+    {
+      "code": "TLRs",
+      "name": "TLRs"
+    },
+    {
+      "code": "Te",
+      "name": "Te"
+    },
+    {
+      "code": "tnn",
+      "name": "tnn"
+    },
+    {
+      "code": "tnr",
+      "name": "tnr"
+    },
+    {
+      "code": "td",
+      "name": "td"
+    },
+    {
+      "code": "thm",
+      "name": "thm"
+    },
+    {
+      "code": "tt",
+      "name": "tt"
+    },
+    {
+      "code": "tp",
+      "name": "tp"
+    },
+    {
+      "code": "trv",
+      "name": "trv"
+    },
+    {
+      "code": "tre",
+      "name": "tre"
+    },
+    {
+      "code": "trd",
+      "name": "trd"
+    },
+    {
+      "code": "tng",
+      "name": "tng"
+    },
+    {
+      "code": "tur",
+      "name": "tur"
+    },
+    {
+      "code": "tqs",
+      "name": "tqs"
+    },
+    {
+      "code": "ul",
+      "name": "ul"
+    },
+    {
+      "code": "ur",
+      "name": "ur"
+    },
+    {
+      "code": "uv",
+      "name": "uv"
+    },
+    {
+      "code": "val",
+      "name": "val"
+    },
+    {
+      "code": "van",
+      "name": "van"
+    },
+    {
+      "code": "vrm",
+      "name": "vrm"
+    },
+    {
+      "code": "vsb",
+      "name": "vsb"
+    },
+    {
+      "code": "vd",
+      "name": "vd"
+    },
+    {
+      "code": "vv",
+      "name": "vv"
+    },
+    {
+      "code": "wf",
+      "name": "wf"
+    },
+    {
+      "code": "woll",
+      "name": "woll"
+    },
+    {
+      "code": "wul",
+      "name": "wul"
+    },
+    {
+      "code": "wtz",
+      "name": "wtz"
+    },
+    {
+      "code": "ys",
+      "name": "ys"
+    },
+    {
+      "code": "ZEOs",
+      "name": "ZEOs"
+    },
+    {
+      "code": "znt",
+      "name": "znt"
+    },
+    {
+      "code": "zir",
+      "name": "zir"
+    },
+    {
+      "code": "zoi",
+      "name": "zoi"
+    },
+    {
+      "code": "zun",
+      "name": "zun"
+    },
+    {
+      "code": "OXsFe",
+      "name": "OXsFe"
+    },
+    {
+      "code": "ARCs",
+      "name": "ARCs"
+    },
+    {
+      "code": "SULFs",
+      "name": "SULFs"
+    },
+    {
+      "code": "SULFTs",
+      "name": "SULFTs"
+    },
+    {
+      "code": "CarCu",
+      "name": "CarCu"
+    },
+    {
+      "code": "OXsCu",
+      "name": "OXsCu"
+    },
+    {
+      "code": "OXsMn",
+      "name": "OXsMn"
+    },
+    {
+      "code": "Oxs",
+      "name": "Oxs"
+    },
+    {
+      "code": "py-Sulf",
+      "name": "py-Sulf"
+    },
+    {
+      "code": "Sulf-Fe",
+      "name": "Sulf-Fe"
+    },
+    {
+      "code": "SulfCu",
+      "name": "SulfCu"
+    },
+    {
+      "code": "lm.mar",
+      "name": "lm.mar"
+    },
+    {
+      "code": "Pyau",
+      "name": "Pyau"
+    }
+  ],
+  "name": "04_DC_Mineral",
+  "type": "codedValue"
+}

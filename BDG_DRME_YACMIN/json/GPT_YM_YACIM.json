@@ -1,0 +1,179 @@
+{"displayFieldName": "","features": [],"fieldAliases": {
+    "ALTITUD": "Altitud",
+    "DATUM": "Datum",
+    "DEPA": "DEPA",
+    "DIST": "DIST",
+    "ESTE": "Este",
+    "FECHA": "Fecha de ingreso",
+    "FRANJA": "FRANJA",
+    "GlobalID": "globalid",
+    "HOJA": "HOJA",
+    "IDREG": "Identificación Registro",
+    "LAT": "LAT",
+    "LOCALIDAD": "Sitio / Lugar",
+    "LON": "LON",
+    "MINAESCALA": "Categoría",
+    "MINAESTADO": "Estado",
+    "NORTE": "Norte",
+    "PROV": "PROV",
+    "RESP": "Responsable",
+    "REV": "Revisado por",
+    "UNIDAD": "Unidad",
+    "YM_CALIDAD": "Calidad",
+    "YM_REFWEB": "Referencia Web",
+    "YM_TIPO": "Tipo",
+    "ZONA": "Zona",
+    "objectid": "objectid"
+  },
+  "fields": [
+    {
+      "alias": "objectid",
+      "name": "objectid",
+      "type": "esriFieldTypeOID"
+    },
+    {
+      "alias": "GlobalID",
+      "length": 38,
+      "name": "globalid",
+      "type": "esriFieldTypeGlobalID"
+    },
+    {
+      "alias": "Unidad",
+      "length": 255,
+      "name": "UNIDAD",
+      "type": "esriFieldTypeString"
+    },
+    {
+      "alias": "Calidad",
+      "length": 255,
+      "name": "YM_CALIDAD",
+      "type": "esriFieldTypeString"
+    },
+    {
+      "alias": "Tipo",
+      "length": 255,
+      "name": "YM_TIPO",
+      "type": "esriFieldTypeString"
+    },
+    {
+      "alias": "Estado",
+      "length": 255,
+      "name": "MINAESTADO",
+      "type": "esriFieldTypeString"
+    },
+    {
+      "alias": "Categoría",
+      "length": 255,
+      "name": "MINAESCALA",
+      "type": "esriFieldTypeString"
+    },
+    {
+      "alias": "Identificación Registro",
+      "length": 255,
+      "name": "IDREG",
+      "type": "esriFieldTypeString"
+    },
+    {
+      "alias": "Referencia Web",
+      "length": 255,
+      "name": "YM_REFWEB",
+      "type": "esriFieldTypeString"
+    },
+    {
+      "alias": "LAT",
+      "name": "LAT",
+      "type": "esriFieldTypeDouble"
+    },
+    {
+      "alias": "LON",
+      "name": "LON",
+      "type": "esriFieldTypeDouble"
+    },
+    {
+      "alias": "Este",
+      "name": "ESTE",
+      "type": "esriFieldTypeInteger"
+    },
+    {
+      "alias": "Norte",
+      "name": "NORTE",
+      "type": "esriFieldTypeInteger"
+    },
+    {
+      "alias": "Datum",
+      "length": 255,
+      "name": "DATUM",
+      "type": "esriFieldTypeString"
+    },
+    {
+      "alias": "Zona",
+      "length": 255,
+      "name": "ZONA",
+      "type": "esriFieldTypeString"
+    },
+    {
+      "alias": "Altitud",
+      "name": "ALTITUD",
+      "type": "esriFieldTypeInteger"
+    },
+    {
+      "alias": "FRANJA",
+      "length": 255,
+      "name": "FRANJA",
+      "type": "esriFieldTypeString"
+    },
+    {
+      "alias": "DEPA",
+      "length": 255,
+      "name": "DEPA",
+      "type": "esriFieldTypeString"
+    },
+    {
+      "alias": "PROV",
+      "length": 255,
+      "name": "PROV",
+      "type": "esriFieldTypeString"
+    },
+    {
+      "alias": "DIST",
+      "length": 255,
+      "name": "DIST",
+      "type": "esriFieldTypeString"
+    },
+    {
+      "alias": "HOJA",
+      "length": 255,
+      "name": "HOJA",
+      "type": "esriFieldTypeString"
+    },
+    {
+      "alias": "Sitio / Lugar",
+      "length": 255,
+      "name": "LOCALIDAD",
+      "type": "esriFieldTypeString"
+    },
+    {
+      "alias": "Responsable",
+      "length": 255,
+      "name": "RESP",
+      "type": "esriFieldTypeString"
+    },
+    {
+      "alias": "Revisado por",
+      "length": 255,
+      "name": "REV",
+      "type": "esriFieldTypeString"
+    },
+    {
+      "alias": "Fecha de ingreso",
+      "length": 8,
+      "name": "FECHA",
+      "type": "esriFieldTypeDate"
+    }
+  ],
+  "geometryType": "esriGeometryPoint",
+  "spatialReference": {
+    "latestWkid": 4326,
+    "wkid": 4326
+  }
+}

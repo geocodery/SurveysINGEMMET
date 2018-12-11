@@ -1,0 +1,22 @@
+{
+  "codedValues": [
+    {
+      "code": 1,
+      "name": "Regular"
+    },
+    {
+      "code": 2,
+      "name": "Irregular"
+    },
+    {
+      "code": 3,
+      "name": "Continua"
+    },
+    {
+      "code": 4,
+      "name": "Discontinua"
+    }
+  ],
+  "name": "04_DC_FormaArranque",
+  "type": "codedValue"
+}

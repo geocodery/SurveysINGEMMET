@@ -1,0 +1,16 @@
+{
+ "type": "codedValue", 
+ "name": "04_DC_Proyecto", 
+ "codedValues": [
+
+
+ 
+
+{"code":  "RM" , "name": "Módulo de Rocas y Menas" },
+
+{"code":  "GE33A-5" , "name": "Estudio Metalogenético de la faja magmática cretáceo-palógeno asociado a los depósitos minerales tipo pórfidos y erpitermales entre Huancavelica, Ayacucho, Arequipa, Moquegua y Tacna" },
+
+{"code":  "GE33B-5" , "name": "Estudio de Metales Estratégicos en la Cordillera Oriental" },
+
+{"code":  "SIGE-DM" , "name": "Distritos Mineros" } ]
+}

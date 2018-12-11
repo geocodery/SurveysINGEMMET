@@ -1,0 +1,58 @@
+{
+  "codedValues": [
+    {
+      "code": "1",
+      "name": "Altiplano Occidental"
+    },
+    {
+      "code": "2",
+      "name": "Altiplano Oriental"
+    },
+    {
+      "code": "3",
+      "name": "Alto Condoroma - Caylloma"
+    },
+    {
+      "code": "4",
+      "name": "Cordillera Occidental"
+    },
+    {
+      "code": "5",
+      "name": "Cordillera Oriental"
+    },
+    {
+      "code": "6",
+      "name": "Dominio Amotape-Tahuin"
+    },
+    {
+      "code": "7",
+      "name": "Dominio Atico - Mollendo - Tacna"
+    },
+    {
+      "code": "8",
+      "name": "Dominio Casma"
+    },
+    {
+      "code": "9",
+      "name": "Dominio Olmos - Loja"
+    },
+    {
+      "code": "10",
+      "name": "Dominio Pisco - Chala"
+    },
+    {
+      "code": "11",
+      "name": "Dominio Sechura-Lancones"
+    },
+    {
+      "code": "12",
+      "name": "Llanura amazónica"
+    },
+    {
+      "code": "13",
+      "name": "Zona subandina"
+    }
+  ],
+  "name": "04_DC_DomGeotectonico",
+  "type": "codedValue"
+}

@@ -1,0 +1,38 @@
+{
+ "type": "codedValue", 
+ "name": "04_DC_MinerTipo", 
+ "codedValues": [
+
+
+ 
+
+{"code":  "CRE" , "name": "Crestón" },
+
+{"code":  "DIA" , "name": "Diaclasa" },
+
+{"code":  "ESP" , "name": "Espejo de falla" },
+
+{"code":  "EQU" , "name": "Esquistosidad" },
+
+{"code":  "EST" , "name": "Estrato" },
+
+{"code":  "ETS" , "name": "Estructura Sedimentaria" },
+
+{"code":  "FOL" , "name": "Foliación" },
+
+{"code":  "FRA" , "name": "Fractura" },
+
+{"code":  "FAL" , "name": "Falla" },
+
+{"code":  "LIN" , "name": "Lineación" },
+
+{"code":  "MAN" , "name": "Manto" },
+
+{"code":  "PLI" , "name": "Pliegue" },
+
+{"code":  "VET" , "name": "Veta" },
+
+{"code":  "VTA" , "name": "Vetilla" },
+
+{"code":  "ZCI" , "name": "Zona de Cizalla" } ]
+}

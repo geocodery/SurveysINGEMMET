@@ -1,0 +1,18 @@
+{
+ "type": "codedValue", 
+ "name": "04_DC_Pendiente", 
+ "codedValues": [
+
+
+ 
+
+{"code":  "MuyBaja" , "name": "Muy Baja (<10°)" },
+
+{"code":  "Baja" , "name": "Baja (10 - 20°)" },
+
+{"code":  "Media" , "name": "Media (20 - 40°)" },
+
+{"code":  "Fuerte" , "name": "Fuerte (40 - 60°)" },
+
+{"code":  "MuyFuerte" , "name": "Muy Fuerte (>60°)" } ]
+}

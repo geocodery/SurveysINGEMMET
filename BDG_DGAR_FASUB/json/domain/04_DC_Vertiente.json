@@ -1,0 +1,14 @@
+{
+ "type": "codedValue", 
+ "name": "04_DC_Vertiente", 
+ "codedValues": [
+
+
+ 
+
+{"code":  "Pacifico" , "name": "Pacífico" },
+
+{"code":  "Titicaca" , "name": "Titicaca" },
+
+{"code":  "Atlantico" , "name": "Atlántico" } ]
+}

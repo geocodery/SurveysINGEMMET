@@ -1,0 +1,26 @@
+{
+  "codedValues": [
+    {
+      "code": 1,
+      "name": "Fluvial"
+    },
+    {
+      "code": 2,
+      "name": "Glaciar"
+    },
+    {
+      "code": 3,
+      "name": "Cañón"
+    },
+    {
+      "code": 4,
+      "name": "Inundable"
+    },
+    {
+      "code": 5,
+      "name": "Represamiento"
+    }
+  ],
+  "name": "04_DC_Valle",
+  "type": "codedValue"
+}

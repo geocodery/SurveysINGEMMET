@@ -1,0 +1,26 @@
+{
+ "type": "codedValue", 
+ "name": "04_DC_AguaSubterranea", 
+ "codedValues": [
+
+
+ 
+
+{"code":  "Manantial" , "name": "Manantial" },
+
+{"code":  "ManantialCaptado" , "name": "Manantial Captado" },
+
+{"code":  "FuenteTermal" , "name": "Fuente Termal" },
+
+{"code":  "Pozos" , "name": "Pozos" },
+
+{"code":  "Sondeos" , "name": "Sondeos" },
+
+{"code":  "GaleriaFiltrante" , "name": "Galeria Filtrante" },
+
+{"code":  "Bofedal" , "name": "Bofedal" },
+
+{"code":  "Geisser" , "name": "Geisser" },
+
+{"code":  "PuntoControl" , "name": "Punto Control" } ]
+}

@@ -1,0 +1,1186 @@
+{
+  "codedValues": [
+    {
+      "code": "ab",
+      "name": "Albita"
+    },
+    {
+      "code": "abd",
+      "name": "Alabandita"
+    },
+    {
+      "code": "ac",
+      "name": "Acantita"
+    },
+    {
+      "code": "acm",
+      "name": "Analcima"
+    },
+    {
+      "code": "act",
+      "name": "Actinolita"
+    },
+    {
+      "code": "ad",
+      "name": "Adularia"
+    },
+    {
+      "code": "add",
+      "name": "Andradita"
+    },
+    {
+      "code": "adr",
+      "name": "Andorita"
+    },
+    {
+      "code": "Ag",
+      "name": "Plata"
+    },
+    {
+      "code": "agn",
+      "name": "Aragonito"
+    },
+    {
+      "code": "agt",
+      "name": "Argentita"
+    },
+    {
+      "code": "alm",
+      "name": "Almandina"
+    },
+    {
+      "code": "aln",
+      "name": "Alunita"
+    },
+    {
+      "code": "amt",
+      "name": "Amatista"
+    },
+    {
+      "code": "an",
+      "name": "Anortita"
+    },
+    {
+      "code": "anat",
+      "name": "Anatasa"
+    },
+    {
+      "code": "anc",
+      "name": "Anortoclasa"
+    },
+    {
+      "code": "ang",
+      "name": "Anglesita"
+    },
+    {
+      "code": "anh",
+      "name": "Anhidrita"
+    },
+    {
+      "code": "ank",
+      "name": "Ankerita"
+    },
+    {
+      "code": "anl",
+      "name": "Andalusita"
+    },
+    {
+      "code": "ap",
+      "name": "Apatito"
+    },
+    {
+      "code": "apy",
+      "name": "Arsenopirita"
+    },
+    {
+      "code": "aram",
+      "name": "Armayoita"
+    },
+    {
+      "code": "ARCs",
+      "name": "Arcillas"
+    },
+    {
+      "code": "As",
+      "name": "Arsénico"
+    },
+    {
+      "code": "atc",
+      "name": "Atacamita"
+    },
+    {
+      "code": "atf",
+      "name": "Antofilita"
+    },
+    {
+      "code": "atg",
+      "name": "Antigorita"
+    },
+    {
+      "code": "Au",
+      "name": "Oro"
+    },
+    {
+      "code": "aug",
+      "name": "Augita"
+    },
+    {
+      "code": "aut",
+      "name": "Autunita"
+    },
+    {
+      "code": "ax",
+      "name": "Axinita"
+    },
+    {
+      "code": "az",
+      "name": "Azurita"
+    },
+    {
+      "code": "bar",
+      "name": "Baritina"
+    },
+    {
+      "code": "BAXs",
+      "name": "Bauxita"
+    },
+    {
+      "code": "bc",
+      "name": "Brocantita"
+    },
+    {
+      "code": "bct",
+      "name": "Brucita"
+    },
+    {
+      "code": "Bi",
+      "name": "Bismuto"
+    },
+    {
+      "code": "bk",
+      "name": "Brunckita"
+    },
+    {
+      "code": "blg",
+      "name": "Boulangerita"
+    },
+    {
+      "code": "bmt",
+      "name": "Bismutinita"
+    },
+    {
+      "code": "bn",
+      "name": "Bornita"
+    },
+    {
+      "code": "bnn",
+      "name": "Bournonita"
+    },
+    {
+      "code": "boe",
+      "name": "Bohemita"
+    },
+    {
+      "code": "bor",
+      "name": "Boracita"
+    },
+    {
+      "code": "brt",
+      "name": "Berthierita"
+    },
+    {
+      "code": "bst",
+      "name": "Bustamita"
+    },
+    {
+      "code": "bt",
+      "name": "Biotita"
+    },
+    {
+      "code": "bv",
+      "name": "Bravoita"
+    },
+    {
+      "code": "by",
+      "name": "Bytownita"
+    },
+    {
+      "code": "cac",
+      "name": "Calcita"
+    },
+    {
+      "code": "can",
+      "name": "Cancrinita"
+    },
+    {
+      "code": "cao",
+      "name": "Caolinita"
+    },
+    {
+      "code": "car",
+      "name": "Carnalita"
+    },
+    {
+      "code": "cb",
+      "name": "Cubanita"
+    },
+    {
+      "code": "CBs",
+      "name": "Carbonato"
+    },
+    {
+      "code": "cc",
+      "name": "Calcosita"
+    },
+    {
+      "code": "ccd",
+      "name": "Calcedonia"
+    },
+    {
+      "code": "cct",
+      "name": "Chalcantita"
+    },
+    {
+      "code": "cdd",
+      "name": "Condrodita"
+    },
+    {
+      "code": "cel",
+      "name": "Celestina"
+    },
+    {
+      "code": "cer",
+      "name": "Cerusita"
+    },
+    {
+      "code": "CGRs",
+      "name": "Cobres grises"
+    },
+    {
+      "code": "chb",
+      "name": "Chabasita"
+    },
+    {
+      "code": "chm",
+      "name": "Chamosita"
+    },
+    {
+      "code": "ci",
+      "name": "Cinabrio"
+    },
+    {
+      "code": "clc",
+      "name": "Clinocloro"
+    },
+    {
+      "code": "cld",
+      "name": "Cloritoide"
+    },
+    {
+      "code": "clf",
+      "name": "Colofana"
+    },
+    {
+      "code": "clq",
+      "name": "Cliaquita"
+    },
+    {
+      "code": "Cls",
+      "name": "Colusita"
+    },
+    {
+      "code": "clt",
+      "name": "Clorita"
+    },
+    {
+      "code": "clz",
+      "name": "Clinozoisita"
+    },
+    {
+      "code": "cnt",
+      "name": "Cianita"
+    },
+    {
+      "code": "cob",
+      "name": "Cobaltita"
+    },
+    {
+      "code": "cor",
+      "name": "Corindón"
+    },
+    {
+      "code": "cp",
+      "name": "Calcopirita"
+    },
+    {
+      "code": "cpo",
+      "name": "Calcopirrotita"
+    },
+    {
+      "code": "CPXs",
+      "name": "Clinopiroxeno"
+    },
+    {
+      "code": "crb",
+      "name": "Cristobalita"
+    },
+    {
+      "code": "crc",
+      "name": "Crisocola"
+    },
+    {
+      "code": "crd",
+      "name": "Cordierita"
+    },
+    {
+      "code": "crm",
+      "name": "Cromita"
+    },
+    {
+      "code": "cst",
+      "name": "Casiterita"
+    },
+    {
+      "code": "ctt",
+      "name": "Carnotita"
+    },
+    {
+      "code": "Cu",
+      "name": "Cobre"
+    },
+    {
+      "code": "cup",
+      "name": "Cuprita"
+    },
+    {
+      "code": "cv",
+      "name": "Covelita"
+    },
+    {
+      "code": "cz",
+      "name": "Cuarzo"
+    },
+    {
+      "code": "dal",
+      "name": "Dahllita"
+    },
+    {
+      "code": "dck",
+      "name": "Dickita"
+    },
+    {
+      "code": "dg",
+      "name": "Digenita"
+    },
+    {
+      "code": "dlm",
+      "name": "Dolomita"
+    },
+    {
+      "code": "dp",
+      "name": "Diopsido"
+    },
+    {
+      "code": "dsp",
+      "name": "Diáspora"
+    },
+    {
+      "code": "dum",
+      "name": "Dumortierita"
+    },
+    {
+      "code": "ecl",
+      "name": "Escolecita"
+    },
+    {
+      "code": "ef",
+      "name": "Esfalerita"
+    },
+    {
+      "code": "efn",
+      "name": "Esfena"
+    },
+    {
+      "code": "eg",
+      "name": "Egirina"
+    },
+    {
+      "code": "el",
+      "name": "Electrum"
+    },
+    {
+      "code": "en",
+      "name": "Enargita"
+    },
+    {
+      "code": "ens",
+      "name": "Enstatita"
+    },
+    {
+      "code": "ep",
+      "name": "Epidota"
+    },
+    {
+      "code": "epd",
+      "name": "Espodumena"
+    },
+    {
+      "code": "eps",
+      "name": "Espesartina"
+    },
+    {
+      "code": "esb",
+      "name": "Estibina"
+    },
+    {
+      "code": "esn",
+      "name": "Estannita"
+    },
+    {
+      "code": "esp",
+      "name": "Espinela"
+    },
+    {
+      "code": "esr",
+      "name": "Estaurolita"
+    },
+    {
+      "code": "est",
+      "name": "Estilbita"
+    },
+    {
+      "code": "etb",
+      "name": "Esternbergita"
+    },
+    {
+      "code": "etf",
+      "name": "Estefanita"
+    },
+    {
+      "code": "etn",
+      "name": "Estilpnomelana"
+    },
+    {
+      "code": "etr",
+      "name": "Estroncianita"
+    },
+    {
+      "code": "fb",
+      "name": "Ferberita"
+    },
+    {
+      "code": "fch",
+      "name": "Fuchsita"
+    },
+    {
+      "code": "Fe",
+      "name": "Hierro"
+    },
+    {
+      "code": "flg",
+      "name": "Flogopita"
+    },
+    {
+      "code": "flt",
+      "name": "Fluorita"
+    },
+    {
+      "code": "fmt",
+      "name": "Famatinita"
+    },
+    {
+      "code": "fo",
+      "name": "Forsterita"
+    },
+    {
+      "code": "FPKs",
+      "name": "Feldespato-K"
+    },
+    {
+      "code": "frg",
+      "name": "Freibergita"
+    },
+    {
+      "code": "frk",
+      "name": "Franklinita"
+    },
+    {
+      "code": "fy",
+      "name": "Fayalita"
+    },
+    {
+      "code": "gbs",
+      "name": "Gibsita"
+    },
+    {
+      "code": "geo",
+      "name": "Geocronita"
+    },
+    {
+      "code": "gf",
+      "name": "Grafito"
+    },
+    {
+      "code": "GGs",
+      "name": "GANGAS"
+    },
+    {
+      "code": "glc",
+      "name": "Glauconita"
+    },
+    {
+      "code": "glf",
+      "name": "Glaucofana"
+    },
+    {
+      "code": "gn",
+      "name": "Galena"
+    },
+    {
+      "code": "goe",
+      "name": "Gohetita"
+    },
+    {
+      "code": "gos",
+      "name": "Goslarita"
+    },
+    {
+      "code": "grk",
+      "name": "Greenockita"
+    },
+    {
+      "code": "GRNs",
+      "name": "Granates"
+    },
+    {
+      "code": "grt",
+      "name": "Gratonita"
+    },
+    {
+      "code": "gru",
+      "name": "Grunerita"
+    },
+    {
+      "code": "gsl",
+      "name": "Grosularia"
+    },
+    {
+      "code": "ha",
+      "name": "Halita"
+    },
+    {
+      "code": "hdr",
+      "name": "Hidromuscovita"
+    },
+    {
+      "code": "hed",
+      "name": "Hedenbergita"
+    },
+    {
+      "code": "heu",
+      "name": "Heulandita"
+    },
+    {
+      "code": "hip",
+      "name": "Hiperstena"
+    },
+    {
+      "code": "hlo",
+      "name": "Haloisita"
+    },
+    {
+      "code": "hm",
+      "name": "Hematita"
+    },
+    {
+      "code": "hor",
+      "name": "Hornblenda"
+    },
+    {
+      "code": "hub",
+      "name": "Hubnerita"
+    },
+    {
+      "code": "idg",
+      "name": "Iddingsita"
+    },
+    {
+      "code": "idt",
+      "name": "Idaita"
+    },
+    {
+      "code": "ill",
+      "name": "Illita"
+    },
+    {
+      "code": "ilm",
+      "name": "Ilmenita"
+    },
+    {
+      "code": "jad",
+      "name": "Jadeita"
+    },
+    {
+      "code": "jap",
+      "name": "Jasperoide"
+    },
+    {
+      "code": "jar",
+      "name": "Jarosita"
+    },
+    {
+      "code": "jas",
+      "name": "Jaspe"
+    },
+    {
+      "code": "jhn",
+      "name": "Johansonita"
+    },
+    {
+      "code": "jm",
+      "name": "Jamesonita"
+    },
+    {
+      "code": "lab",
+      "name": "Labradorita"
+    },
+    {
+      "code": "lamp",
+      "name": "Lamproborita"
+    },
+    {
+      "code": "lar",
+      "name": "Larnita"
+    },
+    {
+      "code": "lau",
+      "name": "Lawsonita"
+    },
+    {
+      "code": "laz",
+      "name": "Lazurita"
+    },
+    {
+      "code": "leu",
+      "name": "Leucita"
+    },
+    {
+      "code": "lin",
+      "name": "Linneita"
+    },
+    {
+      "code": "lm",
+      "name": "Limonita"
+    },
+    {
+      "code": "lpc",
+      "name": "Lepidocrosita"
+    },
+    {
+      "code": "lpd",
+      "name": "Lepidolita"
+    },
+    {
+      "code": "lud",
+      "name": "Ludwigita"
+    },
+    {
+      "code": "lz",
+      "name": "Luzonita"
+    },
+    {
+      "code": "mar",
+      "name": "Marmatita"
+    },
+    {
+      "code": "mat",
+      "name": "Matildita"
+    },
+    {
+      "code": "mb",
+      "name": "Molibdenita"
+    },
+    {
+      "code": "mc",
+      "name": "Marcasita"
+    },
+    {
+      "code": "mck",
+      "name": "Mackinawita"
+    },
+    {
+      "code": "mcl",
+      "name": "Microclina"
+    },
+    {
+      "code": "mei",
+      "name": "Meionita"
+    },
+    {
+      "code": "mel",
+      "name": "Melanterita"
+    },
+    {
+      "code": "mes",
+      "name": "Mesolita"
+    },
+    {
+      "code": "mgm",
+      "name": "Maghemita"
+    },
+    {
+      "code": "mgr",
+      "name": "Magnesioribeckita"
+    },
+    {
+      "code": "mgs",
+      "name": "Magnesita"
+    },
+    {
+      "code": "mil",
+      "name": "Millerita"
+    },
+    {
+      "code": "mll",
+      "name": "Mullita"
+    },
+    {
+      "code": "mlq",
+      "name": "Malaquita"
+    },
+    {
+      "code": "mmt",
+      "name": "Montmorillonita"
+    },
+    {
+      "code": "mng",
+      "name": "Manganita"
+    },
+    {
+      "code": "mon",
+      "name": "Monacita"
+    },
+    {
+      "code": "mrl",
+      "name": "Marialita"
+    },
+    {
+      "code": "mt",
+      "name": "Magnetita"
+    },
+    {
+      "code": "mtc",
+      "name": "Monticelita"
+    },
+    {
+      "code": "mus",
+      "name": "Muscovita"
+    },
+    {
+      "code": "nat",
+      "name": "Natrolita"
+    },
+    {
+      "code": "nef",
+      "name": "Nefelina"
+    },
+    {
+      "code": "nfr",
+      "name": "Nefrita"
+    },
+    {
+      "code": "nq",
+      "name": "Niquelita"
+    },
+    {
+      "code": "O",
+      "name": "Palagonita"
+    },
+    {
+      "code": "olg",
+      "name": "Oligoclasa"
+    },
+    {
+      "code": "olv",
+      "name": "Olivino"
+    },
+    {
+      "code": "opl",
+      "name": "Opalo"
+    },
+    {
+      "code": "orp",
+      "name": "Oropimente"
+    },
+    {
+      "code": "ort",
+      "name": "Ortosa"
+    },
+    {
+      "code": "ott",
+      "name": "Ortita (allanita)"
+    },
+    {
+      "code": "OXsFe",
+      "name": "Oxidos de Hierro "
+    },
+    {
+      "code": "pat",
+      "name": "Patronita"
+    },
+    {
+      "code": "pch",
+      "name": "Pechblenda"
+    },
+    {
+      "code": "per",
+      "name": "Pearceita"
+    },
+    {
+      "code": "pgl",
+      "name": "Plagioclasa"
+    },
+    {
+      "code": "PGRs",
+      "name": "Platasgrises"
+    },
+    {
+      "code": "pia",
+      "name": "Piamontita"
+    },
+    {
+      "code": "pig",
+      "name": "Pigeonita"
+    },
+    {
+      "code": "pir",
+      "name": "Pirolusita"
+    },
+    {
+      "code": "plb",
+      "name": "Polibasita"
+    },
+    {
+      "code": "plc",
+      "name": "Proclorita"
+    },
+    {
+      "code": "plh",
+      "name": "Polihalita"
+    },
+    {
+      "code": "pnn",
+      "name": "Pennina"
+    },
+    {
+      "code": "pnt",
+      "name": "Pentlandita"
+    },
+    {
+      "code": "po",
+      "name": "Pirrotita"
+    },
+    {
+      "code": "pow",
+      "name": "Powelita"
+    },
+    {
+      "code": "prc",
+      "name": "Periclasa"
+    },
+    {
+      "code": "prf",
+      "name": "Pirofilita"
+    },
+    {
+      "code": "prg",
+      "name": "Pirargirita"
+    },
+    {
+      "code": "prh",
+      "name": "Prehnita"
+    },
+    {
+      "code": "PRJs",
+      "name": "Platas rojas"
+    },
+    {
+      "code": "prm",
+      "name": "Piromorfita"
+    },
+    {
+      "code": "prp",
+      "name": "Piropo"
+    },
+    {
+      "code": "prt",
+      "name": "Proustita"
+    },
+    {
+      "code": "psm",
+      "name": "Psilomelano"
+    },
+    {
+      "code": "px",
+      "name": "Piroxeno"
+    },
+    {
+      "code": "py",
+      "name": "Pirita"
+    },
+    {
+      "code": "qst",
+      "name": "Quiastolita"
+    },
+    {
+      "code": "rdc",
+      "name": "Rodocrosita"
+    },
+    {
+      "code": "rdn",
+      "name": "Rodonita"
+    },
+    {
+      "code": "rej",
+      "name": "Rejalgar"
+    },
+    {
+      "code": "rt",
+      "name": "Rutilo"
+    },
+    {
+      "code": "S",
+      "name": "Azufre"
+    },
+    {
+      "code": "saf",
+      "name": "Saflorita"
+    },
+    {
+      "code": "san",
+      "name": "Sanidina"
+    },
+    {
+      "code": "Sb",
+      "name": "Antimonio"
+    },
+    {
+      "code": "Schee",
+      "name": "Scheelita"
+    },
+    {
+      "code": "Se",
+      "name": "Selenio "
+    },
+    {
+      "code": "sem",
+      "name": "Semsejita"
+    },
+    {
+      "code": "sep",
+      "name": "Sepiolita"
+    },
+    {
+      "code": "ser",
+      "name": "Sericita"
+    },
+    {
+      "code": "si",
+      "name": "Silice"
+    },
+    {
+      "code": "sid",
+      "name": "Siderita"
+    },
+    {
+      "code": "silv",
+      "name": "Silvita"
+    },
+    {
+      "code": "skt",
+      "name": "Skutterudita"
+    },
+    {
+      "code": "slm",
+      "name": "Silimanita"
+    },
+    {
+      "code": "SLNs",
+      "name": "Seleniuros"
+    },
+    {
+      "code": "sm",
+      "name": "Esmectita"
+    },
+    {
+      "code": "smt",
+      "name": "Sithsonita"
+    },
+    {
+      "code": "sod",
+      "name": "Sodalita"
+    },
+    {
+      "code": "spe",
+      "name": "Especularita"
+    },
+    {
+      "code": "spt",
+      "name": "Serpentina"
+    },
+    {
+      "code": "stm",
+      "name": "Stromeyerita"
+    },
+    {
+      "code": "SULFs",
+      "name": "Sulfosales"
+    },
+    {
+      "code": "SULFTs",
+      "name": "Sulfatos"
+    },
+    {
+      "code": "svn",
+      "name": "Silvanita"
+    },
+    {
+      "code": "tal",
+      "name": "Talco"
+    },
+    {
+      "code": "td",
+      "name": "Tetraedrita"
+    },
+    {
+      "code": "Te",
+      "name": "Teluro"
+    },
+    {
+      "code": "thm",
+      "name": "Thomsonita"
+    },
+    {
+      "code": "TLRs",
+      "name": "Teleruros"
+    },
+    {
+      "code": "tng",
+      "name": "Tungstita"
+    },
+    {
+      "code": "tnn",
+      "name": "Tennantita"
+    },
+    {
+      "code": "tnr",
+      "name": "Tenorita"
+    },
+    {
+      "code": "tp",
+      "name": "topacio"
+    },
+    {
+      "code": "tqs",
+      "name": "Turqueza"
+    },
+    {
+      "code": "trd",
+      "name": "Tridimita"
+    },
+    {
+      "code": "tre",
+      "name": "Tremolita"
+    },
+    {
+      "code": "trv",
+      "name": "Travertino"
+    },
+    {
+      "code": "tt",
+      "name": "Titanita"
+    },
+    {
+      "code": "tur",
+      "name": "Turmalina"
+    },
+    {
+      "code": "ul",
+      "name": "Ullmannita"
+    },
+    {
+      "code": "ur",
+      "name": "Uraninita"
+    },
+    {
+      "code": "uv",
+      "name": "Uvarovita"
+    },
+    {
+      "code": "val",
+      "name": "Vallerita"
+    },
+    {
+      "code": "van",
+      "name": "Vanadinita"
+    },
+    {
+      "code": "vd",
+      "name": "Vidrio"
+    },
+    {
+      "code": "vrm",
+      "name": "Vermiculita"
+    },
+    {
+      "code": "vsb",
+      "name": "Vesubiana"
+    },
+    {
+      "code": "vv",
+      "name": "Vivianita"
+    },
+    {
+      "code": "wf",
+      "name": "Wolframatos"
+    },
+    {
+      "code": "woll",
+      "name": "Wollastonita"
+    },
+    {
+      "code": "wtz",
+      "name": "Wurztita"
+    },
+    {
+      "code": "wul",
+      "name": "Wulfenita"
+    },
+    {
+      "code": "ys",
+      "name": "Yeso"
+    },
+    {
+      "code": "ZEOs",
+      "name": "Zeolitas"
+    },
+    {
+      "code": "zir",
+      "name": "Zircon"
+    },
+    {
+      "code": "znt",
+      "name": "Zincita"
+    },
+    {
+      "code": "zoi",
+      "name": "Zoisita"
+    },
+    {
+      "code": "zun",
+      "name": "Zunyita"
+    }
+  ],
+  "name": "04_DC_MineralGeocron",
+  "type": "codedValue"
+}

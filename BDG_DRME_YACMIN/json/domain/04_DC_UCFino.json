@@ -1,0 +1,22 @@
+{
+  "codedValues": [
+    {
+      "code": "Moz",
+      "name": "Moz"
+    },
+    {
+      "code": "gf",
+      "name": "gf"
+    },
+    {
+      "code": "oz",
+      "name": "oz"
+    },
+    {
+      "code": "tf",
+      "name": "tf"
+    }
+  ],
+  "name": "04_DC_UCFino",
+  "type": "codedValue"
+}

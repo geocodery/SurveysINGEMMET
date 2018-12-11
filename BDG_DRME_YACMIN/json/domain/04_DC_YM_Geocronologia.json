@@ -1,0 +1,14 @@
+{
+  "codedValues": [
+    {
+      "code": "1",
+      "name": "Edad de la Roca Hospedante"
+    },
+    {
+      "code": "2",
+      "name": "Edad de la Mineralización / Alteración"
+    }
+  ],
+  "name": "04_DC_YM_Geocronologia",
+  "type": "codedValue"
+}

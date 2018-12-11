@@ -1,0 +1,22 @@
+{
+  "codedValues": [
+    {
+      "code": 1,
+      "name": "Dunas aisladas"
+    },
+    {
+      "code": 2,
+      "name": "Campo de dunas"
+    },
+    {
+      "code": 3,
+      "name": "Dep. eólicos"
+    },
+    {
+      "code": 4,
+      "name": "Médanos"
+    }
+  ],
+  "name": "04_DC_ArenamientoCaract",
+  "type": "codedValue"
+}

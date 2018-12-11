@@ -1,0 +1,14 @@
+{
+  "codedValues": [
+    {
+      "code": 1,
+      "name": "Canalizado"
+    },
+    {
+      "code": 2,
+      "name": "No canalizado"
+    }
+  ],
+  "name": "04_DC_FlujoMaterial",
+  "type": "codedValue"
+}

@@ -1,0 +1,54 @@
+{
+  "codedValues": [
+    {
+      "code": 1,
+      "name": "Aluviales"
+    },
+    {
+      "code": 2,
+      "name": "Fluviales"
+    },
+    {
+      "code": 3,
+      "name": "Proluvial"
+    },
+    {
+      "code": 4,
+      "name": "Coluvial"
+    },
+    {
+      "code": 5,
+      "name": "Deluvial"
+    },
+    {
+      "code": 6,
+      "name": "Eolicos"
+    },
+    {
+      "code": 7,
+      "name": "Residual"
+    },
+    {
+      "code": 8,
+      "name": "Lacustre"
+    },
+    {
+      "code": 9,
+      "name": "Marino"
+    },
+    {
+      "code": 10,
+      "name": "Fluvio - Glaciales"
+    },
+    {
+      "code": 11,
+      "name": "Glaciales"
+    },
+    {
+      "code": 12,
+      "name": "Antropico"
+    }
+  ],
+  "name": "04_DC_DepositoSuperficial",
+  "type": "codedValue"
+}

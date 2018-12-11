@@ -1,0 +1,14 @@
+{
+  "codedValues": [
+    {
+      "code": 1,
+      "name": "Socavamiento o erosión en el pie de ladera"
+    },
+    {
+      "code": 2,
+      "name": "Estrangulamiento de río o meandro"
+    }
+  ],
+  "name": "04_DC_ErosionFluvial",
+  "type": "codedValue"
+}

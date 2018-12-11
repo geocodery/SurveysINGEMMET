@@ -1,0 +1,30 @@
+{
+  "codedValues": [
+    {
+      "code": 1,
+      "name": "Escarpa única"
+    },
+    {
+      "code": 2,
+      "name": "Escarpas múltiples"
+    },
+    {
+      "code": 3,
+      "name": "Enjambre de escarpas"
+    },
+    {
+      "code": 4,
+      "name": "Reactivación"
+    },
+    {
+      "code": 5,
+      "name": "Asentamientos"
+    },
+    {
+      "code": 6,
+      "name": "Desviación de cauce y/o embalse"
+    }
+  ],
+  "name": "04_DC_EscarpaEstilo",
+  "type": "codedValue"
+}

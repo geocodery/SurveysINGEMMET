@@ -1,0 +1,18 @@
+{
+ "type": "codedValue", 
+ "name": "04_DC_Multimedia", 
+ "codedValues": [
+
+
+ 
+
+{"code":  "Audio" , "name": "Audio" },
+
+{"code":  "Croquis" , "name": "Croquis" },
+
+{"code":  "Documento" , "name": "Documento" },
+
+{"code":  "Fotografía" , "name": "Fotografía" },
+
+{"code":  "Video" , "name": "Video" } ]
+}

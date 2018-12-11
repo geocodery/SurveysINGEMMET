@@ -1,0 +1,12 @@
+{
+ "type": "codedValue", 
+ "name": "yes_no", 
+ "codedValues": [
+
+
+ 
+
+{"code":  "yes" , "name": "Yes" },
+
+{"code":  "no" , "name": "No" } ]
+}

@@ -1,0 +1,38 @@
+{
+  "codedValues": [
+    {
+      "code": 1,
+      "name": "Recta"
+    },
+    {
+      "code": 2,
+      "name": "Circular"
+    },
+    {
+      "code": 3,
+      "name": "Elongadas"
+    },
+    {
+      "code": 4,
+      "name": "Continua"
+    },
+    {
+      "code": 5,
+      "name": "Irregular"
+    },
+    {
+      "code": 6,
+      "name": "Semicircular"
+    },
+    {
+      "code": 7,
+      "name": "Parabólica"
+    },
+    {
+      "code": 8,
+      "name": "Discontinua"
+    }
+  ],
+  "name": "04_DC_EscarpaForma",
+  "type": "codedValue"
+}

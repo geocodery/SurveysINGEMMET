@@ -1,0 +1,18 @@
+{
+  "codedValues": [
+    {
+      "code": "0144",
+      "name": "Cuenca Mauri"
+    },
+    {
+      "code": "0146",
+      "name": "Cuenca Caño"
+    },
+    {
+      "code": "0148",
+      "name": "Cuenca Ushusuma"
+    }
+  ],
+  "name": "04_DC_Cuenca",
+  "type": "codedValue"
+}

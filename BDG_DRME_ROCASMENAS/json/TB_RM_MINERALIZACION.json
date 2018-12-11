@@ -1,0 +1,5 @@
+[u'hidden', u'CDMTRA_MR', u'Muestra']
+[u'text', u'CONTENIDO_MIN', u'Contenido (%)']
+[u'text', u'MINMENA', u'Minerales en mena']
+[u'text', u'MINGANGA', u'Gangas']
+[u'select_one 04_DC_AlterEstilo', u'ESTILO_MIN', u'Estilo de mineralizacion']

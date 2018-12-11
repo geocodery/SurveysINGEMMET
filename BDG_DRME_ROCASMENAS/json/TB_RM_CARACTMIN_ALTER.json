@@ -1,0 +1,7 @@
+[u'hidden', u'CDMTRA_MN_A', u'Muestra']
+[u'select_one 04_DC_Alteracion', u'ALTERACION', u'Alteraciones']
+[u'select_one 04_DC_AlteracionIntensidad', u'INTENSIDAD', u'Intensidad']
+[u'select_one 04_DC_AlteracionGrupo', u'GRUPO_ALTR', u'Grupo']
+[u'select_one 04_DC_AlteracionMineral', u'MINERAL', u'Minerales']
+[u'select_multiple 04_DC_AlterEstilo', u'E_ALTERACION', u'Estilo de Alteraci\xc3\xb3n']
+[u'hidden', u'ORDEN1', u'ORDEN']

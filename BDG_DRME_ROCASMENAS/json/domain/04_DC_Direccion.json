@@ -1,0 +1,20 @@
+{
+ "type": "codedValue", 
+ "name": "04_DC_Direccion", 
+ "codedValues": [
+
+
+ 
+
+{"code":  "NE" , "name": "NE" },
+
+{"code":  "NO" , "name": "NO" },
+
+{"code":  "SE" , "name": "SE" },
+
+{"code":  "SO" , "name": "SO" },
+
+{"code":  "NS" , "name": "NS" },
+
+{"code":  "EO" , "name": "EO" } ]
+}

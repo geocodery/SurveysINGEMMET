@@ -1,0 +1,74 @@
+{
+  "codedValues": [
+    {
+      "code": "1",
+      "name": "Sistema de Fallas Pataz"
+    },
+    {
+      "code": "2",
+      "name": "Sistema de Fallas Cerro de Pasco - Ayacucho"
+    },
+    {
+      "code": "3",
+      "name": "Sistema de Fallas Satipo - Pangoa - San Francisco"
+    },
+    {
+      "code": "4",
+      "name": "Sistema de Fallas Abancay - Andahuaylas-Totos-Licapa"
+    },
+    {
+      "code": "5",
+      "name": "Sistema de Fallas Puyentimari"
+    },
+    {
+      "code": "6",
+      "name": "Sistema de Fallas Tamburco - Patacancha"
+    },
+    {
+      "code": "7",
+      "name": "Sistema de Fallas Urcos - Sicuani - Ayaviri"
+    },
+    {
+      "code": "8",
+      "name": "Sistema de Fallas Cusco - Lagunillas - Mañazo"
+    },
+    {
+      "code": "9",
+      "name": "Sistema de Fallas Abancay - Condoroma - Caylloma"
+    },
+    {
+      "code": "10",
+      "name": "Sistema de Fallas Incapuquio"
+    },
+    {
+      "code": "11",
+      "name": "Sistema de Fallas Cincha - Lluta"
+    },
+    {
+      "code": "12",
+      "name": "Sistema de Fallas Ica - Islay - Ilo"
+    },
+    {
+      "code": "13",
+      "name": "Sistema de Fallas Conchao - Cocachacra"
+    },
+    {
+      "code": "14",
+      "name": "Sistema de Fallas Chonta"
+    },
+    {
+      "code": "15",
+      "name": "Sistema de Fallas Punre - Canchas - Magistral"
+    },
+    {
+      "code": "16",
+      "name": "Sistema de Fallas La Oroya - Huancavelica"
+    },
+    {
+      "code": "17",
+      "name": "Sistema de Fallas Cordillera Blanca"
+    }
+  ],
+  "name": "04_DC_SistemaFallas",
+  "type": "codedValue"
+}

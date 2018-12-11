@@ -1,0 +1,5 @@
+[u'hidden', u'CDMTRA_AM', u'Muestra']
+[u'text', u'ACT_PRD', u'Producci\xc3\xb3n']
+[u'select_one 04_DC_MinaEscala', u'ACT_SC_PRD', u'Escala Producci\xc3\xb3n']
+[u'text', u'ACT_RR_RSV', u'Recursos y/o reservas']
+[u'text', u'ACT_DATO', u'Datos empresa']

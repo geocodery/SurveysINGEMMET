@@ -1,0 +1,90 @@
+{
+  "codedValues": [
+    {
+      "code": "1",
+      "name": "Brecha"
+    },
+    {
+      "code": "2",
+      "name": "Veta"
+    },
+    {
+      "code": "3",
+      "name": "Diseminado"
+    },
+    {
+      "code": "4",
+      "name": "Stockwork"
+    },
+    {
+      "code": "5",
+      "name": "Manto"
+    },
+    {
+      "code": "6",
+      "name": "Cuerpo    "
+    },
+    {
+      "code": "7",
+      "name": "Estratoligados"
+    },
+    {
+      "code": "8",
+      "name": "Diques"
+    },
+    {
+      "code": "9",
+      "name": "Lacolitos"
+    },
+    {
+      "code": "10",
+      "name": "Sills"
+    },
+    {
+      "code": "11",
+      "name": "Venillas"
+    },
+    {
+      "code": "12",
+      "name": "Filon"
+    },
+    {
+      "code": "13",
+      "name": "Stock"
+    },
+    {
+      "code": "14",
+      "name": "Fracturas"
+    },
+    {
+      "code": "15",
+      "name": "Microbrechas"
+    },
+    {
+      "code": "16",
+      "name": "Caldera"
+    },
+    {
+      "code": "17",
+      "name": "Diatrema"
+    },
+    {
+      "code": "18",
+      "name": "Domo"
+    },
+    {
+      "code": "19",
+      "name": "Vetillas"
+    },
+    {
+      "code": "20",
+      "name": "Otros"
+    },
+    {
+      "code": "21",
+      "name": "Centros Fisurales - Hidrotermales"
+    }
+  ],
+  "name": "04_DC_EstiloYacim",
+  "type": "codedValue"
+}

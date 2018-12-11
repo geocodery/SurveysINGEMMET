@@ -1,0 +1,18 @@
+{
+ "type": "codedValue", 
+ "name": "04_DC_AlteracionIntensidad", 
+ "codedValues": [
+
+
+ 
+
+{"code":  "Traza" , "name": "Traza" },
+
+{"code":  "Debil" , "name": "Débil" },
+
+{"code":  "Moderado" , "name": "Moderado" },
+
+{"code":  "Fuerte" , "name": "Fuerte" },
+
+{"code":  "Intensa-completa" , "name": "Intensa-completa" } ]
+}

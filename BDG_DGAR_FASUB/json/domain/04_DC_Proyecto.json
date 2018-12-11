@@ -1,0 +1,14 @@
+{
+ "type": "codedValue", 
+ "name": "04_DC_Proyecto", 
+ "codedValues": [
+
+
+ 
+
+{"code":  "GA47B" , "name": "GA47B" },
+
+{"code":  "GA53" , "name": "GA53" },
+
+{"code":  "GA48C" , "name": "GA48C" } ]
+}

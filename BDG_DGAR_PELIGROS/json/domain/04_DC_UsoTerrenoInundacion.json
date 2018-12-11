@@ -1,0 +1,22 @@
+{
+  "codedValues": [
+    {
+      "code": 1,
+      "name": "Urbana / Rural"
+    },
+    {
+      "code": 2,
+      "name": "Carretera o vía"
+    },
+    {
+      "code": 3,
+      "name": "Agrícola / Pastos"
+    },
+    {
+      "code": 4,
+      "name": "Otra"
+    }
+  ],
+  "name": "04_DC_UsoTerrenoInundacion",
+  "type": "codedValue"
+}

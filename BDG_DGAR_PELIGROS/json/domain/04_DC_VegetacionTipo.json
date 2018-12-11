@@ -1,0 +1,22 @@
+{
+  "codedValues": [
+    {
+      "code": 1,
+      "name": "Cultivos"
+    },
+    {
+      "code": 2,
+      "name": "Herbáceas"
+    },
+    {
+      "code": 3,
+      "name": "Pastos"
+    },
+    {
+      "code": 4,
+      "name": "Arbustos"
+    }
+  ],
+  "name": "04_DC_VegetacionTipo",
+  "type": "codedValue"
+}

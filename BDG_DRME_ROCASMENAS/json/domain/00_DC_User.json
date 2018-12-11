@@ -1,0 +1,20 @@
+{
+ "type": "codedValue", 
+ "name": "00_DC_User", 
+ "codedValues": [
+
+
+ 
+
+{"code":  "DHUANACUNI" , "name": "Huanacuni Mamani, Dina" },
+
+{"code":  "CMARCHENA" , "name": "Marchena Campos, " },
+
+{"code":  "ASANTISTEBAN" , "name": "Santisteban Angeldonis," },
+
+{"code":  "WURBINA" , "name": "Urbina Salinas, Willy" },
+
+{"code":  "MVALENCIA" , "name": "Valencia Muñoz, Michael Melitón" },
+
+{"code":  "WMARTINEZ" , "name": "Martinez Vallad, William" } ]
+}

@@ -1,0 +1,26 @@
+{
+  "codedValues": [
+    {
+      "code": 1,
+      "name": "Pastizales"
+    },
+    {
+      "code": 2,
+      "name": "Cultivos"
+    },
+    {
+      "code": 3,
+      "name": "Bofedales"
+    },
+    {
+      "code": 4,
+      "name": "Corte artificial"
+    },
+    {
+      "code": 5,
+      "name": "Area urbana"
+    }
+  ],
+  "name": "04_DC_ErosionZonaInvol",
+  "type": "codedValue"
+}

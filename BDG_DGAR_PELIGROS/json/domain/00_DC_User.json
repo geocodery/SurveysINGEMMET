@@ -1,0 +1,42 @@
+{
+  "codedValues": [
+    {
+      "code": "HCASTRO",
+      "name": "Castro Pomatana, Hugo"
+    },
+    {
+      "code": "LFIDEL",
+      "name": "Fidel Smoll, Lionel"
+    },
+    {
+      "code": "GLUQUE",
+      "name": "Luque Poma, Griselda"
+    },
+    {
+      "code": "MMAMANI",
+      "name": "Mamani Huisa, Miriam"
+    },
+    {
+      "code": "LMEDINA",
+      "name": "Medina Allca, Lucio"
+    },
+    {
+      "code": "SNUNEZ",
+      "name": "Nuñez Juarez, Segundo"
+    },
+    {
+      "code": "JSALCEDO",
+      "name": "Salcedo Carbajal, Juan"
+    },
+    {
+      "code": "ASANCHEZ",
+      "name": "Sanchez Fernandez, Agapito"
+    },
+    {
+      "code": "WURBINA",
+      "name": "Urbina Salinas, Willy"
+    }
+  ],
+  "name": "00_DC_User",
+  "type": "codedValue"
+}

@@ -1,0 +1,30 @@
+{
+  "codedValues": [
+    {
+      "code": 1,
+      "name": "Muy blando"
+    },
+    {
+      "code": 2,
+      "name": "Blando"
+    },
+    {
+      "code": 3,
+      "name": "Med. Compacto"
+    },
+    {
+      "code": 4,
+      "name": "Compacto"
+    },
+    {
+      "code": 5,
+      "name": "Muy compacto"
+    },
+    {
+      "code": 6,
+      "name": "Duro"
+    }
+  ],
+  "name": "04_DC_SueloCohesivo",
+  "type": "codedValue"
+}

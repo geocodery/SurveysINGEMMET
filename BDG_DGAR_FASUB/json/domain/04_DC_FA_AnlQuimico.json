@@ -1,0 +1,14 @@
+{
+ "type": "codedValue", 
+ "name": "04_DC_FA_AnlQuimico", 
+ "codedValues": [
+
+
+ 
+
+{"code":  "1" , "name": "Anion" },
+
+{"code":  "2" , "name": "Cation" },
+
+{"code":  "3" , "name": "Metal Pesado" } ]
+}

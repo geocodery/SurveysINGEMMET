@@ -1,0 +1,26 @@
+{
+  "codedValues": [
+    {
+      "code": 1,
+      "name": "F1"
+    },
+    {
+      "code": 2,
+      "name": "F2"
+    },
+    {
+      "code": 3,
+      "name": "F3"
+    },
+    {
+      "code": 4,
+      "name": "F4"
+    },
+    {
+      "code": 5,
+      "name": "F5"
+    }
+  ],
+  "name": "04_DC_IntensidadFracturam",
+  "type": "codedValue"
+}

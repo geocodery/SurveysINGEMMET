@@ -1,0 +1,18 @@
+{
+ "type": "codedValue", 
+ "name": "04_DC_Color", 
+ "codedValues": [
+
+
+ 
+
+{"code":  "Amarillo" , "name": "Amarillo" },
+
+{"code":  "Naranja" , "name": "Naranja" },
+
+{"code":  "Rojizo" , "name": "Rojizo" },
+
+{"code":  "Verdoso" , "name": "Verdoso" },
+
+{"code":  "Incoloro" , "name": "Incoloro" } ]
+}

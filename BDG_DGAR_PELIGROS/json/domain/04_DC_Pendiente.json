@@ -1,0 +1,30 @@
+{
+  "codedValues": [
+    {
+      "code": 1,
+      "name": "Llano (<1°)"
+    },
+    {
+      "code": 2,
+      "name": "Inclinado-suave (1-5°)"
+    },
+    {
+      "code": 3,
+      "name": "Moderada (5-15°)"
+    },
+    {
+      "code": 4,
+      "name": "Fuerte (15-25°)"
+    },
+    {
+      "code": 5,
+      "name": "Muy fuerte (25-45°)"
+    },
+    {
+      "code": 6,
+      "name": "Muy escarpado (>45°)"
+    }
+  ],
+  "name": "04_DC_Pendiente",
+  "type": "codedValue"
+}

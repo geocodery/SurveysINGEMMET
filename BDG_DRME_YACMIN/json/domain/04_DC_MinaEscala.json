@@ -1,0 +1,18 @@
+{
+  "codedValues": [
+    {
+      "code": "GM-MM",
+      "name": "Gran y Mediana Minería"
+    },
+    {
+      "code": "MA",
+      "name": "Minería Artesanal"
+    },
+    {
+      "code": "PM",
+      "name": "Pequeña Minería"
+    }
+  ],
+  "name": "04_DC_MinaEscala",
+  "type": "codedValue"
+}

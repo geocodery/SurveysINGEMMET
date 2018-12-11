@@ -1,0 +1,16 @@
+{
+ "type": "codedValue", 
+ "name": "04_DC_FA_QAQC", 
+ "codedValues": [
+
+
+ 
+
+{"code":  "Bcampo" , "name": "B. Campo" },
+
+{"code":  "Bviajero" , "name": "B. Viajero" },
+
+{"code":  "Estandar" , "name": "Estandar" },
+
+{"code":  "Duplicado" , "name": "Duplicado" } ]
+}

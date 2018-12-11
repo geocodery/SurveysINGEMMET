@@ -1,0 +1,67 @@
+{
+  "displayFieldName": "",
+  "fieldAliases": {
+	"FICHA_OA" : "FICHA_OA",
+	"OCURACT" : "Ocurrencia actual",
+	"OCURANT" : "Ocurrencias anteriores",
+	"RECURPEL" : "Recurrencia del peligro",
+	"FENOMEDAD" : "Fenomeno",
+	"ESTADO" : "Clasificacion y estado de la actividad",
+	"LATENTE" : "Latente",
+	"EDAD" : "Edad del fenómeno"
+  },
+   "geometryType": "esriGeometryPoint",
+   "fields": [
+   	{
+   		"name": "FICHA_OA",
+   		"type": "esriFieldTypeString",
+   		"alias": "FICHA_OA", 
+   		"length": 255
+   	},
+	{
+		"name": "OCURACT",
+		"type": "esriFieldTypeDate",
+		"alias": "Ocurrencia actual", 
+		"length": 255
+	},
+	{
+		"name": "OCURANT",
+		"type": "esriFieldTypeString",
+		"alias": "Ocurrencias anteriores", 
+		"length": 255
+	},
+	{
+		"name": "RECURPEL",
+		"type": "esriFieldTypeString",
+		"alias": "Recurrencia del peligro", 
+		"length": 255
+	},
+	{
+		"name": "FENOMEDAD",
+		"type": "esriFieldTypeString",
+		"alias": "Fenomeno", 
+		"length": 255
+	},
+	{
+		"name": "ESTADO",
+		"type": "esriFieldTypeString",
+		"alias": "Clasificacion y estado de la actividad", 
+		"length": 255
+	},
+	{
+		"name": "LATENTE",
+		"type": "esriFieldTypeString",
+		"alias": "Latente", 
+		"length": 255
+	},
+	{
+		"name": "EDAD",
+		"type": "esriFieldTypeString",
+		"alias": "Edad del fenómeno", 
+		"length": 255
+	}
+
+],
+"features": []
+}
+

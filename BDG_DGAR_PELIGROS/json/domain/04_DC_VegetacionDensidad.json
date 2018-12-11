@@ -1,0 +1,22 @@
+{
+  "codedValues": [
+    {
+      "code": 1,
+      "name": "Nula"
+    },
+    {
+      "code": 2,
+      "name": "Escasa"
+    },
+    {
+      "code": 3,
+      "name": "Regular"
+    },
+    {
+      "code": 4,
+      "name": "Abundante"
+    }
+  ],
+  "name": "04_DC_VegetacionDensidad",
+  "type": "codedValue"
+}

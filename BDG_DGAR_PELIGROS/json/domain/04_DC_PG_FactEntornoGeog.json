@@ -1,0 +1,54 @@
+{
+  "codedValues": [
+    {
+      "code": 11,
+      "name": "Precipitaciones pluviales intensas (pluviosidad alta)"
+    },
+    {
+      "code": 12,
+      "name": "Deshielo y/o retroceso glaciar"
+    },
+    {
+      "code": 13,
+      "name": "Aguas subterráneas: Infiltraciones / presión de poros"
+    },
+    {
+      "code": 14,
+      "name": "Dinámica fluvial (socavamiento de pie de un talud)"
+    },
+    {
+      "code": 15,
+      "name": "Colmatación del cauce fluvial (sedimentación)"
+    },
+    {
+      "code": 16,
+      "name": "Dinámica marina (erosión de costas)"
+    },
+    {
+      "code": 17,
+      "name": "Dinámica eólica"
+    },
+    {
+      "code": 18,
+      "name": "Actividad volcánica"
+    },
+    {
+      "code": 19,
+      "name": "Sismicidad y/o fallas activas"
+    },
+    {
+      "code": 20,
+      "name": "Rotura de un dique morréico"
+    },
+    {
+      "code": 21,
+      "name": "Otro peligro geológico"
+    },
+    {
+      "code": 22,
+      "name": "Otro factor"
+    }
+  ],
+  "name": "04_DC_PG_FactEntornoGeog",
+  "type": "codedValue"
+}

@@ -1,0 +1,22 @@
+{
+  "codedValues": [
+    {
+      "code": 1,
+      "name": "Activo"
+    },
+    {
+      "code": 2,
+      "name": "Inactivo-Joven"
+    },
+    {
+      "code": 3,
+      "name": "Inactivo-Maduro"
+    },
+    {
+      "code": 4,
+      "name": "Viejo"
+    }
+  ],
+  "name": "04_DC_EdadEstimada",
+  "type": "codedValue"
+}

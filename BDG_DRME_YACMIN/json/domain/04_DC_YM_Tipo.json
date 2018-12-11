@@ -1,0 +1,46 @@
+{
+  "codedValues": [
+    {
+      "code": "Anomalias",
+      "name": "Anomalias"
+    },
+    {
+      "code": "Deposito",
+      "name": "Depósito"
+    },
+    {
+      "code": "Ocurrencia",
+      "name": "Ocurrencia"
+    },
+    {
+      "code": "Prospecto",
+      "name": "Prospecto"
+    },
+    {
+      "code": "Proyecto",
+      "name": "Proyecto"
+    },
+    {
+      "code": "Mina",
+      "name": "Mina"
+    },
+    {
+      "code": "AnomaliaEspectral",
+      "name": "Anomalía Espectral"
+    },
+    {
+      "code": "AnomaliaGeoquimica",
+      "name": "Anomalía Geoquímica"
+    },
+    {
+      "code": "AnomaliaGeofisica",
+      "name": "Anomalía Geofísica"
+    },
+    {
+      "code": "Mina-Cluster",
+      "name": "Mina-Cluster"
+    }
+  ],
+  "name": "04_DC_YM_Tipo",
+  "type": "codedValue"
+}

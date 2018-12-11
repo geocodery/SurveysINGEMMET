@@ -1,0 +1,14 @@
+{
+  "codedValues": [
+    {
+      "code": 1,
+      "name": "Plana"
+    },
+    {
+      "code": 2,
+      "name": "Rotacional"
+    }
+  ],
+  "name": "04_DC_EscarpaSuperficie",
+  "type": "codedValue"
+}

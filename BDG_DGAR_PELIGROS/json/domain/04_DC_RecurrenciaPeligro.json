@@ -1,0 +1,18 @@
+{
+  "codedValues": [
+    {
+      "code": 1,
+      "name": "Periódico"
+    },
+    {
+      "code": 2,
+      "name": "Ocasional"
+    },
+    {
+      "code": 3,
+      "name": "Excepcional"
+    }
+  ],
+  "name": "04_DC_RecurrenciaPeligro",
+  "type": "codedValue"
+}

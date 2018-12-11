@@ -1,0 +1,18 @@
+{
+  "codedValues": [
+    {
+      "code": 1,
+      "name": "Alta"
+    },
+    {
+      "code": 2,
+      "name": "Baja"
+    },
+    {
+      "code": 3,
+      "name": "Media"
+    }
+  ],
+  "name": "04_DC_Latente",
+  "type": "codedValue"
+}

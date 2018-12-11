@@ -1,0 +1,210 @@
+{
+  "codedValues": [
+    {
+      "code": "I/II|a",
+      "name": "Intrusivos con magnetita-piroxeno-apatito"
+    },
+    {
+      "code": "I/II|b",
+      "name": "Intrusivos con apatito-nefelina"
+    },
+    {
+      "code": "III|a1",
+      "name": "Epitermal indiferenciado (Bonanza, Carlín, de Hg)"
+    },
+    {
+      "code": "III|a2",
+      "name": "Epitermal alta sulfuración"
+    },
+    {
+      "code": "III|a3",
+      "name": "Epitermal baja sulfuración"
+    },
+    {
+      "code": "III|a4",
+      "name": "Epitermales de intermedia sulfuración"
+    },
+    {
+      "code": "III|b",
+      "name": "Polimetálicos con superposición epitermal"
+    },
+    {
+      "code": "III|c1",
+      "name": "Skarn-cordillerano"
+    },
+    {
+      "code": "III|c2",
+      "name": "Skarn"
+    },
+    {
+      "code": "III|d",
+      "name": "Óxidos de Fe-Cu-Au (IOCG)"
+    },
+    {
+      "code": "III|e1",
+      "name": "Pórfidos  Cu-Mo"
+    },
+    {
+      "code": "III|e2",
+      "name": "Pórfidos  Cu-Au"
+    },
+    {
+      "code": "III|e3",
+      "name": "Pórfidos  W-Cu"
+    },
+    {
+      "code": "III|e4",
+      "name": "Pórfidos  Sn-Cu"
+    },
+    {
+      "code": "III|f",
+      "name": "Orogénicos de Au (Pb-Zn-Cu)"
+    },
+    {
+      "code": "III|g",
+      "name": "Au (Pb-Zn-Cu) relacionados con intrusivos"
+    },
+    {
+      "code": "II|a",
+      "name": "Pegmatítico"
+    },
+    {
+      "code": "II|b",
+      "name": "Vetas Sn-W-Mo"
+    },
+    {
+      "code": "II|c",
+      "name": "Reemplazamiento contacto"
+    },
+    {
+      "code": "IV|a",
+      "name": "Sulfuro masivo volcanógenico de Pb-Zn-Cu, tipo Kuroko"
+    },
+    {
+      "code": "IV|b",
+      "name": "Sulfuro masivo volcanogénico de Cu-Zn-Pb-Au-Ag"
+    },
+    {
+      "code": "IV|c",
+      "name": "Sulfuro masivo volcanogénico, tipo Andino"
+    },
+    {
+      "code": "IX|1",
+      "name": "Aluviales"
+    },
+    {
+      "code": "IX|2",
+      "name": "Placer"
+    },
+    {
+      "code": "IX|3",
+      "name": "Coluviales"
+    },
+    {
+      "code": "IX|4",
+      "name": "Morrénicos"
+    },
+    {
+      "code": "IX|5",
+      "name": "Intra-kársticos"
+    },
+    {
+      "code": "I|a",
+      "name": "Cr tipo alpino"
+    },
+    {
+      "code": "I|b",
+      "name": "Pt en rocas ultramáficas"
+    },
+    {
+      "code": "I|c",
+      "name": "Ti-magnetita-ilmenita en rocas ultramáficas"
+    },
+    {
+      "code": "I|d",
+      "name": "Sulfuros de Ni-Cu"
+    },
+    {
+      "code": "I|e",
+      "name": "Carbonatitas"
+    },
+    {
+      "code": "VII",
+      "name": "Residuales"
+    },
+    {
+      "code": "VIII",
+      "name": "Metamórficos"
+    },
+    {
+      "code": "VIa|1",
+      "name": "Kupferschiefer"
+    },
+    {
+      "code": "VIb|1",
+      "name": "Mississippi Valley"
+    },
+    {
+      "code": "VIc|1",
+      "name": "Red Bed (Capas Rojas)"
+    },
+    {
+      "code": "V|a",
+      "name": "Sedex en rocas clásticas"
+    },
+    {
+      "code": "V|b",
+      "name": "Sedex en rocas carbonatadas"
+    },
+    {
+      "code": "XI|1",
+      "name": "Uranio en granitoides"
+    },
+    {
+      "code": "XI|2",
+      "name": "Uranio en rocas volcánicas"
+    },
+    {
+      "code": "XI|3",
+      "name": "Uranio en rocas sedimentarias"
+    },
+    {
+      "code": "XI|4",
+      "name": "Uranio en rocas metamórficas"
+    },
+    {
+      "code": "XI|5",
+      "name": "Uranio en sedimentos"
+    },
+    {
+      "code": "X|1",
+      "name": "Brechas"
+    },
+    {
+      "code": "X|2",
+      "name": "Vetas"
+    },
+    {
+      "code": "X|3",
+      "name": "Mantos"
+    },
+    {
+      "code": "X|4",
+      "name": "Cuerpo"
+    },
+    {
+      "code": "X|5",
+      "name": "Diseminado"
+    },
+    {
+      "code": "X|6",
+      "name": "Stockwork"
+    },
+    {
+      "code": "X|7",
+      "name": "Gossan"
+    }
+  ],
+  "name": "04_DC_YM_YacimSubTipo",
+  "type": "codedValue"
+}

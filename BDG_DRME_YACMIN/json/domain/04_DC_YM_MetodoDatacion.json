@@ -1,0 +1,62 @@
+{
+  "codedValues": [
+    {
+      "code": "MR1",
+      "name": "Ar/Ar"
+    },
+    {
+      "code": "MR11",
+      "name": "C14"
+    },
+    {
+      "code": "MR2",
+      "name": "K/Ar"
+    },
+    {
+      "code": "MR3",
+      "name": "Lu/Hf"
+    },
+    {
+      "code": "MF1",
+      "name": "Metodo relativo"
+    },
+    {
+      "code": "MR4",
+      "name": "Pb/Pb"
+    },
+    {
+      "code": "MR5",
+      "name": "Rb/Sr"
+    },
+    {
+      "code": "MR6",
+      "name": "Re/Os"
+    },
+    {
+      "code": "MR7",
+      "name": "Sm/Nd"
+    },
+    {
+      "code": "MR8",
+      "name": "Sr/Sr"
+    },
+    {
+      "code": "MR13",
+      "name": "Termoluminiscencia"
+    },
+    {
+      "code": "MR12",
+      "name": "Trazas de fisión "
+    },
+    {
+      "code": "MR9",
+      "name": "U/He"
+    },
+    {
+      "code": "MR10",
+      "name": "U/Pb"
+    }
+  ],
+  "name": "04_DC_YM_MetodoDatacion",
+  "type": "codedValue"
+}

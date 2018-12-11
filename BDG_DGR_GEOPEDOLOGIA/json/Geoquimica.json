@@ -1,0 +1,546 @@
+{
+  "displayFieldName": "",
+  "fieldAliases": {
+    "OBJECTID"        : "objectid",
+    "CODCAL"          : "Código de calicata",
+    "CODMTRAGQ"       : "Código de muestra geoquímica",
+    "X"               : "Norte",
+    "Y"               : "Este",
+    "ZONA"            : "Zona",
+    "TIP_MUEST"       : "Tipo de muestra",
+    "AG_PPM0_01"      : "Ag (ppm 0.01)",
+    "AL_PPM0_01"      : "Al (ppm 0.01)",
+    "AS_PPM0_2"       : "As (ppm 0.2)",
+    "BA_PPM10"        : "Ba (ppm 10)",
+    "BE_PPM0_05"      : "Be (ppm 0.05)",
+    "BI_PPM0_01"      : "Bi (ppm 0.01)",
+    "CA_POR0_01"      : "Ca (% 0.01)",
+    "CD_PPM0_02"      : "Cd (ppm 0.02)",
+    "CE_PPM0_01"      : "Ce (ppm 0.01)",
+    "CO_PPM0_1"       : "Co (ppm 0.1)",
+    "CR_PPM_1"        : "Cr (ppm 1)",
+    "CS_PPM0_05"      : "Cs (ppm 0.05)",
+    "CU_PPM0_2"       : "Cu (ppm 0.2)",
+    "FE_POR0_01"      : "Fe (% 0.01)",
+    "GA_PPM0_05"      : "Ga (ppm 0.05)",
+    "GE_PPM0_05"      : "Ge (ppm 0.05)",
+    "HF_PPM0_1"       : "Hf (ppm 0.1)",
+    "INPPM0_005"      : "In (ppm 0.005)",
+    "K_PORC0_01"      : "K (% 0.01)",
+    "LA_PPM0_5"       : "La (ppm 0.5)",
+    "LI_PPM0_2"       : "Li (ppm 0.2)",
+    "MGPORC0_01"      : "Mg (% 0.01)",
+    "MN_PPM_5"        : "Mn (ppm 5)",
+    "MO_PPM0_05"      : "Mo (ppm 0.05)",
+    "NAPORC0_01"      : "Na (% 0.01)",
+    "NB_PPM0_1"       : "Nb (ppm 0.1)",
+    "NI_PPM0_2"       : "Ni (ppm 0.2)",
+    "P_PPM10"         : "P (ppm 10)",
+    "PB_PPM0_5"       : "Pb (ppm 0.5)",
+    "RB_PPM0_1"       : "Rb (ppm 0.1)",
+    "REPPM0_002"      : "Re (ppm 0.002)",
+    "S_PORC0_01"      : "S (% 0.01)",
+    "SB_PPM0_05"      : "Sb (ppm 0.05)",
+    "SC_PPM0_1"       : "Sc (ppm 0.1)",
+    "SE_PPM_1"        : "Se (ppm 1)",
+    "SN_PPM0_2"       : "Sn (ppm 0.2)",
+    "SR_PPM0_2"       : "Sr (ppm 0.2)",
+    "TA_PPM0_05"      : "Ta (ppm 0.05)",
+    "TE_PPM0_05"      : "Te (ppm 0.05)",
+    "TH_PPM0_01"      : "Th (ppm 0.01)",
+    "TIPOR0_005"      : "Ti (% 0.005)",
+    "TL_PPM0_02"      : "Tl (ppm 0.02)",
+    "U_PPM0_1"        : "U (ppm 0.1)",
+    "V_PPM_1"         : "V (ppm 1)",
+    "W_PPM0_1"        : "W (ppm 0.1)",
+    "Y_PPM0_1"        : "Y (ppm 0.1)",
+    "ZN_PPM_2"        : "Zn (ppm 2)",
+    "ZR_PPM0_5"       : "Zr (ppm 0.5)",
+    "DY_PPM0_05"      : "Dy (ppm 0.05)",
+    "ER_PPM0_03"      : "Er (ppm 0.03)",
+    "EU_PPM0_03"      : "Eu (ppm 0.03)",
+    "GD_PPM0_05"      : "Gd (ppm 0.05)",
+    "HO_PPM0_01"      : "Ho (ppm 0.01)",
+    "LU_PPM0_01"      : "Lu (ppm 0.01)",
+    "ND_PPM0_1"       : "Nd (ppm 0.1)",
+    "PR_PPM0_03"      : "Pr  (ppm 0.03)",
+    "SM_PPM0_03"      : "Sm (ppm 0.03)",
+    "TB_PPM0_01"      : "Tb (ppm 0.01)",
+    "TM_PPM0_01"      : "Tm (ppm 0.01)",
+    "YB_PPM0_03"      : "Yb (ppm 0.03)",
+    "HGPPM0_005"      : "Hg  (ppm 0.005)",
+    "AL2O30_01"       : "Al2O3 (% 0.01)",
+    "BAO_PO0_01"      : "BaO (% 0.01)",
+    "CAO_PO0_01"      : "CaO (% 0.01)",
+    "CR2O3_P0_01"     : "Cr2O3 (% 0.01)",
+    "FE2O3P0_01"      : "Fe2O3 (% 0.01)",
+    "K2OPOR0_01"      : "K2O (% 0.01)",
+    "MGOPOR0_01"      : "MgO (% 0.01)",
+    "MNOPOR0_01"      : "MnO (% 0.01)",
+    "NA2OPO0_01"      : "Na2O (% 0.01)",
+    "P2O5PO0_01"      : "P2O5 (% 0.01)",
+    "SO3PO0_01"       : "SO3 (% 0.01)",
+    "SIO2PO0_01"      : "SiO2 (% 0.01)",
+    "SROPOR0_01"      : "SrO (% 0.01)",
+    "TIO2PO0_01"      : "TiO2 (% 0.01)",
+    "TOTALP0_01"      : "Total (% 0.01)",
+    "LOIMILP_01"      : "LOI 1000 (% 0.01)",
+    "U_ACT_TIE"       : "Uso actual de la tierra",
+    "EDIF_CERCA"      : "Componente o edificación cercano",
+    "MAT_AFE_CS"      : "Material que afecte la calidad del suelo",
+    "OBS"             : "Observaciones"
+  },
+  "geometryType": "esriGeometryPoint",
+  "fields": [
+    {
+      "name": "OBJECTID",
+      "type": "esriFieldTypeOID",
+      "alias": "objectid"
+    },
+    {
+      "name": "CODCAL",
+      "type": "esriFieldTypeString",
+      "alias": "Código de calicata",
+      "length": 12
+    },
+    {
+      "name": "CODMTRAGQ",
+      "type": "esriFieldTypeString",
+      "alias": "Código de muestra geoquímica",
+      "length": 14
+    },
+    {
+      "name": "X",
+      "type": "esriFieldTypeDouble",
+      "alias": "Norte"
+    },
+    {
+      "name": "Y",
+      "type": "esriFieldTypeDouble",
+      "alias": "Este"
+    },
+    {
+      "name": "ZONA",
+      "type": "esriFieldTypeString",
+      "alias": "Zona",
+      "length": 10
+    },
+    {
+      "name": "TIP_MUEST",
+      "type": "esriFieldTypeString",
+      "alias": "Tipo de muestra",
+      "length": 20
+    },
+    {
+      "name": "AG_PPM0_01",
+      "type": "esriFieldTypeDouble",
+      "alias": "Ag (ppm 0.01)"
+    },
+    {
+      "name": "AL_PPM0_01",
+      "type": "esriFieldTypeDouble",
+      "alias": "Al (ppm 0.01)"
+    },
+    {
+      "name": "AS_PPM0_2",
+      "type": "esriFieldTypeDouble",
+      "alias": "As (ppm 0.2)"
+    },
+    {
+      "name": "BA_PPM10",
+      "type": "esriFieldTypeDouble",
+      "alias": "Ba (ppm 10)"
+    },
+    {
+      "name": "BE_PPM0_05",
+      "type": "esriFieldTypeDouble",
+      "alias": "Be (ppm 0.05)"
+    },
+    {
+      "name": "BI_PPM0_01",
+      "type": "esriFieldTypeDouble",
+      "alias": "Bi (ppm 0.01)"
+    },
+    {
+      "name": "CA_POR0_01",
+      "type": "esriFieldTypeDouble",
+      "alias": "Ca (% 0.01)"
+    },
+    {
+      "name": "CD_PPM0_02",
+      "type": "esriFieldTypeDouble",
+      "alias": "Cd (ppm 0.02)"
+    },
+    {
+      "name": "CE_PPM0_01",
+      "type": "esriFieldTypeDouble",
+      "alias": "Ce (ppm 0.01)"
+    },
+    {
+      "name": "CO_PPM0_1",
+      "type": "esriFieldTypeDouble",
+      "alias": "Co (ppm 0.1)"
+    },
+    {
+      "name": "CR_PPM_1",
+      "type": "esriFieldTypeDouble",
+      "alias": "Cr (ppm 1)"
+    },
+    {
+      "name": "CS_PPM0_05",
+      "type": "esriFieldTypeDouble",
+      "alias": "Cs (ppm 0.05)"
+    },
+    {
+      "name": "CU_PPM0_2",
+      "type": "esriFieldTypeDouble",
+      "alias": "Cu (ppm 0.2)"
+    },
+    {
+      "name": "FE_POR0_01",
+      "type": "esriFieldTypeDouble",
+      "alias": "Fe (% 0.01)"
+    },
+    {
+      "name": "GA_PPM0_05",
+      "type": "esriFieldTypeDouble",
+      "alias": "Ga (ppm 0.05)"
+    },
+    {
+      "name": "GE_PPM0_05",
+      "type": "esriFieldTypeDouble",
+      "alias": "Ge (ppm 0.05)"
+    },
+    {
+      "name": "HF_PPM0_1",
+      "type": "esriFieldTypeDouble",
+      "alias": "Hf (ppm 0.1)"
+    },
+    {
+      "name": "INPPM0_005",
+      "type": "esriFieldTypeDouble",
+      "alias": "In (ppm 0.005)"
+    },
+    {
+      "name": "K_PORC0_01",
+      "type": "esriFieldTypeDouble",
+      "alias": "K (% 0.01)"
+    },
+    {
+      "name": "LA_PPM0_5",
+      "type": "esriFieldTypeDouble",
+      "alias": "La (ppm 0.5)"
+    },
+    {
+      "name": "LI_PPM0_2",
+      "type": "esriFieldTypeDouble",
+      "alias": "Li (ppm 0.2)"
+    },
+    {
+      "name": "MGPORC0_01",
+      "type": "esriFieldTypeDouble",
+      "alias": "Mg (% 0.01)"
+    },
+    {
+      "name": "MN_PPM_5",
+      "type": "esriFieldTypeDouble",
+      "alias": "Mn (ppm 5)"
+    },
+    {
+      "name": "MO_PPM0_05",
+      "type": "esriFieldTypeDouble",
+      "alias": "Mo (ppm 0.05)"
+    },
+    {
+      "name": "NAPORC0_01",
+      "type": "esriFieldTypeDouble",
+      "alias": "Na (% 0.01)"
+    },
+    {
+      "name": "NB_PPM0_1",
+      "type": "esriFieldTypeDouble",
+      "alias": "Nb (ppm 0.1)"
+    },
+    {
+      "name": "NI_PPM0_2",
+      "type": "esriFieldTypeDouble",
+      "alias": "Ni (ppm 0.2)"
+    },
+    {
+      "name": "P_PPM10",
+      "type": "esriFieldTypeDouble",
+      "alias": "P (ppm 10)"
+    },
+    {
+      "name": "PB_PPM0_5",
+      "type": "esriFieldTypeDouble",
+      "alias": "Pb (ppm 0.5)"
+    },
+    {
+      "name": "RB_PPM0_1",
+      "type": "esriFieldTypeDouble",
+      "alias": "Rb (ppm 0.1)"
+    },
+    {
+      "name": "REPPM0_002",
+      "type": "esriFieldTypeDouble",
+      "alias": "Re (ppm 0.002)"
+    },
+    {
+      "name": "S_PORC0_01",
+      "type": "esriFieldTypeDouble",
+      "alias": "S (% 0.01)"
+    },
+    {
+      "name": "SB_PPM0_05",
+      "type": "esriFieldTypeDouble",
+      "alias": "Sb (ppm 0.05)"
+    },
+    {
+      "name": "SC_PPM0_1",
+      "type": "esriFieldTypeDouble",
+      "alias": "Sc (ppm 0.1)"
+    },
+    {
+      "name": "SE_PPM_1",
+      "type": "esriFieldTypeDouble",
+      "alias": "Se (ppm 1)"
+    },
+    {
+      "name": "SN_PPM0_2",
+      "type": "esriFieldTypeDouble",
+      "alias": "Sn (ppm 0.2)"
+    },
+    {
+      "name": "SR_PPM0_2",
+      "type": "esriFieldTypeDouble",
+      "alias": "Sr (ppm 0.2)"
+    },
+    {
+      "name": "TA_PPM0_05",
+      "type": "esriFieldTypeDouble",
+      "alias": "Ta (ppm 0.05)"
+    },
+    {
+      "name": "TE_PPM0_05",
+      "type": "esriFieldTypeDouble",
+      "alias": "Te (ppm 0.05)"
+    },
+    {
+      "name": "TH_PPM0_01",
+      "type": "esriFieldTypeDouble",
+      "alias": "Th (ppm 0.01)"
+    },
+    {
+      "name": "TIPOR0_005",
+      "type": "esriFieldTypeDouble",
+      "alias": "Ti (% 0.005)"
+    },
+    {
+      "name": "TL_PPM0_02",
+      "type": "esriFieldTypeDouble",
+      "alias": "Tl (ppm 0.02)"
+    },
+    {
+      "name": "U_PPM0_1",
+      "type": "esriFieldTypeDouble",
+      "alias": "U (ppm 0.1)"
+    },
+    {
+      "name": "V_PPM_1",
+      "type": "esriFieldTypeDouble",
+      "alias": "V (ppm 1)"
+    },
+    {
+      "name": "W_PPM0_1",
+      "type": "esriFieldTypeDouble",
+      "alias": "W (ppm 0.1)"
+    },
+    {
+      "name": "Y_PPM0_1",
+      "type": "esriFieldTypeDouble",
+      "alias": "Y (ppm 0.1)"
+    },
+    {
+      "name": "ZN_PPM_2",
+      "type": "esriFieldTypeDouble",
+      "alias": "Zn (ppm 2)"
+    },
+    {
+      "name": "ZR_PPM0_5",
+      "type": "esriFieldTypeDouble",
+      "alias": "Zr (ppm 0.5)"
+    },
+    {
+      "name": "DY_PPM0_05",
+      "type": "esriFieldTypeDouble",
+      "alias": "Dy (ppm 0.05)"
+    },
+    {
+      "name": "ER_PPM0_03",
+      "type": "esriFieldTypeDouble",
+      "alias": "Er (ppm 0.03)"
+    },
+    {
+      "name": "EU_PPM0_03",
+      "type": "esriFieldTypeDouble",
+      "alias": "Eu (ppm 0.03)"
+    },
+    {
+      "name": "GD_PPM0_05",
+      "type": "esriFieldTypeDouble",
+      "alias": "Gd (ppm 0.05)"
+    },
+    {
+      "name": "HO_PPM0_01",
+      "type": "esriFieldTypeDouble",
+      "alias": "Ho (ppm 0.01)"
+    },
+    {
+      "name": "LU_PPM0_01",
+      "type": "esriFieldTypeDouble",
+      "alias": "Lu (ppm 0.01)"
+    },
+    {
+      "name": "ND_PPM0_1",
+      "type": "esriFieldTypeDouble",
+      "alias": "Nd (ppm 0.1)"
+    },
+    {
+      "name": "PR_PPM0_03",
+      "type": "esriFieldTypeDouble",
+      "alias": "Pr  (ppm 0.03)"
+    },
+    {
+      "name": "SM_PPM0_03",
+      "type": "esriFieldTypeDouble",
+      "alias": "Sm (ppm 0.03)"
+    },
+    {
+      "name": "TB_PPM0_01",
+      "type": "esriFieldTypeDouble",
+      "alias": "Tb (ppm 0.01)"
+    },
+    {
+      "name": "TM_PPM0_01",
+      "type": "esriFieldTypeDouble",
+      "alias": "Tm (ppm 0.01)"
+    },
+    {
+      "name": "YB_PPM0_03",
+      "type": "esriFieldTypeDouble",
+      "alias": "Yb (ppm 0.03)"
+    },
+    {
+      "name": "HGPPM0_005",
+      "type": "esriFieldTypeDouble",
+      "alias": "Hg  (ppm 0.005)"
+    },
+    {
+      "name": "AL2O30_01",
+      "type": "esriFieldTypeDouble",
+      "alias": "Al2O3 (% 0.01)"
+    },
+    {
+      "name": "BAO_PO0_01",
+      "type": "esriFieldTypeDouble",
+      "alias": "BaO (% 0.01)"
+    },
+    {
+      "name": "CAO_PO0_01",
+      "type": "esriFieldTypeDouble",
+      "alias": "CaO (% 0.01)"
+    },
+    {
+      "name": "CR2O3_P0_01",
+      "type": "esriFieldTypeDouble",
+      "alias": "Cr2O3 (% 0.01)"
+    },
+    {
+      "name": "FE2O3P0_01",
+      "type": "esriFieldTypeDouble",
+      "alias": "Fe2O3 (% 0.01)"
+    },
+    {
+      "name": "K2OPOR0_01",
+      "type": "esriFieldTypeDouble",
+      "alias": "K2O (% 0.01)"
+    },
+    {
+      "name": "MGOPOR0_01",
+      "type": "esriFieldTypeDouble",
+      "alias": "MgO (% 0.01)"
+    },
+    {
+      "name": "MNOPOR0_01",
+      "type": "esriFieldTypeDouble",
+      "alias": "MnO (% 0.01)"
+    },
+    {
+      "name": "NA2OPO0_01",
+      "type": "esriFieldTypeDouble",
+      "alias": "Na2O (% 0.01)"
+    },
+    {
+      "name": "P2O5PO0_01",
+      "type": "esriFieldTypeDouble",
+      "alias": "P2O5 (% 0.01)"
+    },
+    {
+      "name": "SO3PO0_01",
+      "type": "esriFieldTypeDouble",
+      "alias": "SO3 (% 0.01)"
+    },
+    {
+      "name": "SIO2PO0_01",
+      "type": "esriFieldTypeDouble",
+      "alias": "SiO2 (% 0.01)"
+    },
+    {
+      "name": "SROPOR0_01",
+      "type": "esriFieldTypeDouble",
+      "alias": "SrO (% 0.01)"
+    },
+    {
+      "name": "TIO2PO0_01",
+      "type": "esriFieldTypeDouble",
+      "alias": "TiO2 (% 0.01)"
+    },
+    {
+      "name": "TOTALP0_01",
+      "type": "esriFieldTypeDouble",
+      "alias": "Total (% 0.01)"
+    },
+    {
+      "name": "LOIMILP_01",
+      "type": "esriFieldTypeDouble",
+      "alias": "LOI 1000 (% 0.01)"
+    },
+    {
+      "name": "U_ACT_TIE",
+      "type": "esriFieldTypeString",
+      "alias": "Uso actual de la tierra",
+      "length": 50
+    },
+    {
+      "name": "EDIF_CERCA",
+      "type": "esriFieldTypeString",
+      "alias": "Componente o edificación cercano",
+      "length": 50
+    },
+    {
+      "name": "MAT_AFE_CS",
+      "type": "esriFieldTypeString",
+      "alias": "Material que afecte la calidad del suelo",
+      "length": 100
+    },
+    {
+      "name": "OBS",
+      "type": "esriFieldTypeString",
+      "alias": "Observaciones",
+      "length" : 200
+    }
+
+  ],
+  "features": []
+}

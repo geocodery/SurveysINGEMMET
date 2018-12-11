@@ -1,0 +1,30 @@
+{
+  "codedValues": [
+    {
+      "code": 1,
+      "name": "Fallamiento"
+    },
+    {
+      "code": 2,
+      "name": "Plegamiento"
+    },
+    {
+      "code": 3,
+      "name": "Fracturamiento"
+    },
+    {
+      "code": 4,
+      "name": "Diaclasamiento"
+    },
+    {
+      "code": 5,
+      "name": "Esquitosidad"
+    },
+    {
+      "code": 6,
+      "name": "Estratifficación"
+    }
+  ],
+  "name": "04_DC_DiscontinuidadRoca",
+  "type": "codedValue"
+}

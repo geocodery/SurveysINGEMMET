@@ -1,0 +1,36 @@
+{
+ "type": "codedValue", 
+ "name": "04_DC_YacimTipo", 
+ "codedValues": [
+
+
+ 
+
+{"code":  "I" , "name": "Magmático" },
+
+{"code":  "I/II" , "name": "Transición" },
+
+{"code":  "II" , "name": "Pegmatítico" },
+
+{"code":  "III" , "name": "Hidrotermal" },
+
+{"code":  "IV" , "name": "Estratoligado Hidrotermal" },
+
+{"code":  "IX" , "name": "Depósitos exóticos" },
+
+{"code":  "V" , "name": "Estratoligados Sedex" },
+
+{"code":  "VIa" , "name": "Estratoligados en Sedimentos Clásticos" },
+
+{"code":  "VIb" , "name": "Estratoligados en Sedimentos Carbonatados" },
+
+{"code":  "VIc" , "name": "Estratoligados en Sedimentos en Molasas" },
+
+{"code":  "VII" , "name": "Residual" },
+
+{"code":  "VIII" , "name": "Metamórfico" },
+
+{"code":  "X" , "name": "Depósitos Hidrotermales Sin Clasificación Genética" },
+
+{"code":  "XI" , "name": "Depósitos de Uranio" } ]
+}

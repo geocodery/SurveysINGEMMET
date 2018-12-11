@@ -1,0 +1,136 @@
+{
+ "type": "codedValue", 
+ "name": "04_DC_AlteracionMineral", 
+ "codedValues": [
+
+
+ 
+
+{"code":  "0" , "name": "silice opalina, cristobalita, tridimita" },
+
+{"code":  "1" , "name": "cuarzo" },
+
+{"code":  "2" , "name": "alunita, opalina, cristobalita, tridimita" },
+
+{"code":  "3" , "name": "alunita, cuarzo" },
+
+{"code":  "4" , "name": "andalusita,alunita,cuarzo" },
+
+{"code":  "5" , "name": "andalusita,cuarzo" },
+
+{"code":  "6" , "name": "andalusita,cristobalita, cuarzo" },
+
+{"code":  "7" , "name": "corindón,cuarzo" },
+
+{"code":  "8" , "name": "alunita,haloisita silica" },
+
+{"code":  "9" , "name": "alunita,caolinita, silica" },
+
+{"code":  "10" , "name": "alunita,caolinita, cuarzo" },
+
+{"code":  "11" , "name": "alunita,caolinita, dickita, cuarzo +- diáspora" },
+
+{"code":  "12" , "name": "alunita,dickita cuarzo+-diáspora" },
+
+{"code":  "13" , "name": "alunita, dickita, pirofilita, cuarzo+-diáspora" },
+
+{"code":  "14" , "name": "alunita, pirofilita cuarzo+-diáspora" },
+
+{"code":  "15" , "name": "andalusita, pirofilita, alunita, cuarzo+- diáspora" },
+
+{"code":  "16" , "name": "cuarzo+-diáspora" },
+
+{"code":  "17" , "name": "andalusita,pirofilita, mica, corindón, cuarzo" },
+
+{"code":  "18" , "name": "dickita , cuarzo+-diáspora" },
+
+{"code":  "19" , "name": "dickita,pirofilita, cuarzo + diáspora" },
+
+{"code":  "20" , "name": "pirofilita cuarzo+diáspora" },
+
+{"code":  "21" , "name": "andalusita, pirofilita, mica--cuarzo diáspora" },
+
+{"code":  "22" , "name": "andalusita, pirofilita, mica, corindón, cuarzo " },
+
+{"code":  "23" , "name": "haloisita, silica" },
+
+{"code":  "24" , "name": "caolinita, silica" },
+
+{"code":  "25" , "name": "caolinita, cuarzo" },
+
+{"code":  "26" , "name": "caolinita,dickita,cuarzo +- diáspora" },
+
+{"code":  "27" , "name": "haloisita, silica" },
+
+{"code":  "28" , "name": "caolinita,esmectita silica+ siderita" },
+
+{"code":  "29" , "name": "caolinita, esmectita, cuarzo +- siderita" },
+
+{"code":  "30" , "name": "caolinita, illita,esmectita,cuarzo +- siderita" },
+
+{"code":  "31" , "name": "caolinita,dickita,illita/illita-esmectita,cuarzo +- siderita" },
+
+{"code":  "32" , "name": "dickita, illita,cuarzo +- siderita" },
+
+{"code":  "33" , "name": "esmectita silica" },
+
+{"code":  "34" , "name": "esmectita, carbonato(Ca, Ma,Mn,Fe), cuarzo/ calcedonia" },
+
+{"code":  "35" , "name": "illita-esmectita cuarzo/calcedonia,  carbonato (Ca, Ma,Mn,Fe)" },
+
+{"code":  "36" , "name": "Illita, cuarzo, carbonato (Ca, Ma,Mn,Fe)" },
+
+{"code":  "37" , "name": "clorita-esmectita/ clorita, silica, carbonato" },
+
+{"code":  "38" , "name": "clorita/clorita-esmectita, esmectita, cuarzo/calcedonia, carbonatos(Ca, Mg, Mn, Fe)" },
+
+{"code":  "39" , "name": "clorita,carbonato (Ca, Ma,Mn,Fe), Illita -esmectita, cuarzo/calcedonia" },
+
+{"code":  "40" , "name": "clorita,illita, albita/adularia,cuarzo,carbonato (Ca, Mg, Mn, Fe)" },
+
+{"code":  "41" , "name": "clorita-esmectita/clorita, silica, zeolita calcita/dolomita" },
+
+{"code":  "42" , "name": "clorita/clorita-esmectita, cuarzo/ calcedonia,zeolita, calcita/dolomita" },
+
+{"code":  "43" , "name": "clorita,cuarzo/calcedonia, adularia/albita, calcita/dolomita" },
+
+{"code":  "44" , "name": "dickita, pirofilita,sericita,cuarzo" },
+
+{"code":  "45" , "name": "pirofilita,sericita,cuarzo" },
+
+{"code":  "46" , "name": "andalusita,sericita/mica,cuarzo" },
+
+{"code":  "47" , "name": "andalusita,corindón,mica,cuarzo" },
+
+{"code":  "48" , "name": "sericita,cuarzo,carbonato" },
+
+{"code":  "49" , "name": "sericita/ mica cuarzo" },
+
+{"code":  "50" , "name": "mica cuarzo" },
+
+{"code":  "51" , "name": "sericita,feldespato, cuarzo,clorita" },
+
+{"code":  "52" , "name": "clorita,sericita,feldespato,cuarzo" },
+
+{"code":  "53" , "name": "cuarzo,clorita,feldespato,sericita/ mica" },
+
+{"code":  "54" , "name": "feldespato,cuarzo,mica" },
+
+{"code":  "55" , "name": "clorita, cuarzo, epidota,zeolita,calcita/dolomita, adularia/albita" },
+
+{"code":  "56" , "name": "clorita,cuarzo,epidota,adularia/albita,calcita/dolomita" },
+
+{"code":  "57" , "name": "epidota,actinolita,clorita,cuarzo,feldespato,calcita/dolomita" },
+
+{"code":  "58" , "name": "tremolita, cuarzo, calcita/dolomita" },
+
+{"code":  "59" , "name": "clinopiroxeno, cuarzo calcita/dolomita" },
+
+{"code":  "60" , "name": "granate, cuarzo, wollastonita, vesuvianita, magnetita" },
+
+{"code":  "61" , "name": "actinolita,cuarzo, feldespato, clorita" },
+
+{"code":  "62" , "name": "biotita,actinolita, feldespato,cuarzo" },
+
+{"code":  "63" , "name": "biotita,feldespato,clinopiroxeno, magnetita" } ]
+}

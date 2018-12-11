@@ -1,0 +1,30 @@
+{
+  "codedValues": [
+    {
+      "code": 1,
+      "name": "Uniforme"
+    },
+    {
+      "code": 2,
+      "name": "Variable"
+    },
+    {
+      "code": 3,
+      "name": "Escalonada"
+    },
+    {
+      "code": 4,
+      "name": "Cóncava"
+    },
+    {
+      "code": 5,
+      "name": "Convexa"
+    },
+    {
+      "code": 6,
+      "name": "Mixta"
+    }
+  ],
+  "name": "04_DC_FormaTerreno",
+  "type": "codedValue"
+}

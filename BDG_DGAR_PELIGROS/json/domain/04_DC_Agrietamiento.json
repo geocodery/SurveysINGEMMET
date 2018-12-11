@@ -1,0 +1,14 @@
+{
+  "codedValues": [
+    {
+      "code": 1,
+      "name": "Longitudinal"
+    },
+    {
+      "code": 2,
+      "name": "Transversal"
+    }
+  ],
+  "name": "04_DC_Agrietamiento",
+  "type": "codedValue"
+}

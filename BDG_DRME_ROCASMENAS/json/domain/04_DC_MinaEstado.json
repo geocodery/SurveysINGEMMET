@@ -1,0 +1,28 @@
+{
+ "type": "codedValue", 
+ "name": "04_DC_MinaEstado", 
+ "codedValues": [
+
+
+ 
+
+{"code":  "Abandonada" , "name": "Abandonada" },
+
+{"code":  "Ampliacion" , "name": "Ampliación" },
+
+{"code":  "EnCierre" , "name": "En Cierre" },
+
+{"code":  "Desarrollo" , "name": "Desarrollo" },
+
+{"code":  "EnExploración" , "name": "En Exploración" },
+
+{"code":  "ExploracionAvanzada" , "name": "Exploración Avanzada" },
+
+{"code":  "Factibilidad" , "name": "Factibilidad" },
+
+{"code":  "Paralizado" , "name": "Paralizado" },
+
+{"code":  "EnProduccion" , "name": "En Producción" },
+
+{"code":  "SinExploracion" , "name": "Sin Exploración" } ]
+}

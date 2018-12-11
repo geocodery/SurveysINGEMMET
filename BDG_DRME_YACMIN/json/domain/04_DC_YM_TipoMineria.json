@@ -1,0 +1,22 @@
+{
+  "codedValues": [
+    {
+      "code": "1",
+      "name": "Producción"
+    },
+    {
+      "code": "2",
+      "name": "Reservas"
+    },
+    {
+      "code": "3",
+      "name": "Recursos"
+    },
+    {
+      "code": "4",
+      "name": "Potencial"
+    }
+  ],
+  "name": "04_DC_YM_TipoMineria",
+  "type": "codedValue"
+}

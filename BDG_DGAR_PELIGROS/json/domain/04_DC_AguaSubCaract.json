@@ -1,0 +1,18 @@
+{
+  "codedValues": [
+    {
+      "code": 1,
+      "name": "Escasa"
+    },
+    {
+      "code": 2,
+      "name": "Permanente"
+    },
+    {
+      "code": 3,
+      "name": "Estacional"
+    }
+  ],
+  "name": "04_DC_AguaSubCaract",
+  "type": "codedValue"
+}

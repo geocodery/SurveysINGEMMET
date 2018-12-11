@@ -1,0 +1,14 @@
+{
+ "type": "codedValue", 
+ "name": "04_DC_FA_Analisis", 
+ "codedValues": [
+
+
+ 
+
+{"code":  "Quimico" , "name": "Químico" },
+
+{"code":  "Isotopico" , "name": "Isotópico O18 y D" },
+
+{"code":  "Radioactivo" , "name": "Radioactivo" } ]
+}

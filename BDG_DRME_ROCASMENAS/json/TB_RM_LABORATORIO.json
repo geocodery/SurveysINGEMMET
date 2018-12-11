@@ -1,0 +1,7 @@
+[u'hidden', u'CDMTRA_LB', u'Muestra']
+[u'hidden', u'ORDEN_LB', u'Orden']
+[u'text', u'TIPO_A', u'Tipo']
+[u'text', u'ELEMENTO', u'Elemento']
+[u'text', u'UNIDAD', u'Unidad']
+[u'text', u'SIMBOLO', u'Simbolo']
+[u'decimal', u'VALOR', u'Valor']

@@ -1,0 +1,22 @@
+{
+  "codedValues": [
+    {
+      "code": 1,
+      "name": "Bajo"
+    },
+    {
+      "code": 2,
+      "name": "Medio"
+    },
+    {
+      "code": 3,
+      "name": "Alto"
+    },
+    {
+      "code": 4,
+      "name": "Muy alto"
+    }
+  ],
+  "name": "04_DC_GradoVulnerabilidad",
+  "type": "codedValue"
+}

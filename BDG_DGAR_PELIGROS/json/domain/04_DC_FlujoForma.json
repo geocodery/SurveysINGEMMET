@@ -1,0 +1,18 @@
+{
+  "codedValues": [
+    {
+      "code": 1,
+      "name": "Cono/abanico"
+    },
+    {
+      "code": 2,
+      "name": "Escombro"
+    },
+    {
+      "code": 3,
+      "name": "Chorreras"
+    }
+  ],
+  "name": "04_DC_FlujoForma",
+  "type": "codedValue"
+}

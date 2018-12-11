@@ -1,0 +1,26 @@
+{
+  "codedValues": [
+    {
+      "code": "BR",
+      "name": "Brecha"
+    },
+    {
+      "code": "RA",
+      "name": "Alterada"
+    },
+    {
+      "code": "RI",
+      "name": "Ignea"
+    },
+    {
+      "code": "RM",
+      "name": "Metamorfica"
+    },
+    {
+      "code": "RS",
+      "name": "Sedimentaria"
+    }
+  ],
+  "name": "04_DC_RocaTipo",
+  "type": "codedValue"
+}

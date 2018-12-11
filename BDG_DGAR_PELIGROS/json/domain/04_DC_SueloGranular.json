@@ -1,0 +1,26 @@
+{
+  "codedValues": [
+    {
+      "code": 1,
+      "name": "Muy suelto"
+    },
+    {
+      "code": 2,
+      "name": "Suelto"
+    },
+    {
+      "code": 3,
+      "name": "Medianamente denso"
+    },
+    {
+      "code": 4,
+      "name": "Denso"
+    },
+    {
+      "code": 5,
+      "name": "Muy denso"
+    }
+  ],
+  "name": "04_DC_SueloGranular",
+  "type": "codedValue"
+}

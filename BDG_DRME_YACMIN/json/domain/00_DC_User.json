@@ -1,0 +1,118 @@
+{
+  "codedValues": [
+    {
+      "code": "ASANTISTEBAN",
+      "name": "Santisteban Angeldonis,"
+    },
+    {
+      "code": "CEDUARDO",
+      "name": "Eduardo Oswaldo, Cabrera"
+    },
+    {
+      "code": "CRAMIREZ",
+      "name": "Ramirez Avalos, Carlos"
+    },
+    {
+      "code": "CZORRILLA",
+      "name": "Zorrilla Padilla, Cesar"
+    },
+    {
+      "code": "DHUANACUNI",
+      "name": "Huanacuni Mamani, Dina"
+    },
+    {
+      "code": "EGOMEZ",
+      "name": "Gomez Cahuaya, Elmer"
+    },
+    {
+      "code": "EHUAMAN",
+      "name": "Huaman Zea, Evert Enrique"
+    },
+    {
+      "code": "EOSCCO",
+      "name": "Oscco Barrientes, Enrique"
+    },
+    {
+      "code": "EVILLARREAL",
+      "name": "Villarreal Jaramillo, Eder"
+    },
+    {
+      "code": "GTRELLES",
+      "name": "Trelles Vasquez, Gerardo"
+    },
+    {
+      "code": "HCASTRO",
+      "name": "Castro Pomatana, Hugo"
+    },
+    {
+      "code": "HHILASACA",
+      "name": "Hilasaca Canaza, Hernan"
+    },
+    {
+      "code": "HHUISA",
+      "name": "Huisa Valdivia, Harold"
+    },
+    {
+      "code": "IRODRIGUEZ",
+      "name": "Rodriguez Morante, Italo"
+    },
+    {
+      "code": "JCAMPOS",
+      "name": "Campos Muñoz, Jose"
+    },
+    {
+      "code": "JELESCANO",
+      "name": "Elescano Yupanqui, Jesus"
+    },
+    {
+      "code": "JFUENTES",
+      "name": "Fuentes Palomino, Jesus"
+    },
+    {
+      "code": "JGONZALES",
+      "name": "Gonzales Tafur, Jose"
+    },
+    {
+      "code": "JRUIZ",
+      "name": "Ruiz Rojas, Jose"
+    },
+    {
+      "code": "JSALCEDO",
+      "name": "Salcedo Carbajal, Juan"
+    },
+    {
+      "code": "MMANRIQUE",
+      "name": "Manrique Gálvez, María"
+    },
+    {
+      "code": "MOLIVARES",
+      "name": "Olivares Palomino, Marco"
+    },
+    {
+      "code": "MTAFUR",
+      "name": "Tafur Cabrera, Marilyn"
+    },
+    {
+      "code": "MVALENCIA",
+      "name": "Valencia Muñoz, Michael Melitón"
+    },
+    {
+      "code": "NPETRONILA",
+      "name": "Petronila Quiste, Nely"
+    },
+    {
+      "code": "RCASTRO",
+      "name": "Castro Rementeria, Royer"
+    },
+    {
+      "code": "URIVEROS",
+      "name": "Riveros Chahuayo, Ubaldo"
+    },
+    {
+      "code": "WURBINA",
+      "name": "Urbina Salinas, Willy"
+    }
+  ],
+  "name": "00_DC_User",
+  "type": "codedValue"
+}

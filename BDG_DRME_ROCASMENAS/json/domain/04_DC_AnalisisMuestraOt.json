@@ -1,0 +1,24 @@
+{
+ "type": "codedValue", 
+ "name": "04_DC_AnalisisMuestraOt", 
+ "codedValues": [
+
+
+ 
+
+{"code":  "DRx" , "name": "DRx" },
+
+{"code":  "Espectrom" , "name": "Espectrometría (PIMA)" },
+
+{"code":  "Geocrono" , "name": "Geocronología" },
+
+{"code":  "IF" , "name": "Inclusiones Fluidas (IF)" },
+
+{"code":  "Isotopos" , "name": "Isotopos" },
+
+{"code":  "Microsonda" , "name": "Microsonda" },
+
+{"code":  "MMano" , "name": "Muestra de mano" },
+
+{"code":  "ICP" , "name": "Plasma de acoplamiento inductivo" } ]
+}

@@ -1,0 +1,18 @@
+{
+  "codedValues": [
+    {
+      "code": 1,
+      "name": "Erosión de puente"
+    },
+    {
+      "code": 2,
+      "name": "Embalse de cauce"
+    },
+    {
+      "code": 3,
+      "name": "Erosión de tierras de cultivo"
+    }
+  ],
+  "name": "04_DC_FlujoEfectos",
+  "type": "codedValue"
+}

@@ -1,0 +1,18 @@
+{
+  "codedValues": [
+    {
+      "code": 1,
+      "name": "Áreas de cultivo"
+    },
+    {
+      "code": 2,
+      "name": "Áreas urbanas"
+    },
+    {
+      "code": 3,
+      "name": "Invasión de vías"
+    }
+  ],
+  "name": "04_DC_ArenamientoEfecto",
+  "type": "codedValue"
+}

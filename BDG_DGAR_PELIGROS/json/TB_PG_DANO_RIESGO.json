@@ -1,0 +1,178 @@
+{
+  "displayFieldName": "",
+  "fieldAliases": {
+	"FICHA_DR"	 : "FICHA_DR",
+	"CARRETERA"	 : "Carretera",
+	"CAMRURAL"	 : "Camino rural",
+	"VIAFERREA"	 : "Vía férrea",
+	"VIVAFEC"	 : "Viviendas afectadas",
+	"VIVDEST"	 : "Viviendas destruidas",
+	"CULTPAST"	 : "Cultivos o pastizales",
+	"MUERTDES"	 : "Muertos desaparecidos",
+	"HERID"		 : "Heridos",
+	"DAMNIM"	 : "Damnificados",
+	"CANAL"		 : "Canal",
+	"PUENTE"	 : "Puente",
+	"REDENERG"	 : "Red de energía",
+	"GASOLE"	 : "Gaseoducto / Oleoducto",
+	"PATNATCUL"	 : "Patrimonio natural o cultural",
+	"INFRMAY"	 : "Otra infraestructura mayor",
+	"DANO"		 : "Características de los daños",
+	"Q_DANOPROB" : "Q_DANOPROB",
+	"DANOPROB"	 : "Daños probables",
+	"PELIGRO"	 : "Grado del peligro",
+	"VULNER"	 : "Vulnerabilidad",
+	"RIESGO"	 : "Riesgo estimado",
+	"RIESGOEST"	 : "Calificación del Riesgo",
+	"MPMITREAL"	 : "Medidas de prevención y/o mitigación realizadas",
+	"MPMITDESC"	 : "Descripción",
+	"MPMITREC"	 : "Medidas de prevención y/o mitigación recomendaddas"
+  },
+   "geometryType": "esriGeometryPoint",
+   "fields": [
+
+   	{
+   		"name": "FICHA_DR",
+   	 	"type": "esriFieldTypeString", 
+   	 	"alias": "FICHA_DR", 
+   	 	"length": 255
+   	 },
+	{
+		"name": "CARRETERA",
+	 	"type": "esriFieldTypeDouble", 
+	 	"alias": "Carretera"
+	 },
+	{
+		"name": "CAMRURAL",
+	 	"type": "esriFieldTypeDouble", 
+	 	"alias": "Camino rural"
+	 },
+	{
+		"name": "VIAFERREA",
+	 	"type": "esriFieldTypeDouble", 
+	 	"alias": "Vía férrea"
+	 },
+	{
+		"name": "VIVAFEC",
+	 	"type": "esriFieldTypeInteger", 
+	 	"alias": "Viviendas afectadas"
+	 },
+	{
+		"name": "VIVDEST",
+	 	"type": "esriFieldTypeInteger", 
+	 	"alias": "Viviendas destruidas"
+	 },
+	{
+		"name": "CULTPAST",
+	 	"type": "esriFieldTypeDouble", 
+	 	"alias": "Cultivos o pastizales"
+	 },
+	{
+		"name": "MUERTDES",
+	 	"type": "esriFieldTypeDouble", 
+	 	"alias": "Muertos desaparecidos"
+	 },
+	{
+		"name": "HERID",
+	 	"type": "esriFieldTypeDouble", 
+	 	"alias": "Heridos"
+	 },
+	{
+		"name": "DAMNIM",
+	 	"type": "esriFieldTypeDouble", 
+	 	"alias": "Damnificados"
+	 },
+	{
+		"name": "CANAL",
+	 	"type": "esriFieldTypeDouble", 
+	 	"alias": "Canal"
+	 },
+	{
+		"name": "PUENTE",
+	 	"type": "esriFieldTypeDouble", 
+	 	"alias": "Puente"
+	 },
+	{
+		"name": "REDENERG",
+	 	"type": "esriFieldTypeDouble", 
+	 	"alias": "Red de energía"
+	 },
+	{
+		"name": "GASOLE",
+	 	"type": "esriFieldTypeDouble", 
+	 	"alias": "Gaseoducto / Oleoducto"
+	 },
+	{
+		"name": "PATNATCUL",
+	 	"type": "esriFieldTypeString", 
+	 	"alias": "Patrimonio natural o cultural", 
+	 	"length": 255
+	 },
+	{
+		"name": "INFRMAY",
+	 	"type": "esriFieldTypeString", 
+	 	"alias": "Otra infraestructura mayor", 
+	 	"length": 255
+	 },
+	{
+		"name": "DANO",
+	 	"type": "esriFieldTypeString", 
+	 	"alias": "Características de los daños", 
+	 	"length": 255
+	 },
+	{
+		"name": "Q_DANOPROB",
+	 	"type": "esriFieldTypeString", 
+	 	"alias": "Q_DANOPROB", 
+	 	"length": 255
+	 },
+	{
+		"name": "DANOPROB",
+	 	"type": "esriFieldTypeString", 
+	 	"alias": "Daños probables", 
+	 	"length": 255
+	 },
+	{
+		"name": "PELIGRO",
+	 	"type": "esriFieldTypeString", 
+	 	"alias": "Grado del peligro", 
+	 	"length": 255
+	 },
+	{
+		"name": "VULNER",
+	 	"type": "esriFieldTypeString", 
+	 	"alias": "Vulnerabilidad", 
+	 	"length": 255
+	 },
+	{
+		"name": "RIESGO",
+	 	"type": "esriFieldTypeInteger", 
+	 	"alias": "Riesgo estimado"
+	 },
+	{
+		"name": "RIESGOEST",
+	 	"type": "esriFieldTypeString", 
+	 	"alias": "Calificación del Riesgo", 
+	 	"length": 255
+	 },
+	{
+		"name": "MPMITREAL",
+	 	"type": "esriFieldTypeString", 
+	 	"alias": "Medidas de prevención y/o mitigación realizadas", 
+	 	"length": 255
+	 },
+	{
+		"name": "MPMITDESC",
+	 	"type": "esriFieldTypeString", 
+	 	"alias": "Descripción", 
+	 	"length": 255
+	 },
+	{	
+		"name": "MPMITREC", 
+		"type": "esriFieldTypeString", 
+		"alias": "Medidas de prevención y/o mitigación recomendaddas", 
+		"length": 255
+	}
+],
+"features": []
+}

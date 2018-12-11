@@ -1,0 +1,137 @@
+{
+  "displayFieldName": "",
+  "features": [
+  ],
+  "fieldAliases": {
+    "ALTERCOM": "Comentario de Alteraciones",
+    "CreationDate": "CreationDate",
+    "Creator": "Creator",
+    "ELEMACOM": "Elemento Acompañante",
+    "ELEMPRIN": "Elemento principal",
+    "EditDate": "EditDate",
+    "Editor": "Editor",
+    "GANGA": "Ganga",
+    "MENA": "Mena",
+    "UNIDAD_YMC": "UNIDAD_YMC",
+    "X": "X",
+    "Y": "Y",
+    "YACIMCOM": "Comentario de Yacimiento",
+    "YM_YMSTIPO": "Subtipo de yacimientos metálicos",
+    "YM_YMTIPO": "Tipo de yacimiento",
+    "globalid": "GlobalID",
+    "objectid": "objectid",
+    "parentglobalid": "ParentGlobalID"
+  },
+  "fields": [
+    {
+      "alias": "objectid",
+      "name": "objectid",
+      "type": "esriFieldTypeOID"
+    },
+    {
+      "alias": "GlobalID",
+      "length": 38,
+      "name": "globalid",
+      "type": "esriFieldTypeGlobalID"
+    },
+    {
+      "alias": "UNIDAD_YMC",
+      "length": 255,
+      "name": "UNIDAD_YMC",
+      "type": "esriFieldTypeString"
+    },
+    {
+      "alias": "Tipo de yacimiento",
+      "length": 255,
+      "name": "YM_YMTIPO",
+      "type": "esriFieldTypeString"
+    },
+    {
+      "alias": "Subtipo de yacimientos metálicos",
+      "length": 255,
+      "name": "YM_YMSTIPO",
+      "type": "esriFieldTypeString"
+    },
+    {
+      "alias": "Elemento principal",
+      "length": 255,
+      "name": "ELEMPRIN",
+      "type": "esriFieldTypeString"
+    },
+    {
+      "alias": "Elemento Acompañante",
+      "length": 255,
+      "name": "ELEMACOM",
+      "type": "esriFieldTypeString"
+    },
+    {
+      "alias": "Mena",
+      "length": 255,
+      "name": "MENA",
+      "type": "esriFieldTypeString"
+    },
+    {
+      "alias": "Ganga",
+      "length": 255,
+      "name": "GANGA",
+      "type": "esriFieldTypeString"
+    },
+    {
+      "alias": "Comentario de Alteraciones",
+      "length": 255,
+      "name": "ALTERCOM",
+      "type": "esriFieldTypeString"
+    },
+    {
+      "alias": "Comentario de Yacimiento",
+      "length": 255,
+      "name": "YACIMCOM",
+      "type": "esriFieldTypeString"
+    },
+    {
+      "alias": "ParentGlobalID",
+      "length": 38,
+      "name": "parentglobalid",
+      "type": "esriFieldTypeGUID"
+    },
+    {
+      "alias": "CreationDate",
+      "length": 8,
+      "name": "CreationDate",
+      "type": "esriFieldTypeDate"
+    },
+    {
+      "alias": "Creator",
+      "length": 128,
+      "name": "Creator",
+      "type": "esriFieldTypeString"
+    },
+    {
+      "alias": "EditDate",
+      "length": 8,
+      "name": "EditDate",
+      "type": "esriFieldTypeDate"
+    },
+    {
+      "alias": "Editor",
+      "length": 128,
+      "name": "Editor",
+      "type": "esriFieldTypeString"
+    },
+    {
+      "alias": "X",
+      "name": "X",
+      "type": "esriFieldTypeDouble"
+    },
+    {
+      "alias": "Y",
+      "name": "Y",
+      "type": "esriFieldTypeDouble"
+    }
+  ],
+  "geometryType": "esriGeometryPoint",
+  "spatialReference": {
+    "latestWkid": 4326,
+    "wkid": 4326
+  }
+}

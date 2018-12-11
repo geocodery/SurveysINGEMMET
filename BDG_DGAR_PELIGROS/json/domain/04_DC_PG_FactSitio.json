@@ -1,0 +1,46 @@
+{
+  "codedValues": [
+    {
+      "code": 1,
+      "name": "Substrato de mala calidad (muy meteorizado)"
+    },
+    {
+      "code": 2,
+      "name": "Alternancia de rocas de diferente competencia"
+    },
+    {
+      "code": 3,
+      "name": "Rocas muy fracturadas o diaclasadas"
+    },
+    {
+      "code": 4,
+      "name": "Orientación desfavorable de discontinuidades"
+    },
+    {
+      "code": 5,
+      "name": "Naturaleza del suelo (incompetente)"
+    },
+    {
+      "code": 6,
+      "name": "Material de remoción antiguo, susceptible"
+    },
+    {
+      "code": 7,
+      "name": "Pendiente del terreno"
+    },
+    {
+      "code": 8,
+      "name": "Morfología"
+    },
+    {
+      "code": 9,
+      "name": "Ausencia o escasez de vegetación"
+    },
+    {
+      "code": 10,
+      "name": "Otro factor"
+    }
+  ],
+  "name": "04_DC_PG_FactSitio",
+  "type": "codedValue"
+}

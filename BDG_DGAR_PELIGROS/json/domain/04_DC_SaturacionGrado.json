@@ -1,0 +1,22 @@
+{
+  "codedValues": [
+    {
+      "code": 1,
+      "name": "Seco"
+    },
+    {
+      "code": 2,
+      "name": "Parc. Saturado"
+    },
+    {
+      "code": 3,
+      "name": "Med. Saturado"
+    },
+    {
+      "code": 4,
+      "name": "Saturado"
+    }
+  ],
+  "name": "04_DC_SaturacionGrado",
+  "type": "codedValue"
+}

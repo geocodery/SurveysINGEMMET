@@ -1,0 +1,22 @@
+{
+  "codedValues": [
+    {
+      "code": "A",
+      "name": "Calidad A"
+    },
+    {
+      "code": "B",
+      "name": "Calidad B"
+    },
+    {
+      "code": "C",
+      "name": "Calidad C"
+    },
+    {
+      "code": "D",
+      "name": "Calidad D"
+    }
+  ],
+  "name": "04_DC_YM_Calidad",
+  "type": "codedValue"
+}

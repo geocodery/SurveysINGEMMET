@@ -1,0 +1,12 @@
+{
+ "type": "codedValue", 
+ "name": "04_DC_FA_Fuente", 
+ "codedValues": [
+
+
+ 
+
+{"code":  "Superficial" , "name": "Superficial" },
+
+{"code":  "Subterraneo" , "name": "Subterráneo" } ]
+}

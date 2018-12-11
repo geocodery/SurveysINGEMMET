@@ -1,0 +1,18 @@
+{
+  "codedValues": [
+    {
+      "code": 1,
+      "name": "Inicial"
+    },
+    {
+      "code": 2,
+      "name": "Maduro"
+    },
+    {
+      "code": 3,
+      "name": "Antiguo"
+    }
+  ],
+  "name": "04_DC_ErosionEstEvol",
+  "type": "codedValue"
+}

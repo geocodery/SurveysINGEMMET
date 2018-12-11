@@ -1,0 +1,30 @@
+{
+  "codedValues": [
+    {
+      "code": 1,
+      "name": "Llanura inundable"
+    },
+    {
+      "code": 2,
+      "name": "Circunlacustre"
+    },
+    {
+      "code": 3,
+      "name": "Litoral"
+    },
+    {
+      "code": 4,
+      "name": "Terraza baja"
+    },
+    {
+      "code": 5,
+      "name": "Depresión topográfica"
+    },
+    {
+      "code": 6,
+      "name": "Otra área"
+    }
+  ],
+  "name": "04_DC_AreaInundable",
+  "type": "codedValue"
+}

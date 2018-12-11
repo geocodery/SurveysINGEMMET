@@ -1,0 +1,29 @@
+{
+  "displayFieldName": "",
+  "fieldAliases": {
+	"FICHA_FT"  :   "FICHA_FT",
+	"GRAF_UBI"  :   "Croquis de ubicación",
+	"IMAGE"  	:   "Imagen"
+  },
+   "geometryType": "esriGeometryPoint",
+   "fields": [
+   	{
+   		"name": "FICHA_FT",
+   		"type": "esriFieldTypeString",
+   		"alias": "FICHA_FT", 
+   		"length": 255
+   	},
+ 	{
+ 		"name": "GRAF_UBI",
+ 		"type": "esriFieldTypeString",
+ 		"alias": "Croquis de ubicación", 
+ 		"length": 255
+ 	},
+ 	{
+ 		"name": "IMAGE",
+ 		"type": "esriFieldTypeBlob",
+ 		"alias": "Imagen"
+ 	}
+],
+"features": []
+}

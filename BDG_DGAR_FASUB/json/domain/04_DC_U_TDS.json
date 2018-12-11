@@ -1,0 +1,12 @@
+{
+ "type": "codedValue", 
+ "name": "04_DC_U_TDS", 
+ "codedValues": [
+
+
+ 
+
+{"code":  "1" , "name": "mg/l" },
+
+{"code":  "2" , "name": "ppt" } ]
+}

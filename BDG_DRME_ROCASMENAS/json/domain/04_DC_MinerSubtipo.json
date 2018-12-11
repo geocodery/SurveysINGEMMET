@@ -1,0 +1,48 @@
+{
+ "type": "codedValue", 
+ "name": "04_DC_MinerSubtipo", 
+ "codedValues": [
+
+
+ 
+
+{"code":  "FAL|FNO" , "name": "Falla normal" },
+
+{"code":  "FAL|FIN" , "name": "Falla inversa" },
+
+{"code":  "FAL|FNI" , "name": "Falla normal inferida" },
+
+{"code":  "FAL|FII" , "name": "Falla inversa inferida" },
+
+{"code":  "FAL|FND" , "name": "Falla normal dextral" },
+
+{"code":  "FAL|FDN" , "name": "Falla dextral normal" },
+
+{"code":  "FAL|FNS" , "name": "Falla normal sinestral" },
+
+{"code":  "FAL|FSN" , "name": "Falla sinestral normal" },
+
+{"code":  "FAL|FID" , "name": "Falla inversa dextral" },
+
+{"code":  "FAL|FDI" , "name": "Falla dextral inversa" },
+
+{"code":  "FAL|FIS" , "name": "Falla inversa sinestral" },
+
+{"code":  "FAL|FSI" , "name": "Falla sinestral inversa" },
+
+{"code":  "PLI|ANT" , "name": "Anticlinal" },
+
+{"code":  "PLI|SIN" , "name": "Sinclinal" },
+
+{"code":  "PLI|AIN" , "name": "Anticlinal inferido" },
+
+{"code":  "PLI|SII" , "name": "Sinclinal inferido" },
+
+{"code":  "PLI|AVO" , "name": "Anticlinal volcado" },
+
+{"code":  "PLI|SVO" , "name": "Sinclinal volcado" },
+
+{"code":  "PLI|ATU" , "name": "Anticlinal tumbado" },
+
+{"code":  "PLI|STU" , "name": "Sinclinal tumbado" } ]
+}

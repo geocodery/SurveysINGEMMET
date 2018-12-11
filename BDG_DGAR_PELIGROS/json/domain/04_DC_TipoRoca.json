@@ -1,0 +1,54 @@
+{
+  "codedValues": [
+    {
+      "code": 1,
+      "name": "Intrusivo"
+    },
+    {
+      "code": 2,
+      "name": "Lava"
+    },
+    {
+      "code": 3,
+      "name": "Metamórfica"
+    },
+    {
+      "code": 4,
+      "name": "No Clasificado"
+    },
+    {
+      "code": 5,
+      "name": "Sedimentario Clástico"
+    },
+    {
+      "code": 6,
+      "name": "Sedimentario Químico"
+    },
+    {
+      "code": 7,
+      "name": "Sedimento"
+    },
+    {
+      "code": 8,
+      "name": "Volcanico"
+    },
+    {
+      "code": 9,
+      "name": "Volcanico - Sedimento"
+    },
+    {
+      "code": 10,
+      "name": "Volcanico Piroclástico"
+    },
+    {
+      "code": 11,
+      "name": "Sedimentaria Silicoclástica"
+    },
+    {
+      "code": 12,
+      "name": "Sedimentaria Calcárea"
+    }
+  ],
+  "name": "04_DC_TipoRoca",
+  "type": "codedValue"
+}

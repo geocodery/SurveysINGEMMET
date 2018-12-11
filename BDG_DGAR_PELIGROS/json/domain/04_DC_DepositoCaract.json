@@ -1,0 +1,14 @@
+{
+  "codedValues": [
+    {
+      "code": 1,
+      "name": "Bloques aislados"
+    },
+    {
+      "code": 2,
+      "name": "Canchales o talus"
+    }
+  ],
+  "name": "04_DC_DepositoCaract",
+  "type": "codedValue"
+}

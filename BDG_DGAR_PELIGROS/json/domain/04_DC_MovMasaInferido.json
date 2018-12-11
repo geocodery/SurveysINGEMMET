@@ -1,0 +1,14 @@
+{
+  "codedValues": [
+    {
+      "code": 1,
+      "name": "Superficie cóncavo convexa identificada en mapa topográfico"
+    },
+    {
+      "code": 2,
+      "name": "Bloques de roca aislados o material de remoción identificable"
+    }
+  ],
+  "name": "04_DC_MovMasaInferido",
+  "type": "codedValue"
+}

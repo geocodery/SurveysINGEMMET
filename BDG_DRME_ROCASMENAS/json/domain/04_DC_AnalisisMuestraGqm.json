@@ -1,0 +1,18 @@
+{
+ "type": "codedValue", 
+ "name": "04_DC_AnalisisMuestraGqm", 
+ "codedValues": [
+
+
+ 
+
+{"code":  "EM" , "name": "Elementos Mayores (EM)" },
+
+{"code":  "REE" , "name": "Elementos Traza (ET) y Tierras Raras (REE)" },
+
+{"code":  "FA" , "name": "Ensayo al fuego (FAA50)" },
+
+{"code":  "ET" , "name": "Elementos Traza (ET)" },
+
+{"code":  "ME" , "name": "Menas" } ]
+}

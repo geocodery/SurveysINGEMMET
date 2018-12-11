@@ -1,0 +1,22 @@
+{
+  "codedValues": [
+    {
+      "code": 1,
+      "name": "Sin registro histórico (>500 años)"
+    },
+    {
+      "code": 2,
+      "name": "Antiguo (<500 >100 años)"
+    },
+    {
+      "code": 3,
+      "name": "Reciente (20 a 100 años)"
+    },
+    {
+      "code": 4,
+      "name": "Actual < 20 años"
+    }
+  ],
+  "name": "04_DC_EdadFenom",
+  "type": "codedValue"
+}

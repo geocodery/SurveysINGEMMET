@@ -1,0 +1,22 @@
+{
+  "codedValues": [
+    {
+      "code": 1,
+      "name": "Cárcavas"
+    },
+    {
+      "code": 2,
+      "name": "Surcos"
+    },
+    {
+      "code": 3,
+      "name": "Laminar"
+    },
+    {
+      "code": 4,
+      "name": "Bad lands"
+    }
+  ],
+  "name": "04_DC_ErosionLadera",
+  "type": "codedValue"
+}

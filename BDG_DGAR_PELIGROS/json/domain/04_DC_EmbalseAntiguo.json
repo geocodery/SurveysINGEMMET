@@ -1,0 +1,38 @@
+{
+  "codedValues": [
+    {
+      "code": 1,
+      "name": "Desviación de curso fluvial"
+    },
+    {
+      "code": 2,
+      "name": "Laguna o embalse natural"
+    },
+    {
+      "code": 3,
+      "name": "Restos de pueblo sepultado"
+    },
+    {
+      "code": 4,
+      "name": "Valle de represamiento con modificación de pendiente del río"
+    },
+    {
+      "code": 5,
+      "name": "Depósitos aluviales extensos en valle con poca dinámica actual"
+    },
+    {
+      "code": 6,
+      "name": "Abanicos aluviales extensos en la desembocadura de ríos o quebradas"
+    },
+    {
+      "code": 7,
+      "name": "Canchales cubiertos con vegetación"
+    },
+    {
+      "code": 8,
+      "name": "Cono proluvial antiguo con vegetación más joven"
+    }
+  ],
+  "name": "04_DC_EmbalseAntiguo",
+  "type": "codedValue"
+}

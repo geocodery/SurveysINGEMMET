@@ -1,0 +1,34 @@
+{
+  "codedValues": [
+    {
+      "code": 1,
+      "name": "Planar"
+    },
+    {
+      "code": 2,
+      "name": "Cuña"
+    },
+    {
+      "code": 3,
+      "name": "Vuelco"
+    },
+    {
+      "code": 4,
+      "name": "Mixto"
+    },
+    {
+      "code": 5,
+      "name": "Favorable al Talud"
+    },
+    {
+      "code": 6,
+      "name": "Desfavorable al Talud"
+    },
+    {
+      "code": 7,
+      "name": "Horizontal"
+    }
+  ],
+  "name": "04_DC_Fracturamiento",
+  "type": "codedValue"
+}

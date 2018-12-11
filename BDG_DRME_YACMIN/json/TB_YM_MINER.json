@@ -1,0 +1,189 @@
+{
+  "displayFieldName": "",
+  "features": [
+  ],
+  "fieldAliases": {
+    "ANO": "Año",
+    "COMENTINV": "Comentarios de Inversionistas",
+    "CONTFIN": "Contenido Fino",
+    "CreationDate": "CreationDate",
+    "Creator": "Creator",
+    "DESCRIP": "Descripción",
+    "ELEMMET": "Elem. Metálico",
+    "EditDate": "EditDate",
+    "Editor": "Editor",
+    "LEY": "Ley",
+    "MIN_UCFINO": "Unidad contenido fino",
+    "MIN_UPESO": "Unidad tonelaje",
+    "OBSMIN": "Observaciones Mineras",
+    "PERIODO": "Periodo",
+    "REFBIB": "Referencia Bibliografica",
+    "TONEL": "Tonelaje",
+    "UNIDAD_MIN": "UNIDAD_MIN",
+    "X": "X",
+    "Y": "Y",
+    "YM_MINTIPO": "Tipo Minería",
+    "YM_RMTIPO": "Tipo de recurso",
+    "YM_RVATIPO": "Tipo de reserva",
+    "YM_ULEY": "Unidad ley",
+    "globalid": "GlobalID",
+    "objectid": "objectid",
+    "parentglobalid": "ParentGlobalID"
+  },
+  "fields": [
+    {
+      "alias": "objectid",
+      "name": "objectid",
+      "type": "esriFieldTypeOID"
+    },
+    {
+      "alias": "GlobalID",
+      "length": 38,
+      "name": "globalid",
+      "type": "esriFieldTypeGlobalID"
+    },
+    {
+      "alias": "UNIDAD_MIN",
+      "length": 255,
+      "name": "UNIDAD_MIN",
+      "type": "esriFieldTypeString"
+    },
+    {
+      "alias": "Tipo Minería",
+      "length": 255,
+      "name": "YM_MINTIPO",
+      "type": "esriFieldTypeString"
+    },
+    {
+      "alias": "Año",
+      "name": "ANO",
+      "type": "esriFieldTypeInteger"
+    },
+    {
+      "alias": "Elem. Metálico",
+      "length": 255,
+      "name": "ELEMMET",
+      "type": "esriFieldTypeString"
+    },
+    {
+      "alias": "Contenido Fino",
+      "name": "CONTFIN",
+      "type": "esriFieldTypeDouble"
+    },
+    {
+      "alias": "Unidad contenido fino",
+      "length": 255,
+      "name": "MIN_UCFINO",
+      "type": "esriFieldTypeString"
+    },
+    {
+      "alias": "Tonelaje",
+      "name": "TONEL",
+      "type": "esriFieldTypeDouble"
+    },
+    {
+      "alias": "Unidad tonelaje",
+      "length": 255,
+      "name": "MIN_UPESO",
+      "type": "esriFieldTypeString"
+    },
+    {
+      "alias": "Ley",
+      "name": "LEY",
+      "type": "esriFieldTypeDouble"
+    },
+    {
+      "alias": "Unidad ley",
+      "length": 255,
+      "name": "YM_ULEY",
+      "type": "esriFieldTypeString"
+    },
+    {
+      "alias": "Tipo de reserva",
+      "length": 255,
+      "name": "YM_RVATIPO",
+      "type": "esriFieldTypeString"
+    },
+    {
+      "alias": "Tipo de recurso",
+      "length": 255,
+      "name": "YM_RMTIPO",
+      "type": "esriFieldTypeString"
+    },
+    {
+      "alias": "Descripción",
+      "length": 255,
+      "name": "DESCRIP",
+      "type": "esriFieldTypeString"
+    },
+    {
+      "alias": "Periodo",
+      "length": 255,
+      "name": "PERIODO",
+      "type": "esriFieldTypeString"
+    },
+    {
+      "alias": "Referencia Bibliografica",
+      "length": 255,
+      "name": "REFBIB",
+      "type": "esriFieldTypeString"
+    },
+    {
+      "alias": "Comentarios de Inversionistas",
+      "length": 255,
+      "name": "COMENTINV",
+      "type": "esriFieldTypeString"
+    },
+    {
+      "alias": "Observaciones Mineras",
+      "length": 255,
+      "name": "OBSMIN",
+      "type": "esriFieldTypeString"
+    },
+    {
+      "alias": "ParentGlobalID",
+      "length": 38,
+      "name": "parentglobalid",
+      "type": "esriFieldTypeGUID"
+    },
+    {
+      "alias": "CreationDate",
+      "length": 8,
+      "name": "CreationDate",
+      "type": "esriFieldTypeDate"
+    },
+    {
+      "alias": "Creator",
+      "length": 128,
+      "name": "Creator",
+      "type": "esriFieldTypeString"
+    },
+    {
+      "alias": "EditDate",
+      "length": 8,
+      "name": "EditDate",
+      "type": "esriFieldTypeDate"
+    },
+    {
+      "alias": "Editor",
+      "length": 128,
+      "name": "Editor",
+      "type": "esriFieldTypeString"
+    },
+    {
+      "alias": "X",
+      "name": "X",
+      "type": "esriFieldTypeDouble"
+    },
+    {
+      "alias": "Y",
+      "name": "Y",
+      "type": "esriFieldTypeDouble"
+    }
+  ],
+  "geometryType": "esriGeometryPoint",
+  "spatialReference": {
+    "latestWkid": 4326,
+    "wkid": 4326
+  }
+}

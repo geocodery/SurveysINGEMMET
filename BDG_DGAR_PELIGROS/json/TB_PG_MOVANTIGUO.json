@@ -1,0 +1,134 @@
+{
+  "displayFieldName": "",
+  "fieldAliases": {
+	"FICHA_MA"		: "Ficha N°",
+	"MMASAEST"		: "Estado",
+	"MMASATIPO"		: "Tipo",
+	"MMASALON"		: "Longitud de escarpa antigua (m)",
+	"MMASASVIS"		: "Salto visible (m)",
+	"MMASADESN"		: "Desnivel entre escarpa y pie (m)",
+	"MMASAINF"		: "Inferido",
+	"EMBANT"		: "Embalse antiguo",
+	"EMBANTAREA"	: "Area",
+	"EADCOLAREA"	: "Area",
+	"EADCOLALT"		: "Altura embalse",
+	"EADCOLLON"		: "Longitud del embalse",
+	"EADCOLTIPO"	: "Tipo de represamiento",
+	"PROCGEOLANT"	: "Procesos geologicos antiguos",
+	"PGEOANTOT"		: "Otro:"
+  },
+   "geometryType": "esriGeometryPoint",
+   "fields": [
+
+   	{
+   		"name": "FICHA_MA",
+   	 	"type": "esriFieldTypeString",
+   	 	"alias": "Ficha N°", 
+   	 	"length": 255
+   	 },
+	{
+		"name": "MMASAEST",
+	 	"type": "esriFieldTypeString",
+	 	"alias": "Estado", 
+	 	"length": 255
+	 },
+	{
+		"name": "MMASATIPO",
+	 	"type": "esriFieldTypeString",
+	 	"alias": "Tipo", 
+	 	"length": 255
+	 },
+	{
+		"name": "MMASALON",
+	 	"type": "esriFieldTypeDouble",
+	 	"alias": "Longitud de escarpa antigua (m)", 
+	 	"length": 255
+	 },
+	{
+		"name": "MMASASVIS",
+	 	"type": "esriFieldTypeDouble",
+	 	"alias": "Salto visible (m)", 
+	 	"length": 255
+	 },
+	{
+		"name": "MMASADESN",
+	 	"type": "esriFieldTypeDouble",
+	 	"alias": "Desnivel entre escarpa y pie (m)", 
+	 	"length": 255
+	 },
+	{
+		"name": "MMASAINF",
+	 	"type": "esriFieldTypeString",
+	 	"alias": "Inferido", 
+	 	"length": 255
+	 },
+	{
+		"name": "EMBANT",
+	 	"type": "esriFieldTypeString",
+	 	"alias": "Embalse antiguo", 
+	 	"length": 255
+	 },
+	{
+		"name": "EMBANTAREA",
+	 	"type": "esriFieldTypeDouble",
+	 	"alias": "Area", 
+	 	"length": 255
+	 },
+	{
+		"name": "EADCOLAREA",
+	 	"type": "esriFieldTypeDouble",
+	 	"alias": "Area", 
+	 	"length": 255
+	 },
+	{
+		"name": "EADCOLALT",
+	 	"type": "esriFieldTypeDouble",
+	 	"alias": "Altura embalse", 
+	 	"length": 255
+	 },
+	{
+		"name": "EADCOLLON",
+	 	"type": "esriFieldTypeDouble",
+	 	"alias": "Longitud del embalse", 
+	 	"length": 255
+	 },
+	{
+		"name": "EADCOLTIPO",
+	 	"type": "esriFieldTypeString",
+	 	"alias": "Tipo de represamiento", 
+	 	"length": 255
+	 },
+	{
+		"name": "PROCGEOLANT",
+	 	"type": "esriFieldTypeString",
+	 	"alias": "Procesos geologicos antiguos", 
+	 	"length": 255
+	 },
+	{
+		"name": "PGEOANTOT",
+	 	"type": "esriFieldTypeString",
+	 	"alias": "Otro:", 
+	 	"length": 255
+	 }
+
+],
+"features": []
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

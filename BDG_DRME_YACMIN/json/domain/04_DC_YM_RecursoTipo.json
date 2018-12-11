@@ -1,0 +1,26 @@
+{
+  "codedValues": [
+    {
+      "code": "Medido",
+      "name": "Medido"
+    },
+    {
+      "code": "Indicado",
+      "name": "Indicado"
+    },
+    {
+      "code": "Inferido",
+      "name": "Inferido"
+    },
+    {
+      "code": "Otros",
+      "name": "Otros"
+    },
+    {
+      "code": "Medido+Indicado",
+      "name": "Medido + Indicado"
+    }
+  ],
+  "name": "04_DC_YM_RecursoTipo",
+  "type": "codedValue"
+}

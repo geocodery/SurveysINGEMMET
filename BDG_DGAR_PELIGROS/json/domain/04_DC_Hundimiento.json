@@ -1,0 +1,22 @@
+{
+  "codedValues": [
+    {
+      "code": 1,
+      "name": "Galería de mina"
+    },
+    {
+      "code": 2,
+      "name": "Área urbana"
+    },
+    {
+      "code": 3,
+      "name": "Terreno de cultivo"
+    },
+    {
+      "code": 4,
+      "name": "Karst (dolina, etc)"
+    }
+  ],
+  "name": "04_DC_Hundimiento",
+  "type": "codedValue"
+}

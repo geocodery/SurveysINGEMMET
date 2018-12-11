@@ -1,0 +1,20 @@
+{
+ "type": "codedValue", 
+ "name": "04_DC_AlterEstilo", 
+ "codedValues": [
+
+
+ 
+
+{"code":  "agreg" , "name": "Agregados" },
+
+{"code":  "disem" , "name": "Diseminada" },
+
+{"code":  "masiv" , "name": "Masiva" },
+
+{"code":  "pent" , "name": "Penetrativa" },
+
+{"code":  "veni" , "name": "Venillas" },
+
+{"code":  "veti" , "name": "Vetillas" } ]
+}

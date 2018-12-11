@@ -1,0 +1,26 @@
+{
+  "codedValues": [
+    {
+      "code": 1,
+      "name": "Terraza"
+    },
+    {
+      "code": 2,
+      "name": "Abanico"
+    },
+    {
+      "code": 3,
+      "name": "Meseta"
+    },
+    {
+      "code": 4,
+      "name": "Llanura"
+    },
+    {
+      "code": 5,
+      "name": "Playa"
+    }
+  ],
+  "name": "04_DC_Planicie",
+  "type": "codedValue"
+}

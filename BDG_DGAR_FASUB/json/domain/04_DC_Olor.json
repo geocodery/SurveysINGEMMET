@@ -1,0 +1,30 @@
+{
+ "type": "codedValue", 
+ "name": "04_DC_Olor", 
+ "codedValues": [
+
+
+ 
+
+{"code":  "Azufre" , "name": "Azufre" },
+
+{"code":  "Cloro" , "name": "Cloro" },
+
+{"code":  "Pescado" , "name": "Pescado" },
+
+{"code":  "AMoho" , "name": "A Moho" },
+
+{"code":  "AMadera" , "name": "A Madera" },
+
+{"code":  "HuevosPodridos" , "name": "Huevos Podridos" },
+
+{"code":  "Detergente" , "name": "Detergente" },
+
+{"code":  "Gasolina" , "name": "Gasolina" },
+
+{"code":  "GasMetano" , "name": "Gas Metano" },
+
+{"code":  "AFrejoles" , "name": "A Frejoles" },
+
+{"code":  "Inodoro" , "name": "Inodoro" } ]
+}

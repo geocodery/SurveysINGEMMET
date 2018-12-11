@@ -1,0 +1,38 @@
+{
+  "codedValues": [
+    {
+      "code": "GpoAlunita",
+      "name": "Gpo Alunita"
+    },
+    {
+      "code": "GpoAlunita-Caolinita",
+      "name": "Gpo Alunita - Caolinita"
+    },
+    {
+      "code": "GpoCalcosilicatos",
+      "name": "Gpo Calcosilicatos"
+    },
+    {
+      "code": "GpoCaolin",
+      "name": "Gpo Caolín"
+    },
+    {
+      "code": "GpoClorita",
+      "name": "Gpo Clorita"
+    },
+    {
+      "code": "GpoIllita",
+      "name": "Gpo Illita"
+    },
+    {
+      "code": "GpoIllita-Caolinita",
+      "name": "Gpo Illita - Caolinita"
+    },
+    {
+      "code": "Gpo Sílica",
+      "name": "Gpo Sílica"
+    }
+  ],
+  "name": "04_DC_AlteracionGrupo",
+  "type": "codedValue"
+}

@@ -1,0 +1,12 @@
+{
+ "type": "codedValue", 
+ "name": "04_DC_U_Resist", 
+ "codedValues": [
+
+
+ 
+
+{"code":  "1" , "name": "ohm/cm" },
+
+{"code":  "2" , "name": "Kohm/cm" } ]
+}

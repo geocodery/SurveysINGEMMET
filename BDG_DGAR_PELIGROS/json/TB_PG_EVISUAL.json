@@ -1,0 +1,492 @@
+{
+  "displayFieldName": "",
+  "fieldAliases": {
+  	"FICHA_EV"		: "FICHA_EV",
+	"ESTILO"		: "Estilo" ,
+	"ESCARPFORM"	: "Forma de la escarpa" ,
+	"ESCARPLONG"	: "Longitud de escarpa (m)",
+	"ESCARPDESN"	: "Desnivel entre escarpa y pie (m)",
+	"SUPERF"		: "Superficie" ,
+	"SALTOPRIN"		: "Salto Principal (m)",
+	"SALTOSEC"		: "Salto Secundario (m)",
+	"VELMOV"		: "Velocidad de movimiento" ,
+	"DISTRIB"		: "Distribución o actividad" ,
+	"AGRIET"		: "Agrietamientos" ,
+	"AGRIETLON"		: "Longitud (m)",
+	"AGRIETLPRO"	: "Profundidad (m)",
+	"AGRIETSEP"		: "Separació3n" ,
+	"DISTREC"		: "Distancia recorrida (m)",
+	"EMBLON"		: "Longitud de embalse (m)",
+	"EMBALT"		: "Altura embalse (m)",
+	"VOLMATDES"		: "Volumen de material deslizado (m3)",
+	"ARRANQUE"		: "Arranque" ,
+	"ROTURATIPO"	: "Tipo de rotura" ,
+	"TALUD"			: "Taludes" ,
+	"ARQFORMZON"	: "Forma de zona de arranque" ,
+	"DEPOSITCAR"	: "Caracterídsticas del depó3sito" ,
+	"BLOQUETAM"		: "Tamaó1o de bloques" ,
+	"ARQLONG"		: "Longitud de arranque (m)",
+	"ALTURA"		: "Altura (m)",
+	"VOLDEP"		: "Volumen del depó3sito (m)",
+	"OBSTCAUCE"		: "Obstrucció3n de cauce (m)",
+	"ENTERVIV"		: "Enterramiento de viviendas (N°)",
+	"DERRTIER"		: "Derrumbe de tierras (m2)",
+	"OBSTVIA"		: "Obstrucció3n de vída (m)",
+	"HUNDIM"		: "Hundimiento" ,
+	"AREAAFECT"		: "Á1rea afectada" ,
+	"FLUJFORM"		: "Forma" ,
+	"FLUJAREA"		: "Á1rea" ,
+	"FLUJALT"		: "Altura" ,
+	"FLUJVOL"		: "Volumen" ,
+	"CLASBLOQ"		: "Bloq/Bol(%)" ,
+	"CLASGR"		: "Gr(%)" ,
+	"CLASARLIM"		: "Ar/Lim(%)" ,
+	"FLUJOMAT"		: "Flujo de material" ,
+	"FLUJDIST"		: "Distancia recorrida (m)",
+	"FLUJRUN"		: "Run up (m)",
+	"FLUJEF"		: "Efectos" ,
+	"FLUJOBSTVI"	: "Obstrucción de vía (m)",
+	"FLUJENTVIV"	: "Enterramiento de viviendas (N°)",
+	"ALUD"			: "Alud" ,
+	"ALUDDIST"		: "Distancia recorrida (m)",
+	"ALUDVOL"		: "Volumen (m3)",
+	"REPTACION"		: "Reptación" ,
+	"REPTACAREA"	: "Area afectada (m2)",
+	"AREAINUN"		: "Area susceptible a inundación" ,
+	"EXTINUN"		: "Extensión (m2)",
+	"ALTINUN"		: "Altura de agua (m)",
+	"USOINUN"		: "Uso" ,
+	"ALTTERR"		: "Altura de terraza (m)",
+	"PENRIO"		: "Pendiente de rído" ,
+	"AVNORM"		: "Avenida normal" ,
+	"AVEXCEP"		: "Avenida excepcional" ,
+	"CURSORIO"		: "Curso principal" ,
+	"TIPOERO"		: "Tipo de erosión" ,
+	"ESTEVOL"		: "Estado evolutivo" ,
+	"EROLON"		: "Longitud (m)",
+	"EROPROF"		: "Profundidad (m)",
+	"EROAREA"		: "Area (m)",
+	"USOTERR"		: "Uso del terreno" ,
+	"ZONAINV"		: "Zonas involucradas" ,
+	"EROFLUV"		: "Tipo de erosión fluvial" ,
+	"EROFLUVLON"	: "Longitud erosionada (m)",
+	"EROFLUVMRG"	: "Ámbas mágenes",
+	"USOTERRFL"		: "Uso del terreno" ,
+	"CARACTAREN"	: "Caracterídsticas del arenamiento" ,
+	"EFECTAREN"		: "Efectos o daó1os principales" ,
+	"AREAAREN"		: "Extensión o í1rea afectada (m2)",
+	"OTCARENC"		: "Otras caracterídsticas encontradas" 
+  },
+   "geometryType": "esriGeometryPoint",
+   "fields": [
+		{
+			"name": "FICHA_EV",
+		 	"type": "esriFieldTypeString", 
+		 	"alias": "FICHA_EV", 
+		 	"length": 255
+		 },
+		{
+			"name": "ESTILO",
+		 	"type": "esriFieldTypeString", 
+		 	"alias": "Estilo", 
+		 	"length": 255
+		 },
+		{
+			"name": "ESCARPFORM",
+		 	"type": "esriFieldTypeString", 
+		 	"alias": "Forma de la escarpa", 
+		 	"length": 255
+		 },
+		{
+			"name": "ESCARPLONG",
+		 	"type": "esriFieldTypeDouble", 
+		 	"alias": "Longitud de escarpa (m)"
+		 },
+		{
+			"name": "ESCARPDESN",
+		 	"type": "esriFieldTypeDouble", 
+		 	"alias": "Desnivel entre escarpa y pie (m)"
+		 },
+		{
+			"name": "SUPERF",
+		 	"type": "esriFieldTypeString", 
+		 	"alias": "Superficie", 
+		 	"length": 255
+		 },
+		{
+			"name": "SALTOPRIN",
+		 	"type": "esriFieldTypeDouble", 
+		 	"alias": "Salto Principal (m)"
+		 },
+		{
+			"name": "SALTOSEC",
+		 	"type": "esriFieldTypeDouble", 
+		 	"alias": "Salto Secundario (m)"
+		 },
+		{
+			"name": "VELMOV",
+		 	"type": "esriFieldTypeString", 
+		 	"alias": "Velocidad de movimiento", 
+		 	"length": 255
+		 },
+		{
+			"name": "DISTRIB",
+		 	"type": "esriFieldTypeString", 
+		 	"alias": "Distribución o actividad", 
+		 	"length": 255
+		 },
+		{
+			"name": "AGRIET",
+		 	"type": "esriFieldTypeString", 
+		 	"alias": "Agrietamientos", 
+		 	"length": 255
+		 },
+		{
+			"name": "AGRIETLON",
+		 	"type": "esriFieldTypeDouble", 
+		 	"alias": "Longitud (m)"
+		 },
+		{
+			"name": "AGRIETLPRO",
+		 	"type": "esriFieldTypeDouble", 
+		 	"alias": "Profundidad (m)"
+		 },
+		{
+			"name": "AGRIETSEP",
+		 	"type": "esriFieldTypeDouble", 
+		 	"alias": "Separación"
+		 },
+		{
+			"name": "DISTREC",
+		 	"type": "esriFieldTypeDouble", 
+		 	"alias": "Distancia recorrida (m)"
+		 },
+		{
+			"name": "EMBLON",
+		 	"type": "esriFieldTypeDouble", 
+		 	"alias": "Longitud de embalse (m)"
+		 },
+		{
+			"name": "EMBALT",
+		 	"type": "esriFieldTypeDouble", 
+		 	"alias": "Altura embalse (m)"
+		 },
+		{
+			"name": "VOLMATDES",
+		 	"type": "esriFieldTypeDouble", 
+		 	"alias": "Volumen de material deslizado (m3)"
+		 },
+		{
+			"name": "ARRANQUE",
+		 	"type": "esriFieldTypeString", 
+		 	"alias": "Arranque", 
+		 	"length": 255
+		 },
+		{
+			"name": "ROTURATIPO",
+		 	"type": "esriFieldTypeString", 
+		 	"alias": "Tipo de rotura", 
+		 	"length": 255
+		 },
+		{
+			"name": "TALUD",
+		 	"type": "esriFieldTypeString", 
+		 	"alias": "Taludes", 
+		 	"length": 255
+		 },
+		{
+			"name": "ARQFORMZON",
+		 	"type": "esriFieldTypeString", 
+		 	"alias": "Forma de zona de arranque", 
+		 	"length": 255
+		 },
+		{
+			"name": "DEPOSITCAR",
+		 	"type": "esriFieldTypeString", 
+		 	"alias": "Características del depósito", 
+		 	"length": 255
+		 },
+		{
+			"name": "BLOQUETAM",
+		 	"type": "esriFieldTypeDouble", 
+		 	"alias": "Tamaó1o de bloques"
+		 },
+		{
+			"name": "ARQLONG",
+		 	"type": "esriFieldTypeDouble", 
+		 	"alias": "Longitud de arranque (m)"
+		 },
+		{
+			"name": "ALTURA",
+		 	"type": "esriFieldTypeDouble", 
+		 	"alias": "Altura (m)"
+		 },
+		{
+			"name": "VOLDEP",
+		 	"type": "esriFieldTypeDouble", 
+		 	"alias": "Volumen del depósito (m)"
+		 },
+		{
+			"name": "OBSTCAUCE",
+		 	"type": "esriFieldTypeDouble", 
+		 	"alias": "Obstrucció3n de cauce (m)"
+		 },
+		{
+			"name": "ENTERVIV",
+		 	"type": "esriFieldTypeDouble", 
+		 	"alias": "Enterramiento de viviendas (N°)"
+		 },
+		{
+			"name": "DERRTIER",
+		 	"type": "esriFieldTypeDouble", 
+		 	"alias": "Derrumbe de tierras (m2)"
+		 },
+		{
+			"name": "OBSTVIA",
+		 	"type": "esriFieldTypeDouble", 
+		 	"alias": "Obstrucció3n de vída (m)"
+		 },
+		{
+			"name": "HUNDIM",
+		 	"type": "esriFieldTypeString", 
+		 	"alias": "Hundimiento", 
+		 	"length": 255
+		 },
+		{
+			"name": "AREAAFECT",
+		 	"type": "esriFieldTypeDouble", 
+		 	"alias": "Á1rea afectada"
+		 },
+		{
+			"name": "FLUJFORM",
+		 	"type": "esriFieldTypeString", 
+		 	"alias": "Forma", 
+		 	"length": 255
+		 },
+		{
+			"name": "FLUJAREA",
+		 	"type": "esriFieldTypeDouble", 
+		 	"alias": "Á1rea"
+		 },
+		{
+			"name": "FLUJALT",
+		 	"type": "esriFieldTypeDouble", 
+		 	"alias": "Altura"
+		 },
+		{
+			"name": "FLUJVOL",
+		 	"type": "esriFieldTypeDouble", 
+		 	"alias": "Volumen"
+		 },
+		{
+			"name": "CLASBLOQ",
+		 	"type": "esriFieldTypeDouble", 
+		 	"alias": "Bloq/Bol(%)"
+		 },
+		{
+			"name": "CLASGR",
+		 	"type": "esriFieldTypeDouble", 
+		 	"alias": "Gr(%)"
+		 },
+		{
+			"name": "CLASARLIM",
+		 	"type": "esriFieldTypeDouble", 
+		 	"alias": "Ar/Lim(%)"
+		 },
+		{
+			"name": "FLUJOMAT",
+		 	"type": "esriFieldTypeString", 
+		 	"alias": "Flujo de material", 
+		 	"length": 255
+		 },
+		{
+			"name": "FLUJDIST",
+		 	"type": "esriFieldTypeDouble", 
+		 	"alias": "Distancia recorrida (m)"
+		 },
+		{
+			"name": "FLUJRUN",
+		 	"type": "esriFieldTypeDouble", 
+		 	"alias": "Run up (m)"
+		 },
+		{
+			"name": "FLUJEF",
+		 	"type": "esriFieldTypeString", 
+		 	"alias": "Efectos", 
+		 	"length": 255
+		 },
+		{
+			"name": "FLUJOBSTVI",
+		 	"type": "esriFieldTypeDouble", 
+		 	"alias": "Obstrucció3n de vída (m)"
+		 },
+		{
+			"name": "FLUJENTVIV",
+		 	"type": "esriFieldTypeDouble", 
+		 	"alias": "Enterramiento de viviendas (N°)"
+		 },
+		{
+			"name": "ALUD",
+		 	"type": "esriFieldTypeString", 
+		 	"alias": "Alud", 
+		 	"length": 255
+		 },
+		{
+			"name": "ALUDDIST",
+		 	"type": "esriFieldTypeDouble", 
+		 	"alias": "Distancia recorrida (m)"
+		 },
+		{
+			"name": "ALUDVOL",
+		 	"type": "esriFieldTypeDouble", 
+		 	"alias": "Volumen (m3)"
+		 },
+		{
+			"name": "REPTACION",
+		 	"type": "esriFieldTypeString", 
+		 	"alias": "Reptación", 
+		 	"length": 255
+		 },
+		{
+			"name": "REPTACAREA",
+		 	"type": "esriFieldTypeDouble", 
+		 	"alias": "Area afectada (m2)"
+		 },
+		{
+			"name": "AREAINUN",
+		 	"type": "esriFieldTypeString", 
+		 	"alias": "Area susceptible a inundación", 
+		 	"length": 255
+		 },
+		{
+			"name": "EXTINUN",
+		 	"type": "esriFieldTypeDouble", 
+		 	"alias": "Extensió3n (m2)"
+		 },
+		{
+			"name": "ALTINUN",
+		 	"type": "esriFieldTypeDouble", 
+		 	"alias": "Altura de agua (m)"
+		 },
+		{
+			"name": "USOINUN",
+		 	"type": "esriFieldTypeString", 
+		 	"alias": "Uso", 
+		 	"length": 255
+		 },
+		{
+			"name": "ALTTERR",
+		 	"type": "esriFieldTypeDouble", 
+		 	"alias": "Altura de terraza (m)"
+		 },
+		{
+			"name": "PENRIO",
+		 	"type": "esriFieldTypeDouble", 
+		 	"alias": "Pendiente de río"
+		 },
+		{
+			"name": "AVNORM",
+		 	"type": "esriFieldTypeString", 
+		 	"alias": "Avenida normal", 
+		 	"length": 255
+		 },
+		{
+			"name": "AVEXCEP",
+		 	"type": "esriFieldTypeString", 
+		 	"alias": "Avenida excepcional", 
+		 	"length": 255
+		 },
+		{
+			"name": "CURSORIO",
+		 	"type": "esriFieldTypeString", 
+		 	"alias": "Curso principal", 
+		 	"length": 255
+		 },
+		{
+			"name": "TIPOERO",
+		 	"type": "esriFieldTypeString", 
+		 	"alias": "Tipo de erosión", 
+		 	"length": 255
+		 },
+		{
+			"name": "ESTEVOL",
+		 	"type": "esriFieldTypeString", 
+		 	"alias": "Estado evolutivo", 
+		 	"length": 255
+		 },
+		{
+			"name": "EROLON",
+		 	"type": "esriFieldTypeDouble", 
+		 	"alias": "Longitud (m)"
+		 },
+		{
+			"name": "EROPROF",
+		 	"type": "esriFieldTypeDouble", 
+		 	"alias": "Profundidad (m)"
+		 },
+		{
+			"name": "EROAREA",
+		 	"type": "esriFieldTypeDouble", 
+		 	"alias": "Area (m)"
+		 },
+		{
+			"name": "USOTERR",
+		 	"type": "esriFieldTypeString", 
+		 	"alias": "Uso del terreno", 
+		 	"length": 255
+		 },
+		{
+			"name": "ZONAINV",
+		 	"type": "esriFieldTypeString", 
+		 	"alias": "Zonas involucradas", 
+		 	"length": 255
+		 },
+		{
+			"name": "EROFLUV",
+		 	"type": "esriFieldTypeString", 
+		 	"alias": "Tipo de erosión fluvial", 
+		 	"length": 255
+		 },
+		{
+			"name": "EROFLUVLON",
+		 	"type": "esriFieldTypeDouble", 
+		 	"alias": "Longitud erosionada (m)"
+		 },
+		{
+			"name": "EROFLUVMRG",
+		 	"type": "esriFieldTypeString", 
+		 	"alias": "Ámbas margenes", 
+		 	"length": 255
+		 },
+		{
+			"name": "USOTERRFL",
+		 	"type": "esriFieldTypeString", 
+		 	"alias": "Uso del terreno", 
+		 	"length": 255
+		 },
+		{
+			"name": "CARACTAREN",
+		 	"type": "esriFieldTypeString", 
+		 	"alias": "Características del arenamiento", 
+		 	"length": 255
+		 },
+		{
+			"name": "EFECTAREN",
+		 	"type": "esriFieldTypeString", 
+		 	"alias": "Efectos o daños principales", 
+		 	"length": 255
+		 },
+		{
+			"name": "AREAAREN",
+		 	"type": "esriFieldTypeDouble", 
+		 	"alias": "Extensión o área afectada (m2)"
+		 },
+		{
+			"name": "OTCARENC",
+		 	"type": "esriFieldTypeString", 
+		 	"alias": "Otras características encontradas", 
+		 	"length": 255
+		 }
+],
+"features": []
+}

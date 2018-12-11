@@ -1,0 +1,167 @@
+{
+  "displayFieldName": "",
+  "fieldAliases": {
+    "FICHA"		: "Ficha N°",
+	"LAT"		: "Latitud (°)",
+	"LON"		: "Longitud (°)",
+	"NOR"		: "Coordenada Norte UTM (m)",
+	"EST"		: "Coordenada Este UTM (m)",
+	"ZONA"		: "Zona Utm",
+	"ALT"		: "Altitud (msnm)",
+	"FRANJA"	: "Franja N°",
+	"HOJA"		: "Hoja / Cuadrangulo",
+	"DEPA"		: "Región",
+	"PROV"		: "Provincia",
+	"DIST"		: "Distrito",
+	"UBICACION"	: "Localidad / Lugar",
+	"CUENCA"	: "Cuenca hidrográfica",
+	"FECHA"		: "Fecha",
+	"RESPONS"	: "Efectuado por",
+	"PELIGTIPO"	: "Tipo de peligro",
+	"PELIGNOM"	: "Nombre específico",
+	"PELIGDEN"	: "Denominación",
+	"PG_FACTSIT": "Factores de sitio",
+	"PG_FACTEG"	: "Entorno Geográfico",
+	"PG_FACTANT": "Factores antrópicos"
+  },
+  "geometryType": "esriGeometryPoint",
+  "spatialReference" : {
+    "wkid" : 4326,
+    "latestWkid" : 4326
+  },
+  "fields": [
+    {
+      "name": "OBJECTID",
+      "type": "esriFieldTypeOID",
+      "alias": "objectid"
+    },
+	{
+		"name": "FICHA",
+	 	"type": "esriFieldTypeDouble",
+	  	"alias": "Ficha N°"
+	},
+	{
+		"name": "LAT",
+	 	"type": "esriFieldTypeString",
+	  	"alias": "Latitud (°)",
+	   	"length": 255
+	},
+	{
+		"name": "LON",
+	 	"type": "esriFieldTypeString",
+	  	"alias": "Longitud (°)",
+	   	"length": 255
+	},
+	{
+		"name": "NOR",
+	 	"type": "esriFieldTypeDouble",
+	  	"alias": "Coordenada Norte UTM (m)"
+	},
+	{
+		"name": "EST",
+	 	"type": "esriFieldTypeDouble",
+	  	"alias": "Coordenada Este UTM (m)"
+	},
+	{
+		"name": "ZONA",
+	 	"type": "esriFieldTypeString",
+	  	"alias": "Zona Utm",
+	   	"length": 10
+	},
+	{
+		"name": "ALT",
+	 	"type": "esriFieldTypeDouble",
+	  	"alias": "Altitud (msnm)"
+	},
+	{
+		"name": "FRANJA",
+	 	"type": "esriFieldTypeString",
+	  	"alias": "Franja N°",
+	   	"length": 10
+	},
+	{
+		"name": "HOJA",
+	 	"type": "esriFieldTypeString",
+	  	"alias": "Hoja / Cuadrangulo",
+	   	"length": 10
+	},
+	{
+		"name": "DEPA",
+	 	"type": "esriFieldTypeString",
+	  	"alias": "Región",
+	   	"length": 255
+	},
+	{
+		"name": "PROV",
+	 	"type": "esriFieldTypeString",
+	  	"alias": "Provincia",
+	   	"length": 255
+	},
+	{
+		"name": "DIST",
+	 	"type": "esriFieldTypeString",
+	  	"alias": "Distrito",
+	   	"length": 255
+	},
+	{
+		"name": "UBICACION",
+	 	"type": "esriFieldTypeString",
+	  	"alias": "Localidad / Lugar",
+	   	"length": 255
+	},
+	{
+		"name": "CUENCA",
+	 	"type": "esriFieldTypeString",
+	  	"alias": "Cuenca hidrográfica",
+	   	"length": 255
+	},
+	{
+		"name": "FECHA",
+	 	"type": "esriFieldTypeDate",
+	  	"alias": "Fecha"
+	},
+	{
+		"name": "RESPONS",
+	 	"type": "esriFieldTypeString",
+	  	"alias": "Efectuado por",
+	   	"length": 255
+	},
+	{
+		"name": "PELIGTIPO",
+	 	"type": "esriFieldTypeString",
+	  	"alias": "Tipo de peligro",
+	   	"length": 20
+	},
+	{
+		"name": "PELIGNOM",
+	 	"type": "esriFieldTypeString",
+	  	"alias": "Nombre específico",
+	   	"length": 255
+	},
+	{
+		"name": "PELIGDEN",
+	 	"type": "esriFieldTypeString",
+	  	"alias": "Denominación",
+	   	"length": 100
+	},
+	{
+		"name": "PG_FACTSIT",
+	 	"type": "esriFieldTypeString",
+	  	"alias": "Factores de sitio",
+	   	"length": 255
+	},
+	{
+		"name": "PG_FACTEG",
+	 	"type": "esriFieldTypeString",
+	  	"alias": "Entorno Geográfico",
+	   	"length": 255
+	},
+	{
+		"name": "PG_FACTANT",
+	 	"type": "esriFieldTypeString",
+	  	"alias": "Factores antrópicos",
+	   	"length": 255
+	}
+  ],
+  "features": []
+}

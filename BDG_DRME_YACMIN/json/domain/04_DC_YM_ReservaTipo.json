@@ -1,0 +1,26 @@
+{
+  "codedValues": [
+    {
+      "code": "Probada",
+      "name": "Probada"
+    },
+    {
+      "code": "Probable",
+      "name": "Probable"
+    },
+    {
+      "code": "Otros",
+      "name": "Otros"
+    },
+    {
+      "code": "Probada,Probable",
+      "name": "Probada y Probable"
+    },
+    {
+      "code": "Probada+Probable",
+      "name": "Probada + Probable"
+    }
+  ],
+  "name": "04_DC_YM_ReservaTipo",
+  "type": "codedValue"
+}

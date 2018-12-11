@@ -1,0 +1,46 @@
+{
+  "codedValues": [
+    {
+      "code": 23,
+      "name": "Excavaciones, voladuras (cortes en el pie de ladera o talud)"
+    },
+    {
+      "code": 24,
+      "name": "Sobrecargas (rellenos: en la corona de un talud)"
+    },
+    {
+      "code": 25,
+      "name": "Ocupación inadecuado del suelo por el hombre (áreas vulnerables)"
+    },
+    {
+      "code": 26,
+      "name": "Desembalse violento de presas o lagunas naturales"
+    },
+    {
+      "code": 27,
+      "name": "Aprovechamiento de recursos hídricos"
+    },
+    {
+      "code": 28,
+      "name": "Deforestación o sobrepastoreo de laderas"
+    },
+    {
+      "code": 29,
+      "name": "Mal sistema de riego; uso inadecuado de agua de escorrentía"
+    },
+    {
+      "code": 30,
+      "name": "Colapso de alguna estructura inducida por sismo"
+    },
+    {
+      "code": 31,
+      "name": "Actividad minera"
+    },
+    {
+      "code": 32,
+      "name": "Otro factor"
+    }
+  ],
+  "name": "04_DC_PG_FactAntropico",
+  "type": "codedValue"
+}

@@ -1,0 +1,159 @@
+{
+  "displayFieldName": "",
+  "fieldAliases": {
+	"FICHA_AGL"		: "Ficha N°",
+	"LITOLOGIA"	    : "Litología",
+	"LITOPRED"	    : "Litología predominante",
+	"LITOFORM"	    : "Formación/Grupo",
+	"LITOUNICOMP"	: "Unidad/Complejo",
+	"DEPSUPERF"	    : "Depósitos superficiales",
+	"GRADOSAT"	    : "Grado de saturación",
+	"GNBLOQUE"	    : "Bloques",
+	"GNBOLON"	    : "Bolon",
+	"GNGRAVA"	    : "Grava",
+	"GNARENA"	    : "Arena",
+	"GNLIMO"	    : "Limo",
+	"GNARCILLA"	    : "Arcilla",
+	"SUELCOHE"	    : "Suelos cohesivos (Consistencia)",
+	"SUELOGRAN"	    : "Suelos granulares (Compacidad)",
+	"SUELOESP"	    : "Espesor",
+	"DISCONROCA"	: "Estructuras y discontinuidades en las rocas",
+	"FAMPRIN"	    : "Familias principales",
+	"INTENSFRAC"	: "Intensidad de fracturamiento",
+	"GRADOALT"	    : "Grado de alteración",
+	"SUELOBS"	    : "Observaciones"
+  },
+   "geometryType": "esriGeometryPoint",
+   "spatialReference" : {
+    "wkid" : 4326,
+    "latestWkid" : 4326
+  },
+   "fields": [
+   	{
+      "name": "OBJECTID",
+      "type": "esriFieldTypeOID",
+      "alias": "objectid"
+    },
+	 {
+ 		"name": "FICHA_AGL",
+ 	 	"type": "esriFieldTypeString",
+ 	  	"alias": "Ficha N°", 
+ 	  	"length": 255
+ 	},
+	{
+ 		"name": "LITOLOGIA",
+ 		"type": "esriFieldTypeString",
+ 	  	"alias": "Litología", 
+ 	  	"length": 255
+ 	},
+	{
+ 		"name": "LITOPRED",
+ 		"type": "esriFieldTypeString",
+ 	  	"alias": "Litología predominante", 
+ 	  	"length": 255
+ 	},
+	{
+ 		"name": "LITOFORM",
+ 		"type": "esriFieldTypeString",
+ 	  	"alias": "Formación/Grupo", 
+ 	  	"length": 255
+ 	},
+	{
+ 		"name": "LITOUNICOMP",
+ 		"type": "esriFieldTypeString",
+ 	  	"alias": "Unidad/Complejo", 
+ 	  	"length": 255
+ 	},
+	{
+ 		"name": "DEPSUPERF",
+ 		"type": "esriFieldTypeString",
+ 	  	"alias": "Depósitos superficiales", 
+ 	  	"length": 255
+ 	},
+	{
+ 		"name": "GRADOSAT",
+ 		"type": "esriFieldTypeString",
+ 	  	"alias": "Grado de saturación", 
+ 	  	"length": 255
+ 	},
+	{
+ 		"name": "GNBLOQUE",
+ 		"type": "esriFieldTypeDouble",
+ 	  	"alias": "Bloques"
+ 	},
+	{
+ 		"name": "GNBOLON",
+ 		"type": "esriFieldTypeDouble",
+ 	  	"alias": "Bolon."
+ 	},
+	{
+ 		"name": "GNGRAVA",
+ 		"type": "esriFieldTypeDouble",
+ 	  	"alias": "Grava"
+ 	},
+	{
+ 		"name": "GNARENA",
+ 		"type": "esriFieldTypeDouble",
+ 	  	"alias": "Arena"
+ 	},
+	{
+ 		"name": "GNLIMO",
+ 		"type": "esriFieldTypeDouble",
+ 	  	"alias": "Limo"
+ 	},
+	{
+ 		"name": "GNARCILLA",
+ 		"type": "esriFieldTypeDouble",
+ 	  	"alias": "Arcilla"
+ 	},
+	{
+ 		"name": "SUELCOHE",
+ 		"type": "esriFieldTypeString",
+ 	  	"alias": "Suelos cohesivos (Consistencia)", 
+ 	  	"length": 255
+ 	},
+	{
+ 		"name": "SUELOGRAN",
+ 		"type": "esriFieldTypeString",
+ 	  	"alias": "Suelos granulares (Compacidad)", 
+ 	  	"length": 255
+ 	},
+	{
+ 		"name": "SUELOESP",
+ 		"type": "esriFieldTypeDouble",
+ 	  	"alias": "Espesor"
+ 	},
+	{
+ 		"name": "DISCONROCA",
+ 		"type": "esriFieldTypeString",
+ 	  	"alias": "Estructuras y discontinuidades en las rocas", 
+ 	  	"length": 255
+ 	},
+	{
+ 		"name": "FAMPRIN",
+ 		"type": "esriFieldTypeString",
+ 	  	"alias": "Familias principales", 
+ 	  	"length": 255
+ 	},
+	{
+ 		"name": "INTENSFRAC",
+ 		"type": "esriFieldTypeString",
+ 	  	"alias": "Intensidad de fracturamiento", 
+ 	  	"length": 255
+ 	},
+	{
+ 		"name": "GRADOALT",
+ 		"type": "esriFieldTypeString",
+ 	  	"alias": "Grado de alteración", 
+ 	  	"length": 255
+ 	},
+	{
+ 		"name": "SUELOBS",
+ 		"type": "esriFieldTypeString",
+ 	  	"alias": "Observaciones", 
+ 	  	"length": 255
+ 	}
+ ],
+ "features": []
+}
+

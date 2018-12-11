@@ -1,0 +1,42 @@
+{
+  "codedValues": [
+    {
+      "code": 1,
+      "name": "Caida"
+    },
+    {
+      "code": 2,
+      "name": "Vuelco"
+    },
+    {
+      "code": 3,
+      "name": "Flujo"
+    },
+    {
+      "code": 4,
+      "name": "Propagación Lateral"
+    },
+    {
+      "code": 5,
+      "name": "Reptacion"
+    },
+    {
+      "code": 6,
+      "name": "Deslizamiento"
+    },
+    {
+      "code": 7,
+      "name": "Mov. Complejo"
+    },
+    {
+      "code": 9,
+      "name": "Peligro geohidrológico"
+    },
+    {
+      "code": 8,
+      "name": "Otro tipo de peligro"
+    }
+  ],
+  "name": "04_DC_PeligroTipo",
+  "type": "codedValue"
+}

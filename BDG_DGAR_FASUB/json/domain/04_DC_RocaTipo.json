@@ -1,0 +1,18 @@
+{
+ "type": "codedValue", 
+ "name": "04_DC_RocaTipo", 
+ "codedValues": [
+
+
+ 
+
+{"code":  "RI" , "name": "Ignea" },
+
+{"code":  "RV" , "name": "Volcánica" },
+
+{"code":  "RM" , "name": "Metamorfica" },
+
+{"code":  "RS" , "name": "Sedimentaria" },
+
+{"code":  "DepSup" , "name": "Dep. Superficial" } ]
+}

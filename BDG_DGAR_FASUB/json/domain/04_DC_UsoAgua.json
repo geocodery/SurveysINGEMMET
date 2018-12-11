@@ -1,0 +1,28 @@
+{
+ "type": "codedValue", 
+ "name": "04_DC_UsoAgua", 
+ "codedValues": [
+
+
+ 
+
+{"code":  "Agricola" , "name": "Agricola" },
+
+{"code":  "Agropecuario" , "name": "Agropecuario" },
+
+{"code":  "Balneológico" , "name": "Balneológico" },
+
+{"code":  "ConsumoHumano" , "name": "Consumo Humano" },
+
+{"code":  "Ganadero" , "name": "Ganadero" },
+
+{"code":  "Industrial" , "name": "Industrial" },
+
+{"code":  "Minero" , "name": "Minero" },
+
+{"code":  "Piscicultura" , "name": "Piscicultura" },
+
+{"code":  "OtrosUsos" , "name": "Otros Usos" },
+
+{"code":  "Ninguno" , "name": "Ninguno" } ]
+}

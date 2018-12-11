@@ -1,0 +1,22 @@
+{
+  "codedValues": [
+    {
+      "code": 1,
+      "name": "Talud rocoso fracturado"
+    },
+    {
+      "code": 2,
+      "name": "(Roca / Suelo)"
+    },
+    {
+      "code": 3,
+      "name": "Sedimento"
+    },
+    {
+      "code": 4,
+      "name": "Bloques acum. En madera"
+    }
+  ],
+  "name": "04_DC_Arranque",
+  "type": "codedValue"
+}

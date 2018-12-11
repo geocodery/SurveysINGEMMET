@@ -1,0 +1,14 @@
+{
+ "type": "codedValue", 
+ "name": "04_DC_Zona", 
+ "codedValues": [
+
+
+ 
+
+{"code":  "17" , "name": "17S" },
+
+{"code":  "18" , "name": "18S" },
+
+{"code":  "19" , "name": "19S" } ]
+}

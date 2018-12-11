@@ -1,0 +1,81 @@
+{
+  "displayFieldName": "",
+  "features": [
+  ],
+  "fieldAliases": {
+    "objectid": "objectid",
+    "GlobalID": "globalid",
+    "CODE": "Código",
+    "FOTODESC": "Descripción",
+    "FOTONOM": "Título",
+    "FOTOTIPO": "Tipo Foto",
+    "UNIDAD_FT": "UNIDAD_FT",
+    "ParentGlobalID": "parentglobalid",
+    "X": "X",
+    "Y": "Y"
+  },
+  "fields": [
+    {
+      "alias": "objectid",
+      "name": "objectid",
+      "type": "esriFieldTypeOID"
+    },
+    {
+      "alias": "GlobalID",
+      "length": 38,
+      "name": "globalid",
+      "type": "esriFieldTypeGlobalID"
+    },
+    {
+      "alias": "UNIDAD_FT",
+      "length": 255,
+      "name": "UNIDAD_FT",
+      "type": "esriFieldTypeString"
+    },
+    {
+      "alias": "Código",
+      "length": 255,
+      "name": "CODE",
+      "type": "esriFieldTypeString"
+    },
+    {
+      "alias": "Título",
+      "length": 255,
+      "name": "FOTONOM",
+      "type": "esriFieldTypeString"
+    },
+    {
+      "alias": "Descripción",
+      "length": 255,
+      "name": "FOTODESC",
+      "type": "esriFieldTypeString"
+    },
+    {
+      "alias": "Tipo Foto",
+      "length": 255,
+      "name": "FOTOTIPO",
+      "type": "esriFieldTypeString"
+    },
+    {
+      "alias": "ParentGlobalID",
+      "length": 38,
+      "name": "parentglobalid",
+      "type": "esriFieldTypeGUID"
+    },
+    {
+      "alias": "X",
+      "name": "X",
+      "type": "esriFieldTypeDouble"
+    },
+    {
+      "alias": "Y",
+      "name": "Y",
+      "type": "esriFieldTypeDouble"
+    }
+  ],
+  "geometryType": "esriGeometryPoint",
+  "spatialReference": {
+    "latestWkid": 4326,
+    "wkid": 4326
+  }
+}

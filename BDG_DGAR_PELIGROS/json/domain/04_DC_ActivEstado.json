@@ -1,0 +1,18 @@
+{
+  "codedValues": [
+    {
+      "code": 1,
+      "name": "Activo"
+    },
+    {
+      "code": 2,
+      "name": "Estabilizado"
+    },
+    {
+      "code": 3,
+      "name": "Reactivado"
+    }
+  ],
+  "name": "04_DC_ActivEstado",
+  "type": "codedValue"
+}

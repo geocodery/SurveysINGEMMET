@@ -1,0 +1,12 @@
+{
+ "type": "codedValue", 
+ "name": "04_DC_U_Sal", 
+ "codedValues": [
+
+
+ 
+
+{"code":  "1" , "name": "PSU" },
+
+{"code":  "2" , "name": "mg/l" } ]
+}

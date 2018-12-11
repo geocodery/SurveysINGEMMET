@@ -1,0 +1,22 @@
+{
+  "codedValues": [
+    {
+      "code": 1,
+      "name": "Areas carsticas desarrolladas"
+    },
+    {
+      "code": 2,
+      "name": "Dunas o campo de dunas fósiles"
+    },
+    {
+      "code": 3,
+      "name": "Vestigios de cursos de agua o meándros abandonados"
+    },
+    {
+      "code": 4,
+      "name": "Otro"
+    }
+  ],
+  "name": "04_DC_ProcGeolAntiguo",
+  "type": "codedValue"
+}

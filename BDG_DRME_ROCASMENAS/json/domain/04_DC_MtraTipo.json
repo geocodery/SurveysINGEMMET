@@ -1,0 +1,16 @@
+{
+ "type": "codedValue", 
+ "name": "04_DC_MtraTipo", 
+ "codedValues": [
+
+
+ 
+
+{"code":  "Mena" , "name": "Mena" },
+
+{"code":  "Otros" , "name": "Otros" },
+
+{"code":  "RocaAlterada" , "name": "Roca alterada" },
+
+{"code":  "RocaInalterada" , "name": "Roca inalterada" } ]
+}

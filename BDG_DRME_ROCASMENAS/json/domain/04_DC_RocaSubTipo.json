@@ -1,0 +1,24 @@
+{
+ "type": "codedValue", 
+ "name": "04_DC_RocaSubTipo", 
+ "codedValues": [
+
+
+ 
+
+{"code":  "RI|h" , "name": "Hipoabisales" },
+
+{"code":  "RI|p" , "name": "Plutonicas" },
+
+{"code":  "RI|v" , "name": "Volcanicas" },
+
+{"code":  "RM|me" , "name": "Metamorfica" },
+
+{"code":  "RS|c" , "name": "Carbonatadas" },
+
+{"code":  "RS|k" , "name": "Clasticos" },
+
+{"code":  "RS|q" , "name": "Quimicas" },
+
+{"code":  "RS|e" , "name": "Sin Tipo" } ]
+}
